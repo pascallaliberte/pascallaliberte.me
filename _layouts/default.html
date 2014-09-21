@@ -5,7 +5,12 @@
 {% if page %}
   {% assign url = site.redirect_to | append: page.url | replace:'index.html','' %}
 {% endif %}
-<html><head><link rel="canonical" href="{{ url }}"><meta http-equiv="refresh" content="{% if is_home %}3{% else %}0{% endif %}; url={{ url }}"></head><body>
+<html>
+<head>
+  <link rel="canonical" href="{{ url }}">
+  <meta http-equiv="refresh" content="{% if is_home %}3{% else %}0{% endif %}; url={{ url }}">
+</head>
+<body>
 {% if is_home %}
 <script src="{{ site.baseurl}}/a/bower_components/jquery/jquery.min.js"></script>
 <script>
