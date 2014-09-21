@@ -1,5 +1,28 @@
 <!DOCTYPE html>
+{% if paginator.page == 1 %}
+  {% assign is_home = true %}
+{% endif %}
 {% if page %}
   {% assign url = site.redirect_to | append: page.url | replace:'index.html','' %}
 {% endif %}
-<html><head><link rel="canonical" href="{{ url }}"><meta http-equiv="refresh" content="0; url={{ url }}"></head><body></body></html>
+<html><head><link rel="canonical" href="{{ url }}"><meta http-equiv="refresh" content="{% if is_home %}3{% else %}0{% endif %}; url={{ url }}"></head><body>
+{% if is_home %}
+<script src="{{ site.baseurl}}/a/bower_components/jquery/jquery.min.js"></script>
+<script>
+(function($){
+  $.ajax({
+    url: "http://ajaxhttpheaders.appspot.com",
+    dataType: 'jsonp',
+    success: function(headers) {
+        language = headers['Accept-Language'];
+        if (language.match(/{{ site.alt_lang }}/)) {
+          document.location.replace('{{ site.redirect_to_alt_lang }}/');
+        } else {
+          document.location.replace('{{ site.redirect_to }}/');
+        }
+    }
+  });
+})(jQuery);
+</script>
+{% endif %}
+</body></html>
