@@ -10,3 +10,6 @@ excerpt_separator: "<!-- MORE -->"
 baseurl:
 gems:
   - jekyll-sitemap
+destination: public
+exclude: [public, Gemfile, Gemfile.lock, Rakefile, README.md]
+

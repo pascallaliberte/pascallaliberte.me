@@ -1,0 +1,139 @@
+// Reset & Mixins ———————————————————————————— •
+// ——————————————————————————————————————————— •
+@charset "UTF-8";
+
+@import
+  'globals/mixins',
+  'globals/reset';
+
+
+// Base Styles ——————————————————————————————— •
+// ——————————————————————————————————————————— •
+
+html {
+  font-size: 18px;
+}
+
+body {
+  @include border-box;
+  @include font-smoothing(antialiased);
+  background-color: $color-background;
+  color: $color-text;
+  font-family: $font-body;
+  font-size: 1rem;
+  line-height: 1.5rem;
+  position: relative;
+}
+
+a {
+  color: $color-link;
+  margin: -.2rem;
+  padding: .2rem;
+  text-decoration: none;
+
+  &:visited { color: $color-link-visited; }
+  &:hover { color: $color-link-hover; text-decoration: underline; }
+  &:active { color: $color-text; }
+}
+
+.content {
+  @include border-box;
+  @include clearfix;
+  margin: 0 auto;
+  position: relative;
+  width: 100%;
+}
+
+h1, h2 {
+  font-family: $font-headings;
+}
+
+h1 {
+  font-size: 3rem;
+  line-height: 3.2rem;
+  font-weight: 100;
+}
+
+h2 {
+  font-size: 1.5rem;
+  line-height: 1.9rem;
+  font-weight: normal;
+}
+
+h3 {
+  font-size: 1.2rem;
+}
+
+.content {
+  padding: 6rem 0.8rem;
+
+  h1 {
+    margin-bottom: 2.5rem;
+  }
+  h2 {
+    margin-top: 3rem;
+    margin-bottom: 0.5rem;
+  }
+  p {
+    margin-bottom: 1rem;
+  }
+
+  ul {
+    padding-left: 1.6rem;
+    margin-bottom: 1rem;
+  }
+}
+
+// Base Styles: Tablets —————————————————————— •
+// ——————————————————————————————————————————— •
+
+@include responsive-break-point(640px) {
+  body {
+    margin: 3rem;
+    border: 1px $color-lines solid;
+    -webkit-border-radius: 2rem;
+    -moz-border-radius: 2rem;
+    border-radius: 2rem;
+  }
+  .content {
+    padding: 10rem 2rem;
+    max-width: 36rem;
+    margin: 0 auto;
+    ul {
+      padding-left: 0;
+    }
+  }
+}
+
+// Base Styles: Desktop —————————————————————— •
+// ——————————————————————————————————————————— •
+
+@include responsive-break-point(800px) {
+
+}
+
+
+// Fix: iOS Font Sizing —————————————————————— •
+// ——————————————————————————————————————————— •
+
+@media screen and (max-device-width: 480px) {
+  html {
+    -webkit-text-size-adjust: 100%;
+        -ms-text-size-adjust: 100%;
+  }
+}
+
+// Components ———————————————————————————————— •
+// ——————————————————————————————————————————— •
+
+@import
+  'components/navigation',
+  'components/footer';
+
+
+// Pages ————————————————————————————————————— •
+// ——————————————————————————————————————————— •
+
+@import
+  'pages/home',
+  'pages/update';

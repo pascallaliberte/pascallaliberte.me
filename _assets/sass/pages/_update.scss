@@ -1,0 +1,40 @@
+// About ————————————————————————————————————— •
+// ——————————————————————————————————————————— •
+
+.update {
+  ol {
+    margin-bottom: 1em;
+  }
+}
+
+.update-entry-demo {
+  display: none;
+}
+
+// About: Desktop ———————————————————————————— •
+// ——————————————————————————————————————————— •
+
+@include responsive-break-point(1024px) {
+  .update-entry {
+    position: relative;
+    max-width: 18rem;
+    margin-left: -3rem;
+  }
+  .update-entry-demo {
+    display: block;
+    position: absolute;
+    right: 0em;
+    margin-right: -476px;
+    top: 0;
+    width: 456px;
+  }
+  .update-entry-demo-alt {
+    display: none;
+  }
+}
+
+@include responsive-break-point(1200px) {
+  .update-entry {
+    margin-left: 0;
+  }
+}
