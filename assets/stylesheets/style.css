@@ -123,7 +123,7 @@ h3 {
   font-size: 1.2rem; }
 
 .content {
-  padding: 6rem 0.8rem; }
+  padding: 10vh 0.8rem; }
   .content h1 {
     margin-bottom: 2.5rem; }
   .content h2 {
@@ -144,7 +144,7 @@ h3 {
     border-radius: 2rem; }
 
   .content {
-    padding: 10rem 2rem;
+    padding: 30vh 2rem;
     max-width: 36rem;
     margin: 0 auto; }
     .content ul {
@@ -193,23 +193,6 @@ h3 {
 .home-intro {
   margin-top: 1em;
   font-size: 2rem; }
-
-.home-closing {
-  margin-top: 4em;
-  font-size: 1.2rem; }
-
-.home-additional-info h2 {
-  margin-bottom: 1rem; }
-
-.home {
-  position: relative; }
-
-.home-latest-update {
-  position: absolute;
-  top: 2em;
-  right: 2em;
-  display: inline-block;
-  text-align: right; }
 
 .update ol {
   margin-bottom: 1em; }
