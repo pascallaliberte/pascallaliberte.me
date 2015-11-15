@@ -2,7 +2,7 @@ name: Pascal Laliberté
 author: Pascal Laliberté
 url: http://pascallaliberte.me
 markdown: kramdown
-highlighter: true
+highlighter: pygments
 permalink: /:categories/:year-:month-:title/
 paginate: 5
 paginate_path: "page:num"
@@ -12,4 +12,3 @@ gems:
   - jekyll-sitemap
 destination: public
 exclude: [public, Gemfile, Gemfile.lock, Rakefile, README.md]
-
