@@ -4,17 +4,16 @@ class: home
 layout: default
 ---
 
-Hello,
+Hello, I'm Pascal Laliberté.
+{: .home-intro }
 
-I'm **Pascal Laliberté**. Thanks for dropping by.
+## My main job and my sideline
 
-I work at the University of Ottawa's Faculty of Medicine, doing e-learning. My background is in design, web development, and personal development too.
+Learn.med is the Faculty of Medicine's online learning platform. It offers online courses to practicing physicians, medical residents, and students of the MD program. We use xAPI to power our learning analytics and we've built a simple LMS to house our courses.
 
-Learn.med is the Faculty of Medicine's online learning platform. It offers short online courses for practicing physicians to better their knowledge and get credits, for medical residents, and for students working to get their medical degree. We use xAPI to power our learning analytics and we've built a simple LMS to house our courses.
+I also offer a service called Popup LMS. It's a simple way to get a few courses and quizzes online, and get detailed and customized reports on the progress of your learners.
 
-On my own time, I offer a service called Popup LMS. It's a simple way to get a few courses and quizzes online, and get detailed and customized reports on the progress of your learners. For a fixed price and for a run of a few months, everything is taken care of: you'll know your course is getting followed, and your learners will be delighted at how smooth the experience was. No fuss, no fluff, no headache. If you have a place for your course but you just want custom reporting from xAPI and from an LRS, I can do that for you too. Get in touch.
-
-Before getting into e-learning, I started by doing web work, doing front-end programming, information design, user interface design, building sites and apps and doing customer support. Caring for the user is central to my work. And here's what else I care about:
+## I like to think deeply, doing the right things...
 
 I value depth of thought, intention, getting to the bottom of things and doing the right thing.
 
@@ -24,7 +23,11 @@ In relationships, I value authenticity, complicity, openness and truth.
 
 And I value surpassing myself, taking the lead and tending to others.
 
+## I write a blog on modern Christianity
+
 In this care for growth and relationships and depth, I'm drawn to Christianity. Deeply skeptical, I believe. Learning to bridge modernity and faith has been good for me, and I believe there's no higher urgency for my fellow christians to do the same. And so I write a blog on [Leading a modern life while living the Gospel][faithblog], sharing the ways I see in achieving both, fully. Let's all grow towards more maturity, and to a more subtle faith. Here's the list of articles:
+
+## Maybe these questions will be helpful
 
 Before you go, here are some questions for you. I pose myself these questions regularly, which help me stay true, and help me make good choices. I hope they're useful to you too:
 
