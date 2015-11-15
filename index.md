@@ -9,7 +9,7 @@ Hi, I'm Pascal Laliberté. Thanks for dropping by.
 
 ## My work: University of Ottawa and Popup LMS
 
-[Learn.med][learnmed] is the online learning platform for the University of Ottawa's Faculty of Medicine. It offers online courses to practicing physicians, medical residents, and students of the MD program. We use xAPI to power our learning analytics and we've built a simple LMS to house our courses. I think it's pretty neat what we've done.
+[Learn.med][learnmed] is the online learning platform for the University of Ottawa's Faculty of Medicine. It offers online courses to practicing physicians, medical residents, and students of the MD program. We use xAPI to power our learning analytics and we've built a simple LMS to house our courses. I think what we've done is pretty neat.
 
 On the side, I also offer a service called [Popup LMS][popuplms]. It's a simple way to get a few courses and quizzes online, and get detailed and customized reports on the progress of your learners. If you're looking to take a break from a Learning Managements System you don't love, I can help you to run your course for a few months in a place that's simple, clear, and worry-free. [Check it out][popuplms].
 
@@ -48,10 +48,12 @@ Here are a few articles from the blog:
 
 ## In closing, two questions I think are helpful
 
-Before you go, let me share with you two questions I pose myself regularly. I find they help me stay true, and they help me make good choices. I hope they're useful to you too:
+These questions help me stay true, and they help me make good choices. I hope they're useful to you too:
 
-1. **What are you so convinced of?** Any time you feel conflicted, agitated, or out of options, inspect and identify your [mental models, those invisible lenses through which we distort how we see reality][mentalmodels]. Make it a habit to put your finger on your mental models, so you drive them and they don't drive you.
-2. **What are you going to be celebrating?** Before a date you pick in the nest few months, what's the one thing you will be able to say you'll have done, at the expense of everything else, to be celebrating? And then what would be the second from that list, and the third. I call these [will-have-done lists][havedonelists], and I find these essential to giving my best decisions my best shot.
+1. **What am I so convinced of?** Any time I feel conflicted, agitated, or out of options, I inspect and identify my [mental models, those invisible lenses through which we distort how we see reality][mentalmodels]. I make it a habit to put my finger on my mental models, so I drive them and they don't drive me.
+2. **What will I be celebrating?** Instead of writing lists of things to do, or of things I want to achieve, I write lists of things I'll *have achieved* in a future place in time. I call these [will-have-done lists][havedonelists]. That subtle change of position helps me visualize what's essential, what's central and what to ship first, and also what's a distraction and what to ignore until after that date.
+
+So yeah, mental models and will-have-done lists. Hope they help.
 
 [mentalmodels]: http://by.pascallaliberte.me/2014-01-intro-to-mental-models/
 [havedonelists]: http://by.pascallaliberte.me/2013-12-writing-objectives-you-will-accomplish/
