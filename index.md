@@ -32,7 +32,7 @@ And I value surpassing myself, taking the lead and tending to others.
 
 ## A blog on modern Christianity
 
-In this care for growth and relationships and depth, I continue to be drawn to Christianity. Although deeply skeptical, I believe. Learning to bridge modernity and faith has been good for me, and so I write a blog on [Leading a modern life while living the Gospel][faithblog], sharing the ways for achieving both, fully. Let's grow towards more maturity, and to a more subtle faith.
+In this care for growth and relationships and depth, I continue to be drawn to Christianity. Although deeply skeptical, I joyfully believe. Learning to bridge modernity and faith has been good for me, and so I write a blog on [Leading a modern life while living the Gospel][faithblog], sharing the ways for achieving both, fully. Let's grow towards more maturity, and to a more subtle faith.
 
 Here are a few articles from the blog:
 
