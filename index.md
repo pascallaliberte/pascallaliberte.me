@@ -61,6 +61,6 @@ So yeah, mental models and will-have-done lists. Hope they help.
 
 ## Thanks for reading
 
-What about you? What do you care about? What are you working on? What are your tricks? I'd love to find out! [You can find me on Twitter at @pascallaliberte][twitter].
+*What about you? What do you care about? What are you working on? What are your tricks? I'd love to find out! [You can find me on Twitter at @pascallaliberte][twitter].*
 
 [twitter]: https://twitter.com/pascallaliberte
