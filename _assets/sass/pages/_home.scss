@@ -13,11 +13,18 @@
     display: block;
     border-top: 1px $color-lines solid;
   }
+
+  ol, ul {
+    margin-bottom: 2em;
+    margin-left: 2rem;
+  }
+  li {
+  }
 }
 
 .home-intro {
   margin-top: 1em;
-  font-size: 1.8rem;
+  font-size: 2rem;
 }
 
 .home-closing {

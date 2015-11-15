@@ -4,18 +4,23 @@ class: home
 layout: default
 ---
 
-Hello, I'm Pascal Laliberté.
+Hi, I'm Pascal Laliberté. Thanks for dropping by.
 {: .home-intro }
 
-## My main job and my sideline
+## My work: University of Ottawa and Popup LMS
 
-Learn.med is the Faculty of Medicine's online learning platform. It offers online courses to practicing physicians, medical residents, and students of the MD program. We use xAPI to power our learning analytics and we've built a simple LMS to house our courses.
+[Learn.med][learnmed] is the online learning platform for the University of Ottawa's Faculty of Medicine. It offers online courses to practicing physicians, medical residents, and students of the MD program. We use xAPI to power our learning analytics and we've built a simple LMS to house our courses. I think it's pretty neat what we've done.
 
-I also offer a service called Popup LMS. It's a simple way to get a few courses and quizzes online, and get detailed and customized reports on the progress of your learners.
+On the side, I also offer a service called [Popup LMS][popuplms]. It's a simple way to get a few courses and quizzes online, and get detailed and customized reports on the progress of your learners. If you're looking to take a break from a Learning Managements System you don't love, I can help you to run your course for a few months in a place that's simple, clear, and worry-free. [Check it out][popuplms].
 
-## I like to think deeply, doing the right things...
+[learnmed]: https://learn.med.uottawa.ca/
+[popuplms]: http://popuplms.com
 
-I value depth of thought, intention, getting to the bottom of things and doing the right thing.
+*In what I do, I care first about the person using the product. Everything, to me, is about doing what's right for the user. If that's central to how you work too, [let's chat][twitter].*
+
+## I'm kind of a deep guy. Here's what I value the most
+
+I value being intentional and thorough, getting to the bottom of things and doing the right thing.
 
 I value starting small, iterating, doing what matters, betting on the long-haul and respecting the natural rhythm of things.
 
@@ -23,19 +28,37 @@ In relationships, I value authenticity, complicity, openness and truth.
 
 And I value surpassing myself, taking the lead and tending to others.
 
-## I write a blog on modern Christianity
+*What are some of your values? [I'd love to know!][twitter]*
 
-In this care for growth and relationships and depth, I'm drawn to Christianity. Deeply skeptical, I believe. Learning to bridge modernity and faith has been good for me, and I believe there's no higher urgency for my fellow christians to do the same. And so I write a blog on [Leading a modern life while living the Gospel][faithblog], sharing the ways I see in achieving both, fully. Let's all grow towards more maturity, and to a more subtle faith. Here's the list of articles:
+## A blog on modern Christianity
 
-## Maybe these questions will be helpful
+In this care for growth and relationships and depth, I continue to be drawn to Christianity. Although deeply skeptical, I believe. Learning to bridge modernity and faith has been good for me, and so I write a blog on [Leading a modern life while living the Gospel][faithblog], sharing the ways for achieving both, fully. Let's grow towards more maturity, and to a more subtle faith.
 
-Before you go, here are some questions for you. I pose myself these questions regularly, which help me stay true, and help me make good choices. I hope they're useful to you too:
+Here are a few articles from the blog:
 
-* What are you so convinced of? Any time you feel conflicted, agitated, or out of options, inspect and identify your [mental models, those invisible lenses through which we distort how we see reality][mentalmodels]. Make it a habit to put your finger on them.
-* What are you going to be celebrating? Before a date not too far into the future, what's the one thing you will be able to say you'll have done, and none of the others, to be celebrating? And then what would be the second from that list, and the third. I call these [have-done lists][havedonelists], and I find these essential to giving my best decisions my best shot.
+* [Surviving a crisis of faith and living the Gospel fully](http://by.pascallaliberte.me/2014-04-surviving-a-crisis-of-faith/)
+* [God, cocreator](http://by.pascallaliberte.me/2014-06-god-cocreator/)
+* [Away from the family](http://by.pascallaliberte.me/2014-08-away-from-the-family/)
+* [Go deep in everything](http://by.pascallaliberte.me/2014-12-go-deep-in-everything/)
+* [Free your beliefs](http://by.pascallaliberte.me/2015-04-free-your-beliefs/)
 
-[mentalmodels]: http://by.pascallaliberte.me/
-[havedonelists]: http://by.pascallaliberte.me/
+[faithblog]: http://by.pascallaliberte.me/
 
-Thanks for reading. Keep in touch!
-[twitter][twitter]
+*[Subscribe to get notified of new articles](http://by.pascallaliberte.me/subscribe-follow/)*
+
+## In closing, two questions I think are helpful
+
+Before you go, let me share with you two questions I pose myself regularly. I find they help me stay true, and they help me make good choices. I hope they're useful to you too:
+
+1. **What are you so convinced of?** Any time you feel conflicted, agitated, or out of options, inspect and identify your [mental models, those invisible lenses through which we distort how we see reality][mentalmodels]. Make it a habit to put your finger on your mental models, so you drive them and they don't drive you.
+2. **What are you going to be celebrating?** Before a date you pick in the nest few months, what's the one thing you will be able to say you'll have done, at the expense of everything else, to be celebrating? And then what would be the second from that list, and the third. I call these [will-have-done lists][havedonelists], and I find these essential to giving my best decisions my best shot.
+
+[mentalmodels]: http://by.pascallaliberte.me/2014-01-intro-to-mental-models/
+[havedonelists]: http://by.pascallaliberte.me/2013-12-writing-objectives-you-will-accomplish/
+
+
+## Thanks for reading
+
+To keep in touch, you can [find me on Twitter at @pascallaliberte][twitter].
+
+[twitter]: https://twitter.com/pascallaliberte
