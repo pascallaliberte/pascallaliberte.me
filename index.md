@@ -13,7 +13,7 @@ Hi, I'm Pascal Laliberté. Thanks for dropping by.
 
 On the side, I also offer a service called [Popup LMS][popuplms]. It's a simple way to get a few courses and quizzes online, and get detailed and customized reports on the progress of your learners. If you're looking to take a break from a Learning Managements System you don't love, I can help you to run your course for a few months in a place that's simple, clear, and worry-free. [Check it out][popuplms].
 
-Also, if you're collecting data about learners through xAPI and you need some way to prepare some reports on that data, I can also help you with that. [Give me a shout about xAPI reporting][mailto:pascal@pascallaliberte.me]
+Also, if you're collecting data about learners through xAPI and you need some way to prepare some reports on that data, I can also help you with that. [Give me a shout about xAPI reporting](mailto:pascal@pascallaliberte.me)
 
 [learnmed]: https://learn.med.uottawa.ca/
 [popuplms]: http://popuplms.com
