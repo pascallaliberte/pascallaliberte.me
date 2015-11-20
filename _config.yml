@@ -3,7 +3,7 @@ author: Pascal Laliberté
 url: http://pascallaliberte.me
 markdown: kramdown
 highlighter: pygments
-permalink: /:title/
+permalink: /:categories/:title/
 excerpt_separator: "<!-- MORE -->"
 baseurl:
 gems:
