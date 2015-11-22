@@ -14,9 +14,13 @@
     border-top: 1px $color-lines solid;
   }
 
-  ol, ul {
+  ol {
     margin-bottom: 2em;
     margin-left: 2rem;
+  }
+  ul {
+    margin-bottom: 2em;
+    margin-left: 1rem;
   }
   li {
   }
@@ -24,7 +28,39 @@
 
 .home-intro {
   margin-top: 1em;
-  font-size: 2rem;
+}
+
+.home .home-beliefs {
+  margin-left: 0;
+  padding-left: 0;
+  li {
+    padding-left: 0;
+    margin-bottom: 0.5em;
+    list-style: none;
+    line-height: 1.2em;
+    padding: 0.2em 0.5em;
+    background: transparentize($color-highlight, 0.7);
+    border-radius: 0.3em;
+  }
+}
+
+.home .home-values {
+  margin-left: 0;
+  padding-left: 0;
+  li {
+    padding-left: 0;
+    margin-bottom: 0.5em;
+    list-style: none;
+    line-height: 1.2em;
+  }
+  mark {
+    font-weight: normal;
+    font-style: normal;
+    background: transparentize($color-highlight, 0.7);
+    display: inline-block;
+    padding: 0.1em 0.2em;
+    margin: -0.1em 0;
+  }
 }
 
 // Home: Tablet —————————————————————————————— •
@@ -32,5 +68,13 @@
 
 @include responsive-break-point(640px) {
   .home {
+    .home-beliefs {
+      li {
+        margin-left: -0.5em;
+      }
+    }
+    ul {
+      margin-left: 2rem;
+    }
   }
 }

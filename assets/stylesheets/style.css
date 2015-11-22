@@ -186,14 +186,49 @@ h3 {
   height: 1px;
   display: block;
   border-top: 1px rgba(100, 84, 48, 0.1) solid; }
-.home ol, .home ul {
+.home ol {
   margin-bottom: 2em;
   margin-left: 2rem; }
+.home ul {
+  margin-bottom: 2em;
+  margin-left: 1rem; }
 
 .home-intro {
-  margin-top: 1em;
-  font-size: 2rem; }
+  margin-top: 1em; }
 
+.home .home-beliefs {
+  margin-left: 0;
+  padding-left: 0; }
+  .home .home-beliefs li {
+    padding-left: 0;
+    margin-bottom: 0.5em;
+    list-style: none;
+    line-height: 1.2em;
+    padding: 0.2em 0.5em;
+    background: rgba(253, 234, 152, 0.3);
+    border-radius: 0.3em; }
+
+.home .home-values {
+  margin-left: 0;
+  padding-left: 0; }
+  .home .home-values li {
+    padding-left: 0;
+    margin-bottom: 0.5em;
+    list-style: none;
+    line-height: 1.2em; }
+  .home .home-values mark {
+    font-weight: normal;
+    font-style: normal;
+    background: rgba(253, 234, 152, 0.3);
+    display: inline-block;
+    padding: 0.1em 0.2em;
+    margin: -0.1em 0; }
+
+@media only screen and (min-width: 640px) {
+  .home .home-beliefs li {
+    margin-left: -0.5em; }
+  .home ul {
+    margin-left: 2rem; } }
 .update ol {
   margin-bottom: 1em; }
 

@@ -7,30 +7,39 @@ layout: default
 Hi, I'm Pascal Laliberté. Thanks for dropping by.
 {: .home-intro }
 
-## My work: University of Ottawa, Popup LMS and xAPI reporting
+## My work: University of Ottawa, Popup LMS and xAPI
 
 [Learn.med][learnmed] is the online learning platform for the University of Ottawa's Faculty of Medicine. It offers online courses to practicing physicians, medical residents, and students of the MD program. We use xAPI to power our learning analytics and we've built a simple LMS to house our courses. I think what we've done is pretty neat.
 
-On the side, I also offer a service called [Popup LMS][popuplms]. It's a simple way to get a few courses and quizzes online, and get detailed and customized reports on the progress of your learners. If you're looking to take a break from a Learning Managements System you don't love, I can help you to run your course for a few months in a place that's simple, clear, and worry-free. [Check it out][popuplms].
+On the side, I also offer a service called [Popup LMS][popuplms]. It's a simple way to get a few courses and quizzes online, and get detailed and customized reports on the progress of your learners. If you're looking to take a break from a Learning Managements System you don't love, I can help you to run your course for a few months in a place that's simple, clear, and worry-free.
 
 Also, if you're collecting data about learners through xAPI and you need some way to prepare some reports on that data, I can also help you with that. [Give me a shout about xAPI reporting](mailto:pascal@pascallaliberte.me)
 
 [learnmed]: https://learn.med.uottawa.ca/
 [popuplms]: http://popuplms.com
 
-*In what I do, I care first about the person using the product. Everything, to me, is about doing what's right for the user. If that's central to how you work too, [let's chat][twitter].*
+## Some of my beliefs
 
-## I'm kind of a deep guy. Here's what I value the most
+* There's no greater urgency to [become mature about our choices and to be helpful][postheroism].
+* Most times when we hit an either/or mindset, there's usually a third way.
+* We're complicated people, full of paradoxes. Learning to [bridge those paradoxes helps us be better with others][bridgeparadoxes].
+* There's a way to be profoundly pro-technology and also require it to be centered on the person.
+* It's possible to [go deep in ten things at once][godeepineverything], you just have to know what to put as the central thing and to put the rest of the list in order. One will feed into the other, letting you achieve them all.
+* To-do lists are only a little helpful, because they're usually written as wish-for lists. I found that [writing will-have-done lists][willhavedone] to be the most helpful kind of list to write.
+{: .home-beliefs }
 
-I value being intentional and thorough, getting to the bottom of things and doing the right thing.
+[postheroism]: https://medium.com/@pascallaliberte/the-urgency-of-post-heroism-11e7d920bf49
+[bridgeparadoxes]: http://by.pascallaliberte.me/2014-04-surviving-a-crisis-of-faith/
+[godeepineverything]: http://by.pascallaliberte.me/2014-12-go-deep-in-everything/
+[willhavedone]: http://by.pascallaliberte.me/2013-12-writing-objectives-you-will-accomplish/
 
-I value starting small, iterating, doing what matters, betting on the long-haul and respecting the natural rhythm of things.
+## What I value the most
 
-In relationships, I value authenticity, complicity, openness and truth.
-
-And I value surpassing myself, taking the lead and tending to others.
-
-*What are some of your values? [I'd love to know!][twitter]*
+* I value being <mark>intentional and thorough</mark>, getting to the bottom of things and doing the right thing.
+* I value <mark>starting small, iterating</mark>, doing what matters, betting on the long-haul and respecting the natural rhythm of things.
+* In relationships, I value <mark>authenticity, complicity</mark>, openness and truth.
+* And I value <mark>improving myself</mark> and making a good environment for others to grow in.
+{: .home-values }
 
 ## A blog on modern Christianity
 
@@ -55,7 +64,7 @@ These questions help me stay true, and they help me make good choices. I hope th
 1. **What am I so convinced of?** Any time I feel conflicted, agitated, or that my options are limited, I inspect and identify my [mental models, those invisible lenses through which we distort how we see reality][mentalmodels]. I make it a habit to put my finger on my mental models, so I drive them and they don't drive me. Every time I did this, I was able to solve the right problem, build the right thing, and help people in the way they needed the help. And the second question is:
 2. **What will I be celebrating?** Instead of writing lists of things to do, or of things I want to achieve, I write lists of things I'll *have achieved* in a future place in time. I call these [will-have-done lists][havedonelists]. That subtle change of position helps me visualize what's essential, what's central and what to ship first, and also what's a distraction and what to ignore until after that date.
 
-So yeah, mental models and will-have-done lists. Hope they help.
+Hope they help.
 
 [mentalmodels]: http://by.pascallaliberte.me/2014-01-intro-to-mental-models/
 [havedonelists]: http://by.pascallaliberte.me/2013-12-writing-objectives-you-will-accomplish/
@@ -63,6 +72,6 @@ So yeah, mental models and will-have-done lists. Hope they help.
 
 ## Thanks for reading
 
-*What about you? What do you care about? What are you working on? What are your tricks? I'd love to find out! [You can find me on Twitter at @pascallaliberte][twitter].*
+*What about you? What do you care about? What are you working on? What are your tricks? [Let me know: I'm @pascallaliberte on Twitter][twitter].*
 
 [twitter]: https://twitter.com/pascallaliberte
