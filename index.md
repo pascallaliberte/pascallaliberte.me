@@ -7,16 +7,18 @@ layout: default
 Hi, I'm Pascal Laliberté. Thanks for dropping by.
 {: .home-intro }
 
-## My work: University of Ottawa, Popup LMS and xAPI
+## My work: User Interface Designer and Developer
 
-[Learn.med][learnmed] is the online learning platform for the University of Ottawa's Faculty of Medicine. It offers online courses to practicing physicians, medical residents, and students of the MD program. We use xAPI to power our learning analytics and we've built a simple LMS to house our courses. I think what we've done is pretty neat.
+My whole career, I've been improving user interfaces and shaping the conditions for good design to happen.
 
-On the side, I also offer a service called [Popup LMS][popuplms]. It's a simple way to get a few courses and quizzes online, and get detailed and customized reports on the progress of your learners. If you're looking to take a break from a Learning Managements System you don't love, I can help you to run your course for a few months in a place that's simple, clear, and worry-free.
+Most recently, I've joined the team at [FarmLead][farmlead], a marketplace for farmers to sell their grain, where I'm evolving the design of their product and apps.
 
-Also, if you're collecting data about learners through xAPI and you need some way to prepare some reports on that data, I can also help you with that. [Give me a shout about xAPI reporting](mailto:pascal@pascallaliberte.me)
+Previously, it's at the University of Ottawa that I helped bring design thinking, working on the central web and templates, and designing apps and web sites. At its Faculty of Medicine, I helped direct the creation of [Learn.med][learnmed], an online learning platform.
 
+[farmlead]: http://farmlead.com/
 [learnmed]: https://learn.med.uottawa.ca/
-[popuplms]: http://popuplms.com
+
+Since the start, I've had my hand in both design and implementation. I believe that each one informs the other, for better, more integrated designs.
 
 ## Some of my beliefs
 
