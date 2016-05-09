@@ -2,7 +2,7 @@ name: Pascal Laliberté
 author: Pascal Laliberté
 url: http://pascallaliberte.me
 markdown: kramdown
-highlighter: pygments
+highlighter: rouge
 permalink: /:categories/:title/
 excerpt_separator: "<!-- MORE -->"
 baseurl:
