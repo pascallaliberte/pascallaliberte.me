@@ -9,24 +9,20 @@ Hi, I'm Pascal Laliberté. Thanks for dropping by.
 
 ## My work: User Interface Designer and Developer
 
-My whole career, I've been improving user interfaces and shaping the conditions for good design to happen.
+I've recently joined the team at [FarmLead][farmlead], a marketplace for farmers to sell their grain, where I'm **evolving the design of their product and apps**.
 
-Most recently, I've joined the team at [FarmLead][farmlead], a marketplace for farmers to sell their grain, where I'm evolving the design of their product and apps.
-
-Previously, it's at the University of Ottawa that I helped bring design thinking, working on the central web and templates, and designing apps and web sites. At its Faculty of Medicine, I helped direct the creation of [Learn.med][learnmed], an online learning platform.
+Previously, it's at the **University of Ottawa** that I helped bring user-centered design thinking, working on the **web templates**, and designing apps and web sites. At its Faculty of Medicine, I helped direct the creation of [Learn.med][learnmed], an **online learning platform**.
 
 [farmlead]: http://farmlead.com/
 [learnmed]: https://learn.med.uottawa.ca/
 
-Since the start, I've had my hand in both design and implementation. I believe that each one informs the other, for better, more integrated designs.
-
 ## Some of my beliefs
 
-* There's no greater urgency to [become mature about our choices and to be helpful][postheroism].
+* Design is best when done in tandem with the implementation. Knowing the limits of the material you work with makes for a better design.
+* There's a great urgency to [become mature about our choices and to surpass ourselves][postheroism], so that we know how to handle the complex situations of life.
 * Most times when we hit an either/or mindset, there's usually a third way.
 * We're complicated people, full of paradoxes. Learning to [bridge those paradoxes helps us be better with others][bridgeparadoxes].
-* There's a way to be profoundly pro-technology and also require it to be centered on the person.
-* It's possible to [go deep in ten things at once][godeepineverything], you just have to know what to put as the central thing and to put the rest of the list in order. One will feed into the other, letting you achieve them all.
+thing and to put the rest of the list in order. One will feed into the other, letting you achieve them all.
 * To-do lists are only a little helpful, because they're usually written as wish-for lists. I found that [writing will-have-done lists][willhavedone] to be the most helpful kind of list to write.
 {: .home-beliefs }
 
