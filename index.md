@@ -66,13 +66,16 @@ Here are a few articles from the blog:
 These questions help me stay true, and they help me make good choices. I hope they're useful to you too:
 
 1. **What am I so convinced of?** Any time I feel conflicted, agitated, or that my options are limited, I inspect and identify my [mental models, those invisible lenses through which we distort how we see reality][mentalmodels]. I make it a habit to put my finger on my mental models, so I drive them and they don't drive me. Every time I did this, I was able to solve the right problem, build the right thing, and help people in the way they needed the help. And the second question is:
-2. **What will I be celebrating?** Instead of writing lists of things to do, or of things I want to achieve, I write lists of things I'll *have achieved* in a future place in time. I call these [will-have-done lists][havedonelists]. That subtle change of position helps me visualize what's essential, what's central and what to ship first, and also what's a distraction and what to ignore until after that date.
+2. **What will I be celebrating?** Instead of writing lists of things to do, or of things I want to achieve, I write lists of things I'll *have achieved* in a future place in time. I call these [will-have-done lists][havedonelists]. That subtle change of position helps me visualize what's essential, what's central and what to ship first, and also what's a distraction and what to ignore until after that date. To write these lists, I use [Taskmator for iOS][taskmator] and [Taskpaper for Mac][taskpaper] with a [custom stylesheet][theme-notes-first].
 
 Hope they help.
 
 [mentalmodels]: http://by.pascallaliberte.me/2014-01-intro-to-mental-models/
 [havedonelists]: http://by.pascallaliberte.me/2013-12-writing-objectives-you-will-accomplish/
 
+[taskmator]: https://itunes.apple.com/ca/app/taskmator-taskpaper-client/id806250172?mt=8
+[taskpaper]: https://www.taskpaper.com
+[theme-notes-first]: https://github.com/pascallaliberte/theme-notes-first
 
 ## Thanks for reading
 
