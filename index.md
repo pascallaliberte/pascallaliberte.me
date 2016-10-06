@@ -13,8 +13,14 @@ I'm currently part of the team at [FarmLead][farmlead], a marketplace for farmer
 
 Previously, it's at the University of Ottawa that I helped bring user-centered design thinking, working on the web templates, and designing apps and web sites. At its Faculty of Medicine, I helped direct the creation of [Learn.med][learnmed], an online learning platform.
 
-[farmlead]: http://farmlead.com/
+Lately, I've been doing work with [Vue.js][vuejs] for crafting web interfaces. When using Wordpress, I use the [Roots][rootsio] kits, but I prefer building sites using [Jekyll][jekyllrb], a static site generator. When designing, I prefer building real UIs through code, and I enjoy using [Sketch][sketchapp] for mocking them up.
+
+[farmlead]: https://farmlead.com/
 [learnmed]: https://learn.med.uottawa.ca/
+[vuejs]: https://vuejs.org/
+[rootsio]: https://roots.io/
+[jekyllrb]: https://jekyllrb.com/
+[sketchapp]: https://sketchapp.com/
 
 ## Some of my beliefs
 
@@ -22,7 +28,7 @@ Previously, it's at the University of Ottawa that I helped bring user-centered d
 * There's a particular urgency to [surpass ourselves and to become mature about our choices][postheroism], so that we know how to handle the fast pace of life.
 * Most times when we hit an either/or mindset, there's usually a third way.
 * We're complicated people, and we're full of paradoxes. Learning to [bridge those paradoxes helps us be better with others][bridgeparadoxes].
-* There's a way to [achieve multiple things at once][godeepineverything], so long as you ruthlessly put things in the right order. That wasy, the first things will feed into the next ones down, letting you achieve them all.
+* There's a way to [achieve multiple things at once][godeepineverything], so long as you ruthlessly put things in the right order. That way, the first thing will feed into the second one and into the third, and all the way down, letting you achieve them all.
 * To-do lists are only a little helpful, because they're usually written as wish-for lists. I found that [writing will-have-done lists][willhavedone] to be the most helpful kind of list to write.
 {: .home-beliefs }
 
