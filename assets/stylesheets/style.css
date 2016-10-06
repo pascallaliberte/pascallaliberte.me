@@ -1,3 +1,6 @@
+.nowrap {
+  white-space: nowrap; }
+
 html, body, div, span, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, abbr, address, cite, code, del, dfn, em, img, ins, kbd, q, samp, small, strong, sub, sup, var, b, i, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, figcaption, figure, footer, header, hgroup, menu, nav, section, summary, time, mark, audio, video {
   border: 0;
   outline: 0;
@@ -75,7 +78,7 @@ body {
   color: #645430;
   font-family: "freight-sans-pro", Helvetica, Arial, sans-serif;
   font-size: 1.2rem;
-  line-height: 1.8rem;
+  line-height: 1.5em;
   position: relative; }
 
 a {
@@ -138,14 +141,15 @@ h3 {
 @media only screen and (min-width: 640px) {
   body {
     margin: 3rem;
-    border: 1px rgba(100, 84, 48, 0.1) solid;
+    font-size: 1.6rem;
+    border: 0.2rem rgba(100, 84, 48, 0.1) solid;
     -webkit-border-radius: 2rem;
     -moz-border-radius: 2rem;
     border-radius: 2rem; }
 
   .content {
-    padding: 30vh 2rem;
-    max-width: 36rem;
+    padding: 20vh 2rem;
+    max-width: 50rem;
     margin: 0 auto; }
     .content ul {
       padding-left: 0; } }

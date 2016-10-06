@@ -4,7 +4,7 @@ class: home
 layout: default
 ---
 
-Hi, I'm Pascal Laliberté. Thanks for dropping by.
+Hi, I'm Pascal Laliberté. <span class="nowrap">Thanks for dropping by.</span>
 {: .home-intro }
 
 ## My work: User Interface Designer and Developer
