@@ -9,9 +9,9 @@ Hi, I'm Pascal Laliberté. Thanks for dropping by.
 
 ## My work: User Interface Designer and Developer
 
-I've recently joined the team at [FarmLead][farmlead], a marketplace for farmers to sell their grain, where I'm **evolving the design of their product and apps**.
+I'm currently part of the team at [FarmLead][farmlead], a marketplace for farmers to sell their grain, where we've recently launched a redesign of the app. My role was in leading the design (Web, Android, iOS) and in building the web app.
 
-Previously, it's at the **University of Ottawa** that I helped bring user-centered design thinking, working on the **web templates**, and designing apps and web sites. At its Faculty of Medicine, I helped direct the creation of [Learn.med][learnmed], an **online learning platform**.
+Previously, it's at the University of Ottawa that I helped bring user-centered design thinking, working on the web templates, and designing apps and web sites. At its Faculty of Medicine, I helped direct the creation of [Learn.med][learnmed], an online learning platform.
 
 [farmlead]: http://farmlead.com/
 [learnmed]: https://learn.med.uottawa.ca/
@@ -19,10 +19,10 @@ Previously, it's at the **University of Ottawa** that I helped bring user-center
 ## Some of my beliefs
 
 * Design is best when done in tandem with the implementation. Knowing the limits of the material you work with makes for a better design.
-* There's a great urgency to [become mature about our choices and to surpass ourselves][postheroism], so that we know how to handle the complex situations of life.
+* There's a particular urgency to [surpass ourselves and to become mature about our choices][postheroism], so that we know how to handle the fast pace of life.
 * Most times when we hit an either/or mindset, there's usually a third way.
-* We're complicated people, full of paradoxes. Learning to [bridge those paradoxes helps us be better with others][bridgeparadoxes].
-thing and to put the rest of the list in order. One will feed into the other, letting you achieve them all.
+* We're complicated people, and we're full of paradoxes. Learning to [bridge those paradoxes helps us be better with others][bridgeparadoxes].
+* There's a way to [achieve multiple things at once][godeepineverything], so long as you ruthlessly put things in the right order. That wasy, the first things will feed into the next ones down, letting you achieve them all.
 * To-do lists are only a little helpful, because they're usually written as wish-for lists. I found that [writing will-have-done lists][willhavedone] to be the most helpful kind of list to write.
 {: .home-beliefs }
 
