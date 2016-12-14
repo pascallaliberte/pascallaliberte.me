@@ -20,6 +20,9 @@
     &, & .button, & input.email, & #mc-embedded-subscribe-form div.mce_inline_error {
       font: inherit;
     }
+    .button {
+      height: auto;
+    }
   }
 
   h3 {

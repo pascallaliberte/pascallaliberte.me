@@ -247,6 +247,8 @@ h3 {
   line-height: 1.1; }
 .objectives-course #mc_embed_signup, .objectives-course #mc_embed_signup .button, .objectives-course #mc_embed_signup input.email, .objectives-course #mc_embed_signup #mc-embedded-subscribe-form div.mce_inline_error {
   font: inherit; }
+.objectives-course #mc_embed_signup .button {
+  height: auto; }
 .objectives-course h3 {
   font-weight: bold;
   font-size: 1em;
