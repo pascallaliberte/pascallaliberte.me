@@ -237,19 +237,27 @@ h3 {
   text-align: center;
   font-weight: bold;
   text-transform: uppercase;
-  font-size: 1.4em; }
+  font-size: 1.4em;
+  line-height: 1.1; }
 .objectives-course h2 {
   text-align: center;
   font-weight: bold;
   text-transform: uppercase;
-  margin: 2em 0; }
+  margin: 2em 0;
+  line-height: 1.1; }
+.objectives-course #mc_embed_signup, .objectives-course #mc_embed_signup .button, .objectives-course #mc_embed_signup input.email, .objectives-course #mc_embed_signup #mc-embedded-subscribe-form div.mce_inline_error {
+  font: inherit; }
 .objectives-course h3 {
   font-weight: bold;
   font-size: 1em;
+  line-height: 1.1;
   margin: 1em 0 0.5em; }
 .objectives-course ul {
-  margin-left: 1em;
+  margin-left: 0em;
   font-style: italic; }
+  @media only screen and (min-width: 640px) {
+    .objectives-course ul {
+      margin-left: 1em; } }
 
 .update ol {
   margin-bottom: 1em; }
