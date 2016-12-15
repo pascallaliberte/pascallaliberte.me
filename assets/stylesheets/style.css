@@ -236,6 +236,9 @@ h3 {
 .objectives-course .content {
   font-size: 0.9em;
   line-height: 1.25; }
+  .objectives-course .content ul {
+    padding-left: 0;
+    margin-left: 1em; }
 .objectives-course h1 {
   text-align: center;
   font-weight: bold;
@@ -296,6 +299,25 @@ h3 {
     margin-bottom: 0; }
   .objectives-course .have-done-list li {
     margin-bottom: 0.5em; }
+.objectives-course ul.instead-of-list {
+  list-style: none;
+  margin-left: 5rem;
+  position: relative;
+  font-style: normal;
+  font-size: 0.9em;
+  line-height: 1.1em; }
+  @media only screen and (min-width: 640px) {
+    .objectives-course ul.instead-of-list {
+      margin-left: 7em; } }
+  .objectives-course ul.instead-of-list li {
+    margin-bottom: 0.5em; }
+.objectives-course .instead-of-prefix {
+  position: absolute;
+  display: inline-block;
+  white-space: nowrap;
+  right: 100%;
+  margin-right: 0.5em;
+  text-align: right; }
 
 .update ol {
   margin-bottom: 1em; }

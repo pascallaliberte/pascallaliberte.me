@@ -56,7 +56,7 @@ Hi. My name is [Pascal Laliberté](/) and, starting in the new year, I'll be off
 
 I've been using this specific format of objective-writing for a few years...
 
-* **Instead of**{: .instead-of-prefix } writing to-do lists (which I call "wish-for" lists);
+* **Instead of:**{: .instead-of-prefix } writing to-do lists (which I call "wish-for" lists);
 * using more rigid frameworks like GTD or task-organization software (I now use TaskPaper for these lists);
 * letting guilt accumulate about things I wasn't giving my attention to;
 * giving too much attention to urgent to-dos;
