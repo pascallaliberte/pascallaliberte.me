@@ -6,57 +6,102 @@ title: The Objectives Course
 
 # The Objectives Course
 
-Hi. My name is [Pascal Laliberté](/) and, starting in the new year, I'll be offering a course to a few people **about a simple trick I've learned: how to write objectives**. This trick has helped me greatly because it suits the way my mind works. **Maybe it'll suit you too**, so let me explain.
+A 10-week course, where I help you write objectives in a way that helps you to picture better situations, that helps you to make thorough inventories of what's on your mind, that tricks you into prioritizing correctly, and which helps you get ahead on the truly important things in your life. It'll start in the new year, with a group of 5 people to start, with examples and individual coaching all done over email.
+{: .intro }
 
-You'd be a great match if you're the type of person to think of all the possibilities before starting something. You pause to think before you act. You like to analyze, but the problem is that you paralyze. Maybe you feel overwhelmed that you have too much on the go, or maybe it's just that you notice all the imperfect things that make up your life at the moment.
+[Scroll down to sign-up](#signup) or read on for more information...
 
-Maybe you've tried ways to organize yourself: to-do lists, systems to filter your tasks and goals like the Getting Things Done method. Somehow, those approaches seem to confine you to a method that prevents your mind from starting fresh every time, which is what you like to do when you think of what's next.
+***
 
-You like to idealize, invent, figuring out the right way to do things.
+Thanks for checking out the course. My name is [Pascal Laliberté](/) and, starting in the new year, I'll be offering a course to a few people **about a simple trick I've learned: how to write objectives in a way I call "have-done lists"**.
 
-And maybe all this makes you feel guilty. And maybe you catch that guilt coming out as impatience or anger at times. Or maybe it's affecting your relationships, or your job prospects.
+Here's what a have-done lists look like:
 
-To help with all that, here's the trick...
+<div class="have-done-lists" markdown="1">
 
-## The trick: objectives
+<div class="have-done-list" markdown="1">
+Before the end of the evening, I'll have:
+* Improved the text of the intro to the course
+* Sent the new intro page to a couple friends for their feedback
+* Advanced in preparing my objectives for what I'll have done before Christmas
+* Got back to a friend about going to see Rogue One at the movies before the holiday break
+</div>
 
-The course focuses on a little trick with a lot of depth (meaning: you can go a long way with it and you can apply it in many places). Instead of writing to do lists, let's write objectives. Instead of writing down what you wish to do, write down what you'll have done. **Let's write what I call "have-done lists"**.
+<div class="have-done-list" markdown="1">
+Before the end of the meeting:
 
-I've found that these "have-done lists" are both freeing and empowering. They're freeing, because **they let you imagine the best outcome** you'll get to in a future situation, and they're empowering because they ask you to choose what to do first. They're freeing because they let you write down the full inventory of your ideas and they're empowering because **they trick your brain into doing something important right now that will get done**, just by the way they're written.
+I'll have:
 
-They're also empowering because they have a lot of subtleties and many ways to apply them, if you'd like to explore them with me.
+* Obtained a change in the way we work
+  * Communicated my concern with the way it's working right now
+  * Shared another alternative
 
-## The course structure
+He'll have:
 
-The course will run over 10 weeks (give or take).
+* Obtained an authentic and frank discussion
+* Obtained a key player on the delivery of the new project
+</div>
 
-Every week, and sometimes more than once a week, you'll receive an email from me with an example situation (we'll pretend you're the person in the situation). We'll use these "have-done lists" to help write some objectives to get progress on the situation.
+<div class="have-done-list" markdown="1">
+Before the end of the month, I'll have:
 
-Week after week, example by example, you'll unlearn some things that normally lead to stale outcomes, and you'll learn new ways to write some objectives instead. It'll be like learning a new language, in a way.
+* Tended to the small tasks around the house
+* Advanced in preparing for handling an emergency situation
+  * Started preparing a fire drill that would be clear and easy to try out
+* Fixed the squeaky door to the garage
+</div>
+</div>
 
-Also, with each email, I'll encourage you to share what you have with me so I can give you feedback. Just reply back to share your own list, and I'll help you by giving you quick ideas and suggestions to improve what you have.
+I've been using this specific format of objective-writing for a few years...
 
-## These sample "Have-done lists" describe a success with the course
+* **Instead of**{: .instead-of-prefix } writing to-do lists (which I call "wish-for" lists);
+* using more rigid frameworks like GTD or task-organization software (I now use TaskPaper for these lists);
+* letting guilt accumulate about things I wasn't giving my attention to;
+* giving too much attention to urgent to-dos;
+* sitting still on important-but-not-urgent problems that needed to get tackled.
+{: .instead-of-list }
 
-### By the end of your first few weeks in the course, it's likely you'll have:
+And I've found that this format lets me...
+
+* **Picture "perfection"**: I like imagining the best way something can become, and "have-done" lists encourage me to do that, while letting me...
+* **Prioritize ruthlessly** to find the smallest possible, most impactful thing I can do first, which allow me to...
+* **Have quick successes** that help me get to fun stuff later on, which help me...
+* **Get away from the always-urgent** things and toward the important, less-urgent goals, which freed up my attention and energy to...
+* **Change complex situations** I care about for the better, in my family, at work, with my friendship, and in my broader circle of influence.
+
+## Structure of the course
+
+The course will run over 10 weeks.
+
+**Every week, you'll receive an email** from me with an example situation (we'll pretend you're the person in the situation). We'll use "have-done lists" to help write some objectives to get progress on that example situation.
+
+Week after week, example by example, you'll **unlearn what leads to stale outcomes**, and you'll learn new ways to write objectives that get you what you really want. It'll be like **learning a new language**.
+
+Also, with each email, I'll encourage you to share what you have with me so I can give you feedback. Just reply back to share your own list, and I'll help you by **giving you quick ideas and suggestions to improve what you have**.
+
+<div class="course-objectives" markdown="1">
+### By the end of your first few weeks in the course, by putting in the effort, you'll have:
 
 * Started developing your own new _language_ for describing what you envision as a success;
 * Obtained a surprising result in one area of your life.
 * Felt on a few occasions that you understood in a unique way how you used to tackle your problems, and how to improve your approach next times
+</div>
 
-### By the end of the course, you will probably have:
+<div class="course-objectives" markdown="1">
+### By the end of the course, after sticking with it, you will have:
 
 * Noticed you had developed some new instincts when planning your next steps, that habits had formed;
 * Obtained a couple surprising results in unexpected areas of your life (personal, professional, family, friends);
 * Felt satisfaction on a few occasions at having been able to picture "perfection" and having advanced a little toward it;
-* Developed a better appreciation of your natural tendencies and your default ways to tackle problems
+* Developed a better appreciation of your natural tendencies and your default ways of tackling problems
 * More concretely, you'll have been exposed to a variety of different ways to write objectives: time boxing, how to iterate on a list, a set of good verbs to use at the beginning of each objective, how to group objectives, what questions to ask yourself to get unstuck, applying the technique on different time scales.
+</div>
 
-## The First Group, the Fee, and Getting Notified
+## To get started
 
-The course will start in the new year with a first group. I'll only take 5 individuals to start, in order to give each of you my attention, and to start small.
+The course will start in the new year with a first group of 5 people, coached individually.
 
-There will be a one-time fee to take the course. If you're not happy with how the course is going for you, I'll issue you a full refund. To make sure the course will be a good fit for you, let's get to know each other a little. Look below for my email if you have questions.
+There will be a one-time fee to take the course. If you're not happy with how the course is going for you, I'll issue you a full refund.
 
 To get on the notification list to know when the first group will start (or to get notified about the next groups), here's how to sign up.
 
@@ -66,11 +111,10 @@ To get on the notification list to know when the first group will start (or to g
 
 *Know someone who would be a good fit? Here's the link to this page, to copy in an email or message: <http://pascallaliberte.me/the-objectives-course/>*
 
-## What if it makes a difference?
+Or if you've got some questions, look below for my email address.
 
-To me, this technique was more than just a way to get things done or to get organized. The technique helped me improve some complex situations in a way that most people I knew couldn't handle. So your inclinations to think of all possibilities, to analyze and to see every imperfection, they may just be the skills that someone else needs to help their situation.
-
-Hope to talk to you in the new year,
+Hope to talk to you in the new year.  
+Sincerely,
 
 --
 **Pascal Laliberté**<br>
