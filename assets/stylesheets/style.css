@@ -301,13 +301,14 @@ h3 {
     margin-bottom: 0.5em; }
 .objectives-course ul.instead-of-list {
   list-style: none;
-  margin-left: 5rem;
+  margin-left: 1rem;
+  margin-top: 2.5em;
   position: relative;
   font-style: normal;
-  font-size: 0.9em;
   line-height: 1.1em; }
   @media only screen and (min-width: 640px) {
     .objectives-course ul.instead-of-list {
+      margin-top: 0;
       margin-left: 7em; } }
   .objectives-course ul.instead-of-list li {
     margin-bottom: 0.5em; }
@@ -315,9 +316,17 @@ h3 {
   position: absolute;
   display: inline-block;
   white-space: nowrap;
-  right: 100%;
-  margin-right: 0.5em;
-  text-align: right; }
+  bottom: 100%;
+  margin-top: -1.5em;
+  margin-left: -1em; }
+  @media only screen and (min-width: 640px) {
+    .objectives-course .instead-of-prefix {
+      bottom: auto;
+      right: 100%;
+      margin-right: 0.5em;
+      margin-left: 0;
+      margin-top: 0;
+      text-align: right; } }
 
 .update ol {
   margin-bottom: 1em; }

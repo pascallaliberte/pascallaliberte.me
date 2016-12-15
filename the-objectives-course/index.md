@@ -7,7 +7,7 @@ title: The Objectives Course
 # The Objectives Course
 
 <div class="intro" markdown="1">
-**A 10-week course to get coached on writing objectives in a specific way that tricks your mind into getting to "done" on the stuff that matters.**
+**A 10-week course to get coached on writing objectives in a specific way that tricks your mind into getting to _done_ on the stuff that matters.**
 
 It'll start in the new year, with a group of 5 people to start, with examples and individual coaching all done over email.
 
@@ -16,9 +16,9 @@ It'll start in the new year, with a group of 5 people to start, with examples an
 
 ***
 
-Hi. My name is [Pascal Laliberté](/) and, starting in the new year, I'll be offering a course **about a simple trick I've learned: how to write objectives in a way I call "have-done lists"**.
+Hi. My name is [Pascal Laliberté](/) and, starting in the new year, I'll be offering a course **about a simple trick I've learned: how to write objectives in a way I call _have-done lists_**.
 
-## Here's what **"have-done lists"** look like:
+## Here's what **_have-done lists_** look like:
 {: .have-done-lists-heading }
 
 <div class="have-done-lists" markdown="1">
@@ -56,7 +56,7 @@ Hi. My name is [Pascal Laliberté](/) and, starting in the new year, I'll be off
 
 I've been using this specific format of objective-writing for a few years...
 
-* **Instead of:**{: .instead-of-prefix } writing to-do lists (which I call "wish-for" lists);
+* **Instead of:**{: .instead-of-prefix } writing to-do lists;
 * using more rigid frameworks like GTD or task-organization software (I now use TaskPaper for these lists);
 * letting guilt accumulate about things I wasn't giving my attention to;
 * giving too much attention to urgent to-dos;
@@ -65,21 +65,23 @@ I've been using this specific format of objective-writing for a few years...
 
 And I've found that this format lets me...
 
-* **Picture "perfection"**: I like imagining the best way something can become, and "have-done" lists encourage me to do that, while letting me...
+* **Picture "perfection"**: I like imagining the best way something can become, and _have-done lists_ encourage me to do that, while letting me...
 * **Prioritize ruthlessly** to find the smallest possible, most impactful thing I can do first, which allow me to...
 * **Have quick successes** that help me get to fun stuff later on, which help me...
 * **Get away from the always-urgent** things and toward the important, less-urgent goals, which freed up my attention and energy to...
-* **Change complex situations** I care about for the better, in my family, at work, with my friendship, and in my broader circle of influence.
+* **Change complex situations** I care about for the better, in my family, in my work, with my friendships.
 
 ## Structure of the course
 
 The course will run over 10 weeks.
 
-**Every week, you'll receive an email** from me with an example situation (we'll pretend you're the person in the situation). We'll use "have-done lists" to help write some objectives to get progress on that example situation.
+**Every week, you'll receive an email** from me with an example situation (we'll pretend you're the person in the situation). We'll use _have-done lists_ to help write some objectives to get progress on that example situation.
 
 Week after week, example by example, you'll **unlearn what leads to stale outcomes**, and you'll learn new ways to write objectives that get you what you really want. It'll be like **learning a new language**.
 
 Also, with each email, I'll encourage you to share what you have with me so I can give you feedback. Just reply back to share your own list, and I'll help you by **giving you quick ideas and suggestions to improve what you have**.
+
+***
 
 <div class="course-objectives" markdown="1">
 ### By the end of your first few weeks in the course, by putting in the effort, you'll have:
