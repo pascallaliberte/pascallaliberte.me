@@ -233,6 +233,9 @@ h3 {
     margin-left: -0.5em; }
   .home ul {
     margin-left: 2rem; } }
+.objectives-course .content {
+  font-size: 0.9em;
+  line-height: 1.25; }
 .objectives-course h1 {
   text-align: center;
   font-weight: bold;
@@ -260,6 +263,17 @@ h3 {
   @media only screen and (min-width: 640px) {
     .objectives-course ul {
       margin-left: 1em; } }
+.objectives-course .intro {
+  padding: 1em;
+  background: rgba(253, 234, 152, 0.3);
+  border-radius: 0.3em;
+  margin: 1em 0 2em; }
+.objectives-course hr {
+  max-width: 10rem;
+  margin: 2em auto 1em;
+  background-color: rgba(100, 84, 48, 0.1);
+  border: none;
+  height: 0.2rem; }
 
 .update ol {
   margin-bottom: 1em; }

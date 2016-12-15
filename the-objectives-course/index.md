@@ -6,14 +6,17 @@ title: The Objectives Course
 
 # The Objectives Course
 
-A 10-week course, where I help you write objectives in a way that helps you to picture better situations, that helps you to make thorough inventories of what's on your mind, that tricks you into prioritizing correctly, and which helps you get ahead on the truly important things in your life. It'll start in the new year, with a group of 5 people to start, with examples and individual coaching all done over email.
-{: .intro }
+<div class="intro" markdown="1">
+**A 10-week course to get coached on writing objectives in a specific way that tricks your mind into getting to "done" on the stuff that matters.**
 
-[Scroll down to sign-up](#signup) or read on for more information...
+It'll start in the new year, with a group of 5 people to start, with examples and individual coaching all done over email.
+
+[Scroll down to sign-up](#signup) or check below for more details...
+</div>
 
 ***
 
-Thanks for checking out the course. My name is [Pascal Laliberté](/) and, starting in the new year, I'll be offering a course to a few people **about a simple trick I've learned: how to write objectives in a way I call "have-done lists"**.
+Hi. My name is [Pascal Laliberté](/) and, starting in the new year, I'll be offering a course **about a simple trick I've learned: how to write objectives in a way I call "have-done lists"**.
 
 Here's what a have-done lists look like:
 
