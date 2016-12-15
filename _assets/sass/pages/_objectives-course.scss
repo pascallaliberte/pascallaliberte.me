@@ -1,5 +1,14 @@
 .objectives-course {
 
+  .content {
+    font-size: 0.9em;
+    line-height: 1.25;
+    ul {
+      padding-left: 0;
+      margin-left: 1em;
+    }
+  }
+
   h1 {
     text-align: center;
     font-weight: bold;
@@ -37,6 +46,100 @@
     font-style: italic;
     @include responsive-break-point(640px) {
       margin-left: 1em;
+    }
+  }
+
+  .intro {
+    padding: 1em;
+    background: transparentize($color-highlight, 0.7);
+    border-radius: 0.3em;
+    margin: 1em 0 2em;
+  }
+
+  hr {
+    max-width: 10rem;
+    margin: 2em auto 1em;
+    background-color: $color-lines;
+    border: none;
+    height: 0.2rem;
+  }
+
+  .have-done-lists-heading {
+    text-transform: none;
+    font-weight: normal;
+    font-style: italic;
+  }
+
+  .have-done-list {
+    font-size: 0.8em;
+    line-height: 1.2em;
+    background: lighten($color-lines, 5%);
+    padding: 1em;
+    margin: 1em;
+
+    h3 {
+      font-weight: 700;
+      margin: 0;
+    }
+    ul {
+      list-style: none;
+      margin-left: 1em;
+      font-style: normal;
+      color: lighten($color-text, 10%);
+      margin-top: 0.5em;
+      margin-bottom: 0;
+    }
+    li {
+      margin-bottom: 0.5em;
+    }
+  }
+
+  @include responsive-break-point(640px) {
+    .have-done-lists {
+      display: flex;
+      flex-direction: row;
+      align-items: stretch;
+      align-content: flex-start;
+      justify-content: center;
+      flex-wrap: wrap;
+    }
+    .have-done-list {
+      flex-grow: 0;
+      flex-shrink: 0;
+      flex-basis: 35%;
+    }
+  }
+
+  ul.instead-of-list {
+    list-style: none;
+    margin-left: 1rem;
+    margin-top: 2.5em;
+    @include responsive-break-point(640px) {
+      margin-top: 0;
+      margin-left: 7em;
+    }
+    position: relative;
+    font-style: normal;
+
+    line-height: 1.1em;
+    li {
+      margin-bottom: 0.5em;
+    }
+  }
+  .instead-of-prefix {
+    position: absolute;
+    display: inline-block;
+    white-space: nowrap;
+    bottom: 100%;
+    margin-top: -1.5em;
+    margin-left: -1em;
+    @include responsive-break-point(640px) {
+      bottom: auto;
+      right: 100%;
+      margin-right: 0.5em;
+      margin-left: 0;
+      margin-top: 0;
+      text-align: right;
     }
   }
 

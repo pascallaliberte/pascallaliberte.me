@@ -233,6 +233,12 @@ h3 {
     margin-left: -0.5em; }
   .home ul {
     margin-left: 2rem; } }
+.objectives-course .content {
+  font-size: 0.9em;
+  line-height: 1.25; }
+  .objectives-course .content ul {
+    padding-left: 0;
+    margin-left: 1em; }
 .objectives-course h1 {
   text-align: center;
   font-weight: bold;
@@ -260,6 +266,79 @@ h3 {
   @media only screen and (min-width: 640px) {
     .objectives-course ul {
       margin-left: 1em; } }
+.objectives-course .intro {
+  padding: 1em;
+  background: rgba(253, 234, 152, 0.3);
+  border-radius: 0.3em;
+  margin: 1em 0 2em; }
+.objectives-course hr {
+  max-width: 10rem;
+  margin: 2em auto 1em;
+  background-color: rgba(100, 84, 48, 0.1);
+  border: none;
+  height: 0.2rem; }
+.objectives-course .have-done-lists-heading {
+  text-transform: none;
+  font-weight: normal;
+  font-style: italic; }
+.objectives-course .have-done-list {
+  font-size: 0.8em;
+  line-height: 1.2em;
+  background: rgba(117, 98, 56, 0.1);
+  padding: 1em;
+  margin: 1em; }
+  .objectives-course .have-done-list h3 {
+    font-weight: 700;
+    margin: 0; }
+  .objectives-course .have-done-list ul {
+    list-style: none;
+    margin-left: 1em;
+    font-style: normal;
+    color: #867141;
+    margin-top: 0.5em;
+    margin-bottom: 0; }
+  .objectives-course .have-done-list li {
+    margin-bottom: 0.5em; }
+@media only screen and (min-width: 640px) {
+  .objectives-course .have-done-lists {
+    display: flex;
+    flex-direction: row;
+    align-items: stretch;
+    align-content: flex-start;
+    justify-content: center;
+    flex-wrap: wrap; }
+  .objectives-course .have-done-list {
+    flex-grow: 0;
+    flex-shrink: 0;
+    flex-basis: 35%; } }
+.objectives-course ul.instead-of-list {
+  list-style: none;
+  margin-left: 1rem;
+  margin-top: 2.5em;
+  position: relative;
+  font-style: normal;
+  line-height: 1.1em; }
+  @media only screen and (min-width: 640px) {
+    .objectives-course ul.instead-of-list {
+      margin-top: 0;
+      margin-left: 7em; } }
+  .objectives-course ul.instead-of-list li {
+    margin-bottom: 0.5em; }
+.objectives-course .instead-of-prefix {
+  position: absolute;
+  display: inline-block;
+  white-space: nowrap;
+  bottom: 100%;
+  margin-top: -1.5em;
+  margin-left: -1em; }
+  @media only screen and (min-width: 640px) {
+    .objectives-course .instead-of-prefix {
+      bottom: auto;
+      right: 100%;
+      margin-right: 0.5em;
+      margin-left: 0;
+      margin-top: 0;
+      text-align: right; } }
 
 .update ol {
   margin-bottom: 1em; }
