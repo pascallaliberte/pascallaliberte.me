@@ -274,6 +274,28 @@ h3 {
   background-color: rgba(100, 84, 48, 0.1);
   border: none;
   height: 0.2rem; }
+.objectives-course .have-done-lists-heading {
+  text-transform: none;
+  font-weight: normal;
+  font-style: italic; }
+.objectives-course .have-done-list {
+  font-size: 0.8em;
+  line-height: 1.2em;
+  background: rgba(117, 98, 56, 0.1);
+  padding: 1em;
+  margin: 1em; }
+  .objectives-course .have-done-list h3 {
+    font-weight: 700;
+    margin: 0; }
+  .objectives-course .have-done-list ul {
+    list-style: none;
+    margin-left: 1em;
+    font-style: normal;
+    color: #867141;
+    margin-top: 0.5em;
+    margin-bottom: 0; }
+  .objectives-course .have-done-list li {
+    margin-bottom: 0.5em; }
 
 .update ol {
   margin-bottom: 1em; }

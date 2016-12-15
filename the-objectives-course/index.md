@@ -18,12 +18,14 @@ It'll start in the new year, with a group of 5 people to start, with examples an
 
 Hi. My name is [Pascal Laliberté](/) and, starting in the new year, I'll be offering a course **about a simple trick I've learned: how to write objectives in a way I call "have-done lists"**.
 
-Here's what a have-done lists look like:
+## Here's what **"have-done lists"** look like:
+{: .have-done-lists-heading }
 
 <div class="have-done-lists" markdown="1">
 
 <div class="have-done-list" markdown="1">
-Before the end of the evening, I'll have:
+### Before the end of the evening, I'll have:
+
 * Improved the text of the intro to the course
 * Sent the new intro page to a couple friends for their feedback
 * Advanced in preparing my objectives for what I'll have done before Christmas
@@ -31,26 +33,23 @@ Before the end of the evening, I'll have:
 </div>
 
 <div class="have-done-list" markdown="1">
-Before the end of the meeting:
+### Before the end of the meeting:
 
-I'll have:
-
-* Obtained a change in the way we work
-  * Communicated my concern with the way it's working right now
-  * Shared another alternative
-
-He'll have:
-
-* Obtained an authentic and frank discussion
-* Obtained a key player on the delivery of the new project
+* ### I'll have:
+  * Obtained a change in the way we work
+    * Communicated my concern with the way it's working right now
+    * Shared another alternative
+* ### He'll have:
+  * Obtained an authentic and frank discussion
+  * Obtained a key player on the delivery of the new project
 </div>
 
 <div class="have-done-list" markdown="1">
-Before the end of the month, I'll have:
+### Before the end of the month, I'll have:
 
 * Tended to the small tasks around the house
 * Advanced in preparing for handling an emergency situation
-  * Started preparing a fire drill that would be clear and easy to try out
+  * Had a first fire drill that was clear, encouraged personal responsibility and was light-hearted
 * Fixed the squeaky door to the garage
 </div>
 </div>
