@@ -73,6 +73,14 @@ And I've found that this format lets me...
 * **Get away from the always-urgent** things and toward the important, less-urgent goals, which freed up my attention and energy to...
 * **Tackle the most complex situations** and turn them around, in my family, in my work, with my friendships, where it matters.
 
+## From --> To
+
+* From **shy** to **impactful**
+* From **doubtful** to **catalyst**
+* From **paralyzed** to **agile**
+* From **angry** to **reliable**
+* From **disappointed** to **deliberate**
+
 ## Structure of the course
 
 The course will run over 10 weeks.
