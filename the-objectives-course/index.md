@@ -61,7 +61,7 @@ I've been using this specific format of objective-writing for a few years...
 * *Instead of*{: .instead-of-prefix } **giving too much attention to urgent to-dos.** Have-done lists require you to "Start with the end in mind" habit, forcing you to remove yourself from the urgency for more perspective
 * *Instead of*{: .instead-of-prefix } **sitting still on important-but-not-urgent problems** that needed to get tackled
 * *Instead of*{: .instead-of-prefix } **writing to-do lists**, because not everything that matters is a to-do. Sometimes what matters is to adopt a posture, or to listen, or to receive, or to connect. Writing have-done lists have those baked-in
-* *Instead of*{: .instead-of-prefix } **using different techniques for different time-scales**. Have-done lists work on tiny time-scales (_before my meeting with my boss, I'll have..._) as well as huge time-scales (_before my kids leave for university, I'll have..._)
+* *Instead of*{: .instead-of-prefix } **using different techniques for different time scales**. Have-done lists work on tiny time scales (_before my meeting with my boss, I'll have..._) as well as huge time scales (_before my kids leave for university, I'll have..._)
 * *Instead of*{: .instead-of-prefix } **compromising on my vision**, since there is _a way_ to get the concrete stuff done while, _at the same time_, match my vision of how things should be...
 {: .instead-of-list }
 
@@ -85,23 +85,27 @@ Also, with each email, I'll encourage you to share what you have with me so I ca
 
 ***
 
-<div class="course-objectives" markdown="1">
-### By the end of your first few weeks in the course, by putting in the effort, you'll have:
+## Your _have-done_ lists for the course
 
-* Started developing your own new _language_ for describing what you envision as a success;
-* Obtained a surprising result in one area of your life.
-* Felt on a few occasions that you understood in a unique way how you used to tackle your problems, and how to improve your approach next times
+<div class="have-done-list course-objectives" markdown="1">
+### By the end of your first few weeks in the course, by putting in the effort, you will have:
+
+* Started developing your own new _language_ for describing what you envision as a success
+* Obtained a surprising result in one area of your life
+* Realized, on a few occasions, how you used to tackle your problems, and how to improve your approach next times
 </div>
 
-<div class="course-objectives" markdown="1">
+<div class="have-done-list course-objectives" markdown="1">
 ### By the end of the course, after sticking with it, you will have:
 
-* Noticed you had developed some new instincts when planning your next steps, that habits had formed;
-* Obtained a couple surprising results in unexpected areas of your life (personal, professional, family, friends);
-* Felt satisfaction on a few occasions at having been able to picture "perfection" and having advanced a little toward it;
+* Noticed you had developed some new instincts when planning your next steps, that habits had formed
+* Obtained a couple surprising results in unexpected areas of your life (personal, professional, family, friends)
+* Felt satisfaction, on a few occasions, at having been able to picture "perfection" and having advanced a little toward it
 * Developed a better appreciation of your natural tendencies and your default ways of tackling problems
-* More concretely, you'll have been exposed to a variety of different ways to write objectives: time boxing, how to iterate on a list, a set of good verbs to use at the beginning of each objective, how to group objectives, what questions to ask yourself to get unstuck, applying the technique on different time scales.
+* **More concretely**, you'll have been exposed to a variety of different ways to write objectives: time boxing, how to iterate on a list, new verbs to use at the beginning of each objective, how to group objectives, what questions to ask yourself to get unstuck, applying the technique on different time scales
 </div>
+
+***
 
 ## To get started
 
@@ -109,7 +113,7 @@ The course will start in the new year with a first group of 5 people, coached in
 
 There will be a one-time fee to take the course. If you're not happy with how the course is going for you, I'll issue you a full refund.
 
-To get on the notification list to know when the first group will start (or to get notified about the next groups), here's how to sign up.
+To get on the notification list to know when the first group will start (or to get notified about the next groups), here's how to sign up:
 
 *You won't get spam and this list will only be used to announce new groups.*
 
