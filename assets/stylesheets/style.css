@@ -324,21 +324,17 @@ h3 {
       margin-left: 7em; } }
   .objectives-course ul.instead-of-list li {
     margin-bottom: 0.5em; }
-.objectives-course .instead-of-prefix {
-  position: absolute;
-  display: inline-block;
-  white-space: nowrap;
-  bottom: 100%;
-  margin-top: -1.5em;
-  margin-left: -1em; }
-  @media only screen and (min-width: 640px) {
-    .objectives-course .instead-of-prefix {
-      bottom: auto;
-      right: 100%;
-      margin-right: 0.5em;
-      margin-left: 0;
-      margin-top: 0;
-      text-align: right; } }
+@media only screen and (min-width: 640px) {
+  .objectives-course .instead-of-prefix {
+    position: absolute;
+    display: inline-block;
+    white-space: nowrap;
+    bottom: auto;
+    right: 100%;
+    margin-right: 0.3em;
+    margin-left: 0;
+    margin-top: 0;
+    text-align: right; } }
 
 .update ol {
   margin-bottom: 1em; }

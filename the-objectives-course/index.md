@@ -7,7 +7,7 @@ title: The Objectives Course
 # The Objectives Course
 
 <div class="intro" markdown="1">
-**A 10-week course to get coached on writing objectives in a specific way that tricks your mind into getting to _done_ on the stuff that matters.**
+**A 10-week course on writing _have-done_ lists: a way to write objectives that surprisingly helps you explore possibilities, visualize and get to _done_ on the big and the small in your life.**
 
 It'll start in the new year, with a group of 5 people to start, with examples and individual coaching all done over email.
 
@@ -56,11 +56,13 @@ Hi. My name is [Pascal Laliberté](/) and, starting in the new year, I'll be off
 
 I've been using this specific format of objective-writing for a few years...
 
-* **Instead of:**{: .instead-of-prefix } writing to-do lists;
-* using more rigid frameworks like GTD or task-organization software (I now use TaskPaper for these lists);
-* letting guilt accumulate about things I wasn't giving my attention to;
-* giving too much attention to urgent to-dos;
-* sitting still on important-but-not-urgent problems that needed to get tackled.
+* *Instead of*{: .instead-of-prefix } **letting guilt accumulate** about things I wasn't giving my attention to
+* *Instead of*{: .instead-of-prefix } **using more rigid frameworks** like GTD or task-organization software (I now use [TaskPaper](https://taskpaper.com) with [a custom-made theme](https://github.com/pascallaliberte/theme-notes-first) for writing have-done lists)
+* *Instead of*{: .instead-of-prefix } **giving too much attention to urgent to-dos.** Have-done lists require you to "Start with the end in mind" habit, forcing you to remove yourself from the urgency for more perspective
+* *Instead of*{: .instead-of-prefix } **sitting still on important-but-not-urgent problems** that needed to get tackled
+* *Instead of*{: .instead-of-prefix } **writing to-do lists**, because not everything that matters is a to-do. Sometimes what matters is to adopt a posture, or to listen, or to receive, or to connect. Writing have-done lists have those baked-in
+* *Instead of*{: .instead-of-prefix } **using different techniques for different time-scales**. Have-done lists work on tiny time-scales (_before my meeting with my boss, I'll have..._) as well as huge time-scales (_before my kids leave for university, I'll have..._)
+* *Instead of*{: .instead-of-prefix } **compromising on my vision**, since there is _a way_ to get the concrete stuff done while, _at the same time_, match my vision of how things should be...
 {: .instead-of-list }
 
 And I've found that this format lets me...
@@ -69,7 +71,7 @@ And I've found that this format lets me...
 * **Prioritize ruthlessly** to find the smallest possible, most impactful thing I can do first, which allow me to...
 * **Have quick successes** that help me get to fun stuff later on, which help me...
 * **Get away from the always-urgent** things and toward the important, less-urgent goals, which freed up my attention and energy to...
-* **Change complex situations** I care about for the better, in my family, in my work, with my friendships.
+* **Tackle the most complex situations** and turn them around, in my family, in my work, with my friendships, where it matters.
 
 ## Structure of the course
 
