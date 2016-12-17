@@ -57,8 +57,8 @@ Hi. My name is [Pascal Laliberté](/) and, starting in the new year, I'll be off
 I've been using this specific format of objective-writing for a few years...
 
 * *Instead of*{: .instead-of-prefix } **letting guilt accumulate** about things I wasn't giving my attention to
-* *Instead of*{: .instead-of-prefix } **using more rigid frameworks** like GTD or task-organization software (I now use [TaskPaper](https://taskpaper.com) with [a custom-made theme](https://github.com/pascallaliberte/theme-notes-first) for writing have-done lists)
-* *Instead of*{: .instead-of-prefix } **giving too much attention to urgent to-dos.** Have-done lists require you to "Start with the end in mind" habit, forcing you to remove yourself from the urgency for more perspective
+* *Instead of*{: .instead-of-prefix } **using more rigid frameworks** like GTD or task-organization software (I now use [TaskPaper](https://www.taskpaper.com) with [a custom-made theme](https://github.com/pascallaliberte/theme-notes-first) for writing have-done lists)
+* *Instead of*{: .instead-of-prefix } **giving too much attention to urgent to-dos.** Have-done lists require you to "start with the end in mind", forcing you to remove yourself from the urgency
 * *Instead of*{: .instead-of-prefix } **sitting still on important-but-not-urgent problems** that needed to get tackled
 * *Instead of*{: .instead-of-prefix } **writing to-do lists**, because not everything that matters is a to-do. Sometimes what matters is to adopt a posture, or to listen, or to receive, or to connect. Have-done lists allow for those, no problem
 * *Instead of*{: .instead-of-prefix } **using different techniques for different time scales**. Have-done lists work on tiny time scales (_before my meeting with my boss, I'll have..._) as well as huge time scales (_before my kids leave for university, I'll have..._)
@@ -80,12 +80,14 @@ And I've found that this format lets me...
 * From **paralyzed** to **agile**
 * From **angry** to **reliable**
 * From **disappointed** to **deliberate**
+* From **daydreaming** to **daydoing**
+{: .from-to-list }
 
 ## Structure of the course
 
 The course will run over 10 weeks.
 
-**Every week, you'll receive an email** from me with an example situation (we'll pretend you're the person in the situation). We'll use _have-done lists_ to help write some objectives to get progress on that example situation.
+**Every week, you'll receive an email** with an example situation (we'll pretend you're the person in the situation). We'll use _have-done lists_ to help write some objectives to get progress on that example situation.
 
 Week after week, example by example, you'll **unlearn what leads to stale outcomes**, and you'll learn new ways to write objectives that get you what you really want. It'll be like **learning a new language**.
 
@@ -110,7 +112,7 @@ Also, with each email, I'll encourage you to share what you have with me so I ca
 * Obtained a couple surprising results in unexpected areas of your life (personal, professional, family, friends)
 * Felt satisfaction, on a few occasions, at having been able to picture "perfection" and having advanced a little toward it
 * Developed a better appreciation of your natural tendencies and your default ways of tackling problems
-* **More concretely**, you'll have been exposed to a variety of different ways to write objectives: time boxing, how to iterate on a list, new verbs to use at the beginning of each objective, how to group objectives, what questions to ask yourself to get unstuck, applying the technique on different time scales
+* Been exposed to a variety of different ways to write objectives: time boxing, how to iterate on a list, new verbs to use at the beginning of each objective, how to group objectives, what questions to ask yourself to get unstuck, applying the technique on different time scales
 </div>
 
 ***
