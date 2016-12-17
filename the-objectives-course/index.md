@@ -60,7 +60,7 @@ I've been using this specific format of objective-writing for a few years...
 * *Instead of*{: .instead-of-prefix } **using more rigid frameworks** like GTD or task-organization software (I now use [TaskPaper](https://taskpaper.com) with [a custom-made theme](https://github.com/pascallaliberte/theme-notes-first) for writing have-done lists)
 * *Instead of*{: .instead-of-prefix } **giving too much attention to urgent to-dos.** Have-done lists require you to "Start with the end in mind" habit, forcing you to remove yourself from the urgency for more perspective
 * *Instead of*{: .instead-of-prefix } **sitting still on important-but-not-urgent problems** that needed to get tackled
-* *Instead of*{: .instead-of-prefix } **writing to-do lists**, because not everything that matters is a to-do. Sometimes what matters is to adopt a posture, or to listen, or to receive, or to connect. Writing have-done lists have those baked-in
+* *Instead of*{: .instead-of-prefix } **writing to-do lists**, because not everything that matters is a to-do. Sometimes what matters is to adopt a posture, or to listen, or to receive, or to connect. Have-done lists allow for those, no problem
 * *Instead of*{: .instead-of-prefix } **using different techniques for different time scales**. Have-done lists work on tiny time scales (_before my meeting with my boss, I'll have..._) as well as huge time scales (_before my kids leave for university, I'll have..._)
 * *Instead of*{: .instead-of-prefix } **compromising on my vision**, since there is _a way_ to get the concrete stuff done while, _at the same time_, match my vision of how things should be...
 {: .instead-of-list }

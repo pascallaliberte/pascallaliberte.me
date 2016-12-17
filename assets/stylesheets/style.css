@@ -323,7 +323,7 @@ h3 {
       margin-top: 0;
       margin-left: 7em; } }
   .objectives-course ul.instead-of-list li {
-    margin-bottom: 0.5em; }
+    margin-bottom: 1em; }
 @media only screen and (min-width: 640px) {
   .objectives-course .instead-of-prefix {
     position: absolute;
