@@ -76,16 +76,6 @@ And I've found that this format lets me...
 * **Get away from the always-urgent** things and toward the important, less-urgent goals, which freed up my attention and energy to...
 * **Tackle the most complex situations** and turn them around, in my family, in my work, with my friendships, where it matters.
 
-## From --> To
-
-* From **shy** to **impactful**
-* From **doubtful** to **catalyst**
-* From **paralyzed** to **agile**
-* From **angry** to **reliable**
-* From **disappointed** to **deliberate**
-* From **daydreaming** to **building something better**
-{: .from-to-list }
-
 ## Structure of the course
 
 The course will run over 10 weeks.
@@ -117,6 +107,18 @@ Also, with each email, I'll encourage you to share what you have with me so I ca
 * Developed a better appreciation of your natural tendencies and your default ways of tackling problems
 * Been exposed to a variety of different ways to write objectives: time boxing, how to iterate on a list, new verbs to use at the beginning of each objective, how to group objectives, what questions to ask yourself to get unstuck, applying the technique on different time scales
 </div>
+
+***
+
+## From --> To
+
+* From **shy** to **impactful**
+* From **doubtful** to **catalyst**
+* From **paralyzed** to **agile**
+* From **angry** to **reliable**
+* From **disappointed** to **deliberate**
+* From **daydreaming** to **building something better**
+{: .from-to-list }
 
 ***
 
