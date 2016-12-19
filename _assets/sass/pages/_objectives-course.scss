@@ -49,6 +49,13 @@
     }
   }
 
+  .switch-away-from {
+    font-size: 1.2em;
+    @include responsive-break-point(640px) {
+      margin: 0 3em 3em;
+    }
+  }
+
   .intro {
     padding: 1em;
     background: transparentize($color-highlight, 0.7);

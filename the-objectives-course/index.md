@@ -4,12 +4,15 @@ class: objectives-course
 title: The Objectives Course
 ---
 
+Are you paralyzed with small todos and annoyed you can't deal with the bigger picture? Or are you the type to go deep in one area and feeling pressure to perfect the other areas of your life? That's why I'm putting together:
+{: .switch-away-from }
+
 # The Objectives Course
 
 <div class="intro" markdown="1">
-**A 10-week course on writing _have-done_ lists: a way to write objectives that surprisingly helps you explore possibilities, visualize and get to _done_ on the big and the small in your life.**
+**A 10-week course on writing _have-done_ lists: a way to write objectives that will make you master your day-to-day activities while making you advance on your vision.**
 
-It'll start in the new year, with a group of 5 people to start, with examples and individual coaching all done over email.
+It'll start in the new year, with a group of 5 people, using examples and individual coaching. All done over email.
 
 [Scroll down to sign-up](#signup) or check below for more details...
 </div>

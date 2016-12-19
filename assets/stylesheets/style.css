@@ -266,6 +266,11 @@ h3 {
   @media only screen and (min-width: 640px) {
     .objectives-course ul {
       margin-left: 1em; } }
+.objectives-course .switch-away-from {
+  font-size: 1.2em; }
+  @media only screen and (min-width: 640px) {
+    .objectives-course .switch-away-from {
+      margin: 0 3em 3em; } }
 .objectives-course .intro {
   padding: 1em;
   background: rgba(253, 234, 152, 0.3);
