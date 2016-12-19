@@ -25,6 +25,14 @@
     line-height: 1.1;
   }
 
+  mark {
+    color: inherit;
+    background: transparentize($color-highlight, 0.7);
+    display: inline;
+    padding: 0 0.2em;
+    margin: 0 0;
+  }
+
   #mc_embed_signup {
     &, & .button, & input.email, & #mc-embedded-subscribe-form div.mce_inline_error {
       font: inherit;
@@ -56,11 +64,23 @@
     }
   }
 
-  .intro {
+  .intro, #mc_embed_signup {
     padding: 1em;
     background: transparentize($color-highlight, 0.7);
     border-radius: 0.3em;
     margin: 1em 0 2em;
+  }
+
+  .sign-up-link {
+    display: inline-block;
+    padding: 0.5em 2em;
+    background: transparentize($color-highlight, 0.7);
+    border-radius: 0.3em;
+  }
+
+  .sign-up-link-wrapper {
+    text-align: center;
+    margin: 1em 0;
   }
 
   hr {
@@ -145,6 +165,11 @@
       margin-top: 0;
       text-align: right;
     }
+  }
+
+  ul.lets-me-list {
+    list-style: none;
+    margin-left: 1rem;
   }
 
 }

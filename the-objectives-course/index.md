@@ -4,7 +4,7 @@ class: objectives-course
 title: The Objectives Course
 ---
 
-Are you envisioning a change that you feel is important, but it's losing out to a mountain of to-dos? Or how about this: are you making promises with yourself that you can't seem to keep? If that's your situation, here's what I'm working on:
+<mark>Are you envisioning a change that you feel is important, but it's losing out to a mountain of to-dos?</mark> Or how about this: are you making promises with yourself that you can't seem to keep? If that's your situation, here's something that could help:
 {: .switch-away-from }
 
 # The Objectives Course
@@ -14,7 +14,7 @@ Are you envisioning a change that you feel is important, but it's losing out to 
 
 It'll start in the new year, with a group of 5 people, using examples and individual coaching. All done over email.
 
-[Scroll down to sign-up](#signup) or check below for more details...
+[Scroll down to sign-up](#get-started) or check below for more details...
 </div>
 
 ***
@@ -70,11 +70,12 @@ I've been using this specific format of objective-writing for a few years...
 
 And I've found that this format lets me...
 
-* **Picture "perfection"**: I like imagining the best way something can become, and _have-done lists_ encourage me to do that, while letting me...
-* **Prioritize ruthlessly** to find the smallest possible, most impactful thing I can do first, which allow me to...
-* **Have quick successes** that help me get to fun stuff later on, which help me...
-* **Get away from the always-urgent** things and toward the important, less-urgent goals, which freed up my attention and energy to...
-* **Tackle the most complex situations** and turn them around, in my family, in my work, with my friendships, where it matters.
+* **<mark>Picture "perfection"</mark>**: I like imagining the best way something can become, and _have-done lists_ encourage me to do that, while letting me...
+* **<mark>Prioritize ruthlessly</mark>** to find the smallest possible, most impactful thing I can do first, which allow me to...
+* **<mark>Have quick successes</mark>** that help me get to fun stuff later on, which help me...
+* **<mark>Get away from the always-urgent</mark>** things and toward the important, less-urgent goals, which freed up my attention and energy to...
+* **<mark>Tackle the most complex situations</mark>** and turn them around, in my family, in my work, with my friendships, where it matters.
+{: .lets-me-list }
 
 ## Structure of the course
 
@@ -85,6 +86,9 @@ The course will run over 10 weeks.
 Week after week, example by example, you'll **unlearn what leads to stale outcomes**, and you'll learn new ways to write objectives that get you what you really want. It'll be like **learning a new language**.
 
 Also, with each email, I'll encourage you to share what you have with me so I can give you feedback. Just reply back to share your own list, and I'll help you by **giving you quick ideas and suggestions to improve what you have**.
+
+[How do I sign-up?](#get-started){: .sign-up-link }
+{: .sign-up-link-wrapper }
 
 ***
 
@@ -111,6 +115,7 @@ Also, with each email, I'll encourage you to share what you have with me so I ca
 ***
 
 ## To get started
+{: #get-started }
 
 The course will start in the new year with a first group of 5 people, coached individually.
 
