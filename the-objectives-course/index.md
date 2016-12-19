@@ -110,18 +110,6 @@ Also, with each email, I'll encourage you to share what you have with me so I ca
 
 ***
 
-## From --> To
-
-* From **shy** to **impactful**
-* From **doubtful** to **catalyst**
-* From **paralyzed** to **agile**
-* From **angry** to **reliable**
-* From **disappointed** to **deliberate**
-* From **daydreaming** to **building something better**
-{: .from-to-list }
-
-***
-
 ## To get started
 
 The course will start in the new year with a first group of 5 people, coached individually.
