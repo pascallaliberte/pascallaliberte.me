@@ -251,6 +251,12 @@ h3 {
   text-transform: uppercase;
   margin: 2em 0;
   line-height: 1.1; }
+.objectives-course mark {
+  color: inherit;
+  background: rgba(253, 234, 152, 0.3);
+  display: inline;
+  padding: 0 0.2em;
+  margin: 0 0; }
 .objectives-course #mc_embed_signup, .objectives-course #mc_embed_signup .button, .objectives-course #mc_embed_signup input.email, .objectives-course #mc_embed_signup #mc-embedded-subscribe-form div.mce_inline_error {
   font: inherit; }
 .objectives-course #mc_embed_signup .button {
@@ -266,11 +272,24 @@ h3 {
   @media only screen and (min-width: 640px) {
     .objectives-course ul {
       margin-left: 1em; } }
-.objectives-course .intro {
+.objectives-course .switch-away-from {
+  font-size: 1.2em; }
+  @media only screen and (min-width: 640px) {
+    .objectives-course .switch-away-from {
+      margin: 0 3em 3em; } }
+.objectives-course .intro, .objectives-course #mc_embed_signup {
   padding: 1em;
   background: rgba(253, 234, 152, 0.3);
   border-radius: 0.3em;
   margin: 1em 0 2em; }
+.objectives-course .sign-up-link {
+  display: inline-block;
+  padding: 0.5em 2em;
+  background: rgba(253, 234, 152, 0.3);
+  border-radius: 0.3em; }
+.objectives-course .sign-up-link-wrapper {
+  text-align: center;
+  margin: 1em 0; }
 .objectives-course hr {
   max-width: 10rem;
   margin: 2em auto 1em;
@@ -323,22 +342,21 @@ h3 {
       margin-top: 0;
       margin-left: 7em; } }
   .objectives-course ul.instead-of-list li {
-    margin-bottom: 0.5em; }
-.objectives-course .instead-of-prefix {
-  position: absolute;
-  display: inline-block;
-  white-space: nowrap;
-  bottom: 100%;
-  margin-top: -1.5em;
-  margin-left: -1em; }
-  @media only screen and (min-width: 640px) {
-    .objectives-course .instead-of-prefix {
-      bottom: auto;
-      right: 100%;
-      margin-right: 0.5em;
-      margin-left: 0;
-      margin-top: 0;
-      text-align: right; } }
+    margin-bottom: 1em; }
+@media only screen and (min-width: 640px) {
+  .objectives-course .instead-of-prefix {
+    position: absolute;
+    display: inline-block;
+    white-space: nowrap;
+    bottom: auto;
+    right: 100%;
+    margin-right: 0.3em;
+    margin-left: 0;
+    margin-top: 0;
+    text-align: right; } }
+.objectives-course ul.lets-me-list {
+  list-style: none;
+  margin-left: 1rem; }
 
 .update ol {
   margin-bottom: 1em; }
