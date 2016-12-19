@@ -4,13 +4,13 @@ class: objectives-course
 title: The Objectives Course
 ---
 
-Are you paralyzed with small todos and annoyed you can't deal with the bigger picture? Or are you the type to go deep in one area and feeling pressure to perfect the other areas of your life? That's why I'm putting together:
+Are you envisioning a change that you feel is important, but it's losing out to a mountain of to-dos? Or how about this: are you making promises with yourself that you can't seem to keep? If that's your situation, here's what I'm working on:
 {: .switch-away-from }
 
 # The Objectives Course
 
 <div class="intro" markdown="1">
-**A 10-week course on writing _have-done_ lists: a way to write objectives that will make you master your day-to-day activities while making you advance on your vision.**
+**A 10-week course on writing _have-done_ lists: a clever way to write objectives to get on top of your day-to-day activities _while_ helping you advance on your bigger picture vision.**
 
 It'll start in the new year, with a group of 5 people, using examples and individual coaching. All done over email.
 
@@ -19,7 +19,7 @@ It'll start in the new year, with a group of 5 people, using examples and indivi
 
 ***
 
-Hi. My name is [Pascal Laliberté](/) and, starting in the new year, I'll be offering a course **about a simple trick I've learned: how to write objectives in a way I call _have-done lists_**.
+Hi. My name is [Pascal Laliberté](/) and, starting in the new year, I'll be offering a course **about a trick I've learned: how to write objectives in a way I call _have-done lists_**.
 
 ## Here's what **_have-done lists_** look like:
 {: .have-done-lists-heading }
