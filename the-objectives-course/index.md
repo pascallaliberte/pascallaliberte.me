@@ -80,7 +80,7 @@ And I've found that this format lets me...
 * From **paralyzed** to **agile**
 * From **angry** to **reliable**
 * From **disappointed** to **deliberate**
-* From **daydreaming** to **daydoing**
+* From **daydreaming** to **building something better**
 {: .from-to-list }
 
 ## Structure of the course
