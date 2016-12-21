@@ -100,19 +100,21 @@
   .have-done-list {
     font-size: 0.8em;
     line-height: 1.2em;
-    background: lighten($color-lines, 5%);
+    background: lighten($color-text, 66%);
     padding: 1em;
     margin: 1em;
+    color: #333;
 
     h3 {
       font-weight: 700;
       margin: 0;
+      color: #333;
     }
     ul {
       list-style: none;
       margin-left: 1em;
       font-style: normal;
-      color: lighten($color-text, 10%);
+      color: lighten(#333, 30%);
       margin-top: 0.5em;
       margin-bottom: 0;
     }

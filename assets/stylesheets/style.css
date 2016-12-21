@@ -303,17 +303,19 @@ h3 {
 .objectives-course .have-done-list {
   font-size: 0.8em;
   line-height: 1.2em;
-  background: rgba(117, 98, 56, 0.1);
+  background: #f7f4ee;
   padding: 1em;
-  margin: 1em; }
+  margin: 1em;
+  color: #333; }
   .objectives-course .have-done-list h3 {
     font-weight: 700;
-    margin: 0; }
+    margin: 0;
+    color: #333; }
   .objectives-course .have-done-list ul {
     list-style: none;
     margin-left: 1em;
     font-style: normal;
-    color: #867141;
+    color: gray;
     margin-top: 0.5em;
     margin-bottom: 0; }
   .objectives-course .have-done-list li {
