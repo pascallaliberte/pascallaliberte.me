@@ -72,14 +72,14 @@ Hi. My name is [Pascal Laliberté](/) and, starting in the new year, I'll be off
 * **<mark>Picture "perfection"</mark>**: I like imagining the best way something can become, and _have-done lists_ encourage me to do that, while letting me...
 * **<mark>Prioritize ruthlessly</mark>** to find the smallest possible, most impactful thing I can do first, which allow me to...
 * **<mark>Have quick successes</mark>** that help me get to fun stuff later on, which help me...
-* **<mark>Get away from the always-urgent</mark>** things and toward the important, less-urgent goals, which freed up my attention and energy to...
+* **<mark>Get away from the always-urgent</mark>** and closer to the important, less-urgent goals, which freed up my attention and energy to...
 * **<mark>Tackle the most complex situations</mark>** and turn them around, in my family, in my work, with my friendships, where it matters.
 {: .lets-me-list }
 
 ### I turn to _have-done lists_...
 
 * *...instead of*{: .instead-of-prefix } **giving too much attention to urgent to-dos.** Have-done lists require you to "start with the end in mind", forcing you to remove yourself from the urgency.
-* *...instead of*{: .instead-of-prefix } **letting guilt accumulate** about things I'm not giving my attention to. Every day you can start fresh with a new list, make hard decisions about what's in and what's out, and beat the guilt.
+* *...instead of*{: .instead-of-prefix } **letting guilt accumulate** about things I'm not giving my attention to. Every day you can start fresh with a new list and make hard decisions about what's in and what's out. Beat the guilt!
 * *...instead of*{: .instead-of-prefix } **writing to-do lists**, because not everything that matters is a to-do. Sometimes what matters is to adopt a posture, or to listen, or to receive, or to connect. Have-done lists allow for those, no problem.
 * *...instead of*{: .instead-of-prefix } **using different techniques for different time scales**. Have-done lists work on tiny time scales (_before my meeting with my boss, I'll have..._) as well as huge time scales (_before my kids leave for university, I'll have..._)
 * *...instead of*{: .instead-of-prefix } **compromising on my vision**, since _there is a way_ to get the concrete stuff done while, _at the same time_, match my vision of how things should be...
@@ -142,7 +142,7 @@ To get on the notification list to know when the first group will start (or to g
 
 Or if you've got some questions, look below for my email address.
 
-Keep going those big plans!  
+Keep going on those big plans!  
 Sincerely,
 
 --
