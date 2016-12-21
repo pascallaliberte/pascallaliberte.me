@@ -68,14 +68,15 @@ Hi. My name is [Pascal Laliberté](/) and, starting in the new year, I'll be off
 
 ### I turn to _have-done lists_...
 
-* *...instead of*{: .instead-of-prefix } **letting guilt accumulate** about things I wasn't giving my attention to
-* *...instead of*{: .instead-of-prefix } **using more rigid frameworks** like Getting Things Done or task-organization software (I now use [TaskPaper](https://www.taskpaper.com) with [a custom-made theme](https://github.com/pascallaliberte/theme-notes-first) for writing have-done lists)
 * *...instead of*{: .instead-of-prefix } **giving too much attention to urgent to-dos.** Have-done lists require you to "start with the end in mind", forcing you to remove yourself from the urgency
-* *...instead of*{: .instead-of-prefix } **sitting still on important-but-not-urgent problems** that needed to get tackled
+* *...instead of*{: .instead-of-prefix } **letting guilt accumulate** about things I'm not giving my attention to. Every day you can start fresh with a new list, make hard decisions about what's in and what's out, and beat the guilt
 * *...instead of*{: .instead-of-prefix } **writing to-do lists**, because not everything that matters is a to-do. Sometimes what matters is to adopt a posture, or to listen, or to receive, or to connect. Have-done lists allow for those, no problem
 * *...instead of*{: .instead-of-prefix } **using different techniques for different time scales**. Have-done lists work on tiny time scales (_before my meeting with my boss, I'll have..._) as well as huge time scales (_before my kids leave for university, I'll have..._)
-* *...instead of*{: .instead-of-prefix } **compromising on my vision**, since there is _a way_ to get the concrete stuff done while, _at the same time_, match my vision of how things should be...
+* *...instead of*{: .instead-of-prefix } **compromising on my vision**, since _there is a way_ to get the concrete stuff done while, _at the same time_, match my vision of how things should be...
 {: .instead-of-list }
+
+[Ok, this is for me, I want to sign up](#get-started){: .sign-up-link }
+{: .sign-up-link-wrapper }
 
 ## Structure of the course
 
@@ -87,7 +88,7 @@ Week after week, example by example, you'll **unlearn what leads to stale outcom
 
 Also, with each email, I'll encourage you to share what you have with me so I can give you feedback. Just reply back to share your own list, and I'll help you by **giving you quick ideas and suggestions to improve what you have**.
 
-[How do I sign-up?](#get-started){: .sign-up-link }
+[How can I get notified when it launches?](#get-started){: .sign-up-link }
 {: .sign-up-link-wrapper }
 
 ***
