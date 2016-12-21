@@ -142,7 +142,7 @@ To get on the notification list to know when the first group will start (or to g
 
 Or if you've got some questions, look below for my email address.
 
-Hope to talk to you in the new year.  
+Keep going those big plans!  
 Sincerely,
 
 --
