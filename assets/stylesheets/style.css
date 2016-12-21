@@ -356,7 +356,8 @@ h3 {
     text-align: right; } }
 .objectives-course ul.lets-me-list {
   list-style: none;
-  margin-left: 1rem; }
+  margin-left: 1rem;
+  margin-bottom: 3rem; }
 
 .update ol {
   margin-bottom: 1em; }

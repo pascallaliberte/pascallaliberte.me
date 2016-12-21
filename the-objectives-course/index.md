@@ -4,7 +4,7 @@ class: objectives-course
 title: The Objectives Course
 ---
 
-<mark>Are you envisioning a change that you feel is important, but it's losing out to a mountain of to-dos?</mark> Or how about this: are you making promises with yourself that you can't seem to keep? If that's your situation, here's something that could help:
+<mark>Do you have a vision for changing things around you, but it's losing out to a mountain of to-dos?</mark> Or how about this: are you making promises with yourself that you can't seem to keep? If that's your situation, here's something that could help:
 {: .switch-away-from }
 
 # The Objectives Course
@@ -14,7 +14,7 @@ title: The Objectives Course
 
 It'll start in the new year, with a group of 5 people, using examples and individual coaching. All done over email.
 
-[Scroll down to sign-up](#get-started) or check below for more details...
+[Get notified of the launch](#get-started) or check below for more details...
 </div>
 
 ***
@@ -57,18 +57,7 @@ Hi. My name is [Pascal Laliberté](/) and, starting in the new year, I'll be off
 </div>
 </div>
 
-I've been using this specific format of objective-writing for a few years...
-
-* *Instead of*{: .instead-of-prefix } **letting guilt accumulate** about things I wasn't giving my attention to
-* *Instead of*{: .instead-of-prefix } **using more rigid frameworks** like GTD or task-organization software (I now use [TaskPaper](https://www.taskpaper.com) with [a custom-made theme](https://github.com/pascallaliberte/theme-notes-first) for writing have-done lists)
-* *Instead of*{: .instead-of-prefix } **giving too much attention to urgent to-dos.** Have-done lists require you to "start with the end in mind", forcing you to remove yourself from the urgency
-* *Instead of*{: .instead-of-prefix } **sitting still on important-but-not-urgent problems** that needed to get tackled
-* *Instead of*{: .instead-of-prefix } **writing to-do lists**, because not everything that matters is a to-do. Sometimes what matters is to adopt a posture, or to listen, or to receive, or to connect. Have-done lists allow for those, no problem
-* *Instead of*{: .instead-of-prefix } **using different techniques for different time scales**. Have-done lists work on tiny time scales (_before my meeting with my boss, I'll have..._) as well as huge time scales (_before my kids leave for university, I'll have..._)
-* *Instead of*{: .instead-of-prefix } **compromising on my vision**, since there is _a way_ to get the concrete stuff done while, _at the same time_, match my vision of how things should be...
-{: .instead-of-list }
-
-And I've found that this format lets me...
+### I've found that _have-done lists_ let me...
 
 * **<mark>Picture "perfection"</mark>**: I like imagining the best way something can become, and _have-done lists_ encourage me to do that, while letting me...
 * **<mark>Prioritize ruthlessly</mark>** to find the smallest possible, most impactful thing I can do first, which allow me to...
@@ -76,6 +65,17 @@ And I've found that this format lets me...
 * **<mark>Get away from the always-urgent</mark>** things and toward the important, less-urgent goals, which freed up my attention and energy to...
 * **<mark>Tackle the most complex situations</mark>** and turn them around, in my family, in my work, with my friendships, where it matters.
 {: .lets-me-list }
+
+### I turn to _have-done lists_...
+
+* *...instead of*{: .instead-of-prefix } **letting guilt accumulate** about things I wasn't giving my attention to
+* *...instead of*{: .instead-of-prefix } **using more rigid frameworks** like Getting Things Done or task-organization software (I now use [TaskPaper](https://www.taskpaper.com) with [a custom-made theme](https://github.com/pascallaliberte/theme-notes-first) for writing have-done lists)
+* *...instead of*{: .instead-of-prefix } **giving too much attention to urgent to-dos.** Have-done lists require you to "start with the end in mind", forcing you to remove yourself from the urgency
+* *...instead of*{: .instead-of-prefix } **sitting still on important-but-not-urgent problems** that needed to get tackled
+* *...instead of*{: .instead-of-prefix } **writing to-do lists**, because not everything that matters is a to-do. Sometimes what matters is to adopt a posture, or to listen, or to receive, or to connect. Have-done lists allow for those, no problem
+* *...instead of*{: .instead-of-prefix } **using different techniques for different time scales**. Have-done lists work on tiny time scales (_before my meeting with my boss, I'll have..._) as well as huge time scales (_before my kids leave for university, I'll have..._)
+* *...instead of*{: .instead-of-prefix } **compromising on my vision**, since there is _a way_ to get the concrete stuff done while, _at the same time_, match my vision of how things should be...
+{: .instead-of-list }
 
 ## Structure of the course
 
