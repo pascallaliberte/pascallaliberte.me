@@ -11,6 +11,9 @@
     <meta name="Copyright" content="Copyright {{ site.author }}. All Rights Reserved.">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta charset="utf-8">
+
+    {% include og.html %}
+
     <link rel="stylesheet" type="text/css" href="/assets/stylesheets/style.css">
     {% if page.stylesheet %}
       <link rel="stylesheet" type="text/css" href="/assets/stylesheets/{{ page.stylesheet }}.css">
