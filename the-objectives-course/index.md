@@ -1,7 +1,17 @@
 ---
 layout: default
 class: objectives-course
-title: The Objectives Course
+title: "The Objectives Course: Have Some Big Plans"
+og:
+  title: "The Objectives Course"
+  description: "A 10-week course on writing have-done lists: a clever way to write objectives to get on top of your day-to-day activities while helping you advance on your bigger picture vision"
+  images:
+    - url: "./preview-1200x630.png"
+      width: 1200
+      height: 630
+    - url: "./preview-180x110.png"
+      width: 180
+      height: 110
 ---
 
 <mark>Do you have a vision for doing bigger things, but it's losing out to a mountain of to-dos?</mark> Or how about this: are you making promises with yourself that you can't seem to keep? If that's your situation, here's something that could help:
