@@ -4,7 +4,7 @@ class: objectives-course
 title: The Objectives Course
 ---
 
-<mark>Do you have a vision for changing bigger things, but it's losing out to a mountain of to-dos?</mark> Or how about this: are you making promises with yourself that you can't seem to keep? If that's your situation, here's something that could help:
+<mark>Do you have a vision for doing bigger things, but it's losing out to a mountain of to-dos?</mark> Or how about this: are you making promises with yourself that you can't seem to keep? If that's your situation, here's something that could help:
 {: .switch-away-from }
 
 # The Objectives Course
