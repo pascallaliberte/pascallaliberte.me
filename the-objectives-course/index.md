@@ -4,7 +4,7 @@ class: objectives-course
 title: The Objectives Course
 ---
 
-<mark>Do you have a vision for changing things around you, but it's losing out to a mountain of to-dos?</mark> Or how about this: are you making promises with yourself that you can't seem to keep? If that's your situation, here's something that could help:
+<mark>Do you have a vision for changing bigger things, but it's losing out to a mountain of to-dos?</mark> Or how about this: are you making promises with yourself that you can't seem to keep? If that's your situation, here's something that could help:
 {: .switch-away-from }
 
 # The Objectives Course
@@ -68,9 +68,9 @@ Hi. My name is [Pascal Laliberté](/) and, starting in the new year, I'll be off
 
 ### I turn to _have-done lists_...
 
-* *...instead of*{: .instead-of-prefix } **giving too much attention to urgent to-dos.** Have-done lists require you to "start with the end in mind", forcing you to remove yourself from the urgency
-* *...instead of*{: .instead-of-prefix } **letting guilt accumulate** about things I'm not giving my attention to. Every day you can start fresh with a new list, make hard decisions about what's in and what's out, and beat the guilt
-* *...instead of*{: .instead-of-prefix } **writing to-do lists**, because not everything that matters is a to-do. Sometimes what matters is to adopt a posture, or to listen, or to receive, or to connect. Have-done lists allow for those, no problem
+* *...instead of*{: .instead-of-prefix } **giving too much attention to urgent to-dos.** Have-done lists require you to "start with the end in mind", forcing you to remove yourself from the urgency.
+* *...instead of*{: .instead-of-prefix } **letting guilt accumulate** about things I'm not giving my attention to. Every day you can start fresh with a new list, make hard decisions about what's in and what's out, and beat the guilt.
+* *...instead of*{: .instead-of-prefix } **writing to-do lists**, because not everything that matters is a to-do. Sometimes what matters is to adopt a posture, or to listen, or to receive, or to connect. Have-done lists allow for those, no problem.
 * *...instead of*{: .instead-of-prefix } **using different techniques for different time scales**. Have-done lists work on tiny time scales (_before my meeting with my boss, I'll have..._) as well as huge time scales (_before my kids leave for university, I'll have..._)
 * *...instead of*{: .instead-of-prefix } **compromising on my vision**, since _there is a way_ to get the concrete stuff done while, _at the same time_, match my vision of how things should be...
 {: .instead-of-list }
