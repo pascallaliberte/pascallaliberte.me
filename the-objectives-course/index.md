@@ -22,14 +22,14 @@ og:
 <div class="intro" markdown="1">
 **A 10-week course on writing _have-done_ lists: a clever way to write objectives to get on top of your day-to-day activities _while_ helping you advance on your bigger picture vision.**
 
-It'll start in the new year, with a group of 5 people, using examples and individual coaching. All done over email.
+It'll start in a few weeks, with a group of 5 people, using examples and individual coaching. All done over email.
 
 [Get notified of the launch](#get-started) or check below for more details...
 </div>
 
 ***
 
-Hi. My name is [Pascal Laliberté](/) and, starting in the new year, I'll be offering a course **about a trick I've learned: how to write objectives in a way I call _have-done lists_**.
+Hi. My name is [Pascal Laliberté](/) and, starting in a few weeks, I'll be offering a course **about a trick I've learned: how to write objectives in a way I call _have-done lists_**.
 
 ## Here's what **_have-done lists_** look like:
 {: .have-done-lists-heading }
@@ -128,7 +128,7 @@ Also, with each email, I'll encourage you to share what you have with me so I ca
 ## To get started
 {: #get-started }
 
-The course will start in the new year with a first group of 5 people, coached individually.
+The course will start in a few weeks with a first group of 5 people, coached individually.
 
 There will be a one-time fee to take the course. If you're not happy with how the course is going for you, I'll issue you a full refund.
 
