@@ -18,6 +18,7 @@ og:
 {: .switch-away-from }
 
 # The Objectives Course
+{: #course-title }
 
 <div class="intro" markdown="1">
 **A 10-week course on writing _have-done_ lists: a clever way to write objectives to get on top of your day-to-day activities _while_ helping you advance on your bigger picture vision.**
@@ -136,7 +137,7 @@ To get on the notification list to know when the first group will start (or to g
 
 *You won't get spam and this list will only be used to announce new groups.*
 
-{% include signup-objectives-course.html %}
+{% include signup-objectives-course-cohort.html %}
 
 *Know someone who would be a good fit? Here's the link to this page, to copy in an email or message: <http://pascallaliberte.me/the-objectives-course/>*
 
