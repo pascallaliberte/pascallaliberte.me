@@ -23,14 +23,14 @@ og:
 <div class="intro" markdown="1">
 **A 10-week course on writing _have-done_ lists: a clever way to write objectives to get on top of your day-to-day activities _while_ helping you advance on your bigger picture vision.**
 
-It'll start in a few weeks, with a group of 5 people, using examples and individual coaching. All done over email.
+The course starts on Feb 26, and the deadline to signup is Feb 19.
 
-[Get notified of the launch](#get-started) or check below for more details...
+[Signup now](#get-started) or check below for more details...
 </div>
 
 ***
 
-Hi. My name is [Pascal Laliberté](/) and, starting in a few weeks, I'll be offering a course **about a trick I've learned: how to write objectives in a way I call _have-done lists_**.
+Hi. My name is [Pascal Laliberté](/) and I'm offering a course **about a trick I've learned: how to write objectives in a way I call _have-done lists_**.
 
 ## Here's what **_have-done lists_** look like:
 {: .have-done-lists-heading }
@@ -40,10 +40,9 @@ Hi. My name is [Pascal Laliberté](/) and, starting in a few weeks, I'll be offe
 <div class="have-done-list" markdown="1">
 ### Before the end of the evening, I'll have:
 
-* Improved the text of the intro to the course
-* Sent the new intro page to a couple friends for their feedback
-* Advanced in preparing my objectives for what I'll have done before Christmas
-* Got back to a friend about going to see Rogue One at the movies before the holiday break
+* Made a first draft of the revision to the course intro page
+* Tagged my expenses to review
+* Created a signup form
 </div>
 
 <div class="have-done-list" markdown="1">
@@ -79,27 +78,29 @@ Hi. My name is [Pascal Laliberté](/) and, starting in a few weeks, I'll be offe
 
 ### I turn to _have-done lists_...
 
-* *...instead of*{: .instead-of-prefix } **giving too much attention to urgent to-dos.** Have-done lists require you to "start with the end in mind", forcing you to remove yourself from the urgency.
+* *...instead of*{: .instead-of-prefix } **giving too much attention to urgent to-dos.** Have-done lists require you to _start with the end in mind_, forcing you to remove yourself from the urgency.
 * *...instead of*{: .instead-of-prefix } **letting guilt accumulate** about things I'm not giving my attention to. Every day you can start fresh with a new list and make hard decisions about what's in and what's out. Beat the guilt!
 * *...instead of*{: .instead-of-prefix } **writing to-do lists**, because not everything that matters is a to-do. Sometimes what matters is to adopt a posture, or to listen, or to receive, or to connect. Have-done lists allow for those, no problem.
 * *...instead of*{: .instead-of-prefix } **using different techniques for different time scales**. Have-done lists work on tiny time scales (_before my meeting with my boss, I'll have..._) as well as huge time scales (_before my kids leave for university, I'll have..._)
 * *...instead of*{: .instead-of-prefix } **compromising on my vision**, since _there is a way_ to get the concrete stuff done while, _at the same time_, match my vision of how things should be...
 {: .instead-of-list }
 
-[Ok, this is for me, I want to sign up](#get-started){: .sign-up-link }
+[Ok, take me to the place where I sign up](#get-started){: .sign-up-link }
 {: .sign-up-link-wrapper }
 
 ## Structure of the course
 
-The course will run over 10 weeks.
+The course will run over 10 weeks, starting on Feb 26.
 
 **Every week, you'll receive an email** with an example situation (we'll pretend you're the person in the situation). We'll use _have-done lists_ to help write some objectives to get progress on that example situation.
 
 Week after week, example by example, you'll **unlearn what leads to stale outcomes**, and you'll learn new ways to write objectives that get you what you really want. It'll be like **learning a new language**.
 
-Also, with each email, I'll encourage you to share what you have with me so I can give you feedback. Just reply back to share your own list, and I'll help you by **giving you quick ideas and suggestions to improve what you have**.
+Also, with each email, I'll encourage you to share your objectives with me so I can give you feedback. Just reply back to share your own list, and I'll help you by **giving you quick ideas and suggestions to improve the way your objectives are written**.
 
-[How can I get notified when it launches?](#get-started){: .sign-up-link }
+For the Feb 26 course, I'll only take 5 people who I think I can most help, so be sure to apply before the deadline, Feb 19.
+
+[Signup before Feb 19 to be part of the course](#get-started){: .sign-up-link }
 {: .sign-up-link-wrapper }
 
 ***
@@ -129,19 +130,17 @@ Also, with each email, I'll encourage you to share what you have with me so I ca
 ## To get started
 {: #get-started }
 
-The course will start in a few weeks with a first group of 5 people, coached individually.
+The course will start on Feb 26 with 5 people with whom I feel there's a good match for the course. Each will be coached individually.
 
-There will be a one-time fee to take the course. If you're not happy with how the course is going for you, I'll issue you a full refund.
+The course will cost $200.
 
-To get on the notification list to know when the first group will start (or to get notified about the next groups), here's how to sign up:
+If you're not happy with how the course is going for you, I'll issue you a full refund.
 
-*You won't get spam and this list will only be used to announce new groups.*
+The signup form is just here below. After receiving your signup, I'll contact you to learn more about you, and if I think the course will be helpful, I'll send you a link to pay via Paypal.
 
 {% include signup-objectives-course-cohort.html %}
 
-*Know someone who would be a good fit? Here's the link to this page, to copy in an email or message: <http://pascallaliberte.me/the-objectives-course/>*
-
-Or if you've got some questions, look below for my email address.
+If you've got some questions, look below for my email address.
 
 Keep going on those big plans!  
 Sincerely,
