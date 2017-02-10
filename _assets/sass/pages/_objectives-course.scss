@@ -9,6 +9,25 @@
     }
   }
 
+  .img-responsive {
+    width: 100%;
+    height: auto;
+    display: block;
+  }
+  .img-responsive-full {
+    display: none;
+  }
+  @include responsive-break-point(420px) {
+    .img-responsive-mobile {
+      display: none;
+    }
+    .img-responsive-full {
+      display: block;
+    }
+  }
+
+
+
   h1 {
     text-align: center;
     font-weight: bold;

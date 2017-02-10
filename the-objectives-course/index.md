@@ -28,6 +28,12 @@ The course starts on Feb 26, and the deadline to signup is Feb 19.
 [Signup now](#get-started) or check below for more details...
 </div>
 
+<div class="img-responsive-wrapper">
+  <img class="img-responsive img-responsive-mobile" src="./todos-vision-mobile.jpg">
+  <img class="img-responsive img-responsive-full" src="./todos-vision.jpg">
+</div>
+
+
 ***
 
 Hi. My name is [Pascal Laliberté](/) and I'm offering a course **about a trick I've learned: how to write objectives in a way I call _have-done lists_**.
