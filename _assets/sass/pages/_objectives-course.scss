@@ -83,11 +83,46 @@
     }
   }
 
-  .intro, #mc_embed_signup {
+  .intro, #mc_embed_signup, .createform {
     padding: 1em;
     background: transparentize($color-highlight, 0.7);
     border-radius: 0.3em;
     margin: 1em 0 2em;
+    box-sizing: border-box;
+  }
+
+  ul.get-started-checklist {
+    font-weight: bold;
+    width: 80%;
+    margin: 0 auto;
+    list-style: none;
+    font-style: normal;
+    li {
+      margin: 0.5em 0;
+      margin-left: 2em;
+      display:inline-block;
+      position: relative;
+
+      &:after{
+        /*Add another block-level blank space*/
+        content: '';
+        display: block;
+        position: absolute;
+        left: -2em;
+        top: -0.3em;
+
+        /*Make it a small rectangle so the border will create an L-shape*/
+        width: 0.5em;
+        height: 1.2em;
+
+        /*Add a white border on the bottom and left, creating that 'L' */
+        border: solid #bb5400;
+        border-width: 0 0.3em 0.3em 0;
+
+        /*Rotate the L 45 degrees to turn it into a checkmark*/
+        transform: rotate(45deg);
+      }
+    }
   }
 
   .sign-up-link {

@@ -136,13 +136,11 @@ For the Feb 26 course, I'll only take 5 people who I think I can most help, so b
 ## To get started
 {: #get-started }
 
-The course will start on Feb 26 with 5 people with whom I feel there's a good match for the course. Each will be coached individually.
-
-The course will cost $200.
-
-If you're not happy with how the course is going for you, I'll issue you a full refund.
-
-The signup form is just here below. After receiving your signup, I'll contact you to learn more about you, and if I think the course will be helpful, I'll send you a link to pay via Paypal.
+* The course will start on Feb 26 with 5 people with whom I feel there's a good match for the course. Each will be coached individually.
+* The course will cost $200.
+* If you're not happy with how the course is going for you, I'll issue you a full refund.
+* The signup form is just here below. After receiving your signup, I'll contact you to learn more about you, and if I think the course will be helpful, I'll send you a link to pay via Paypal.
+{: .get-started-checklist }
 
 {% include signup-objectives-course-cohort.html %}
 
