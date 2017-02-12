@@ -14,7 +14,7 @@ og:
       height: 110
 ---
 
-<mark>Do you have a vision for doing bigger things, but it's losing out to a mountain of to-dos?</mark> Or how about this: are you making promises with yourself that you can't seem to keep? If that's your situation, here's something that could help:
+<mark>Do you have a vision for doing bigger things, but it's competing with a mountain of to-dos?</mark> Or how about this: are you making promises with yourself that you can't seem to keep? If that's your situation, here's something that could help:
 {: .switch-away-from }
 
 # The Objectives Course
@@ -133,8 +133,11 @@ For the Feb 26 course, I'll only take 5 people who I think I can most help, so b
 
 ***
 
-## To get started
+## Sign up before Feb 19 to get started
 {: #get-started }
+
+### How it will work
+{: .get-started-heading }
 
 * The course starts on Feb 26 with 5 people, coached individually.
 * To be one of the first 5, sign up below and tell me about yourself, so we can see if we're a good match. After receiving your signup, I'll contact you to learn more about you, and if we think the course will be helpful (and you're one of the first 5), I'll send you a link to pay for the course via Paypal.
@@ -147,7 +150,16 @@ For the Feb 26 course, I'll only take 5 people who I think I can most help, so b
 [taskmator]: https://itunes.apple.com/app/taskmator-taskpaper-client/id806250172?mt=8
 [taskpaperarticle]: https://medium.com/@pascallaliberte/how-i-use-taskpaper-objectives-not-to-dos-d7183a318a83#.ytv94pwjd
 
+### Fill the form before Feb 19.
+{: .get-started-heading }
+
+These 8 questions will help me learn about you.
+
 {% include signup-objectives-course-cohort.html %}
+
+## A personal note
+
+I've relied on this way of writing objectives for much of the breakthroughs I've had in the last long while. By visualizing a better situation, and focusing on the smallest thing I could do to improve the situation, I found some surprising ways to make things work out with less effort. Put in the effort to re-write your options with these objectives lists, and you'll likely be surprised too.
 
 If you've got some questions, look below for my email address.
 

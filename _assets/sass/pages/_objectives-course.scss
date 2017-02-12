@@ -66,6 +66,12 @@
     font-size: 1em;
     line-height: 1.1;
     margin: 1em 0 0.5em;
+    &.get-started-heading {
+      font-weight: normal;
+      text-align: center;
+      text-transform: uppercase;
+      margin: 2em 0 1em;
+    }
   }
 
   ul {
@@ -92,7 +98,6 @@
   }
 
   ul.get-started-checklist {
-    font-weight: bold;
     width: 80%;
     margin: 0 auto;
     list-style: none;
@@ -135,6 +140,26 @@
   .sign-up-link-wrapper {
     text-align: center;
     margin: 1em 0;
+  }
+
+  .createform {
+    .cf-input {
+      padding: 0.5em .7em;
+    }
+
+    .cf-label {
+      margin-bottom: 0;
+      margin-top: 0;
+    }
+
+    .submit-btn {
+      font-size: 1em;
+      background-color: $color-link;
+    }
+
+    .cf-submit {
+      margin-top: 0;
+    }
   }
 
   hr {
