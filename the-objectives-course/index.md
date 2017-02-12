@@ -21,7 +21,7 @@ og:
 {: #course-title }
 
 <div class="intro" markdown="1">
-**A 10-week course on writing _have-done_ lists: a clever way to write objectives to get on top of your day-to-day activities _while_ helping you advance on your bigger picture vision.**
+**A 10-week course on writing _have-done_ lists: a clever way to write objectives to get on top of your day-to-day activities _while_ helping you advance on your bigger vision.**
 
 The course starts on Feb 26, and the deadline to signup is Feb 19.
 
@@ -86,9 +86,9 @@ Hi. My name is [Pascal Laliberté](/) and I'm offering a course **about a trick 
 
 * *...instead of*{: .instead-of-prefix } **giving too much attention to urgent to-dos.** Have-done lists require you to _start with the end in mind_, forcing you to remove yourself from the urgency.
 * *...instead of*{: .instead-of-prefix } **letting guilt accumulate** about things I'm not giving my attention to. Every day you can start fresh with a new list and make hard decisions about what's in and what's out. Beat the guilt!
-* *...instead of*{: .instead-of-prefix } **writing to-do lists**, because not everything that matters is a to-do. Sometimes what matters is to adopt a posture, or to listen, or to receive, or to connect. Have-done lists allow for those, no problem.
+* *...instead of*{: .instead-of-prefix } **writing to-do lists**, [because not everything that matters is a to-do](https://medium.com/@pascallaliberte/what-to-dos-cant-do-9e4568c7a901#.t9c97ucct). Sometimes what matters is to adopt a posture, or to listen, or to receive, or to connect. Have-done lists allow for those, no problem.
 * *...instead of*{: .instead-of-prefix } **using different techniques for different time scales**. Have-done lists work on tiny time scales (_before my meeting with my boss, I'll have..._) as well as huge time scales (_before my kids leave for university, I'll have..._)
-* *...instead of*{: .instead-of-prefix } **compromising on my vision**, since _there is a way_ to get the concrete stuff done while, _at the same time_, match my vision of how things should be...
+* *...instead of*{: .instead-of-prefix } **compromising on my vision**, since _there is a way_ to get the concrete stuff done while, _at the same time_, match my [vision of how things should be...](https://medium.com/@pascallaliberte/your-ideals-and-their-future-c0cd9966801c#.ci5yc7ss2)
 {: .instead-of-list }
 
 [Ok, take me to the place where I sign up](#get-started){: .sign-up-link }
@@ -136,17 +136,21 @@ For the Feb 26 course, I'll only take 5 people who I think I can most help, so b
 ## To get started
 {: #get-started }
 
-* The course will start on Feb 26 with 5 people with whom I feel there's a good match for the course. Each will be coached individually.
+* The course starts on Feb 26 with 5 people, coached individually.
+* To be one of the first 5, sign up below and tell me about yourself, so we can see if we're a good match. After receiving your signup, I'll contact you to learn more about you, and if we think the course will be helpful (and you're one of the first 5), I'll send you a link to pay for the course via Paypal.
 * The course will cost $200.
+* Over 10 weeks, you'll receive weekly emails showing an example situation where _have-done lists_ are used to re-write the sample person's objectives. Through these examples, you'll learn by repetition some new ways to apply the ideas, and ways to write them objectives in a way that connects with your situation. I'll also encourage you to share with me your own lists, if you like, so I can give you specific feedback.
+* To write your lists, any software tool that allows you to indent lines will do, but my tools of choice are [TaskPaper for Mac](https://taskpaper.com) and [Taskmator for iOS][taskmator].
 * If you're not happy with how the course is going for you, I'll issue you a full refund.
-* The signup form is just here below. After receiving your signup, I'll contact you to learn more about you, and if I think the course will be helpful, I'll send you a link to pay via Paypal.
 {: .get-started-checklist }
+
+[taskmator]: https://itunes.apple.com/app/taskmator-taskpaper-client/id806250172?mt=8
 
 {% include signup-objectives-course-cohort.html %}
 
 If you've got some questions, look below for my email address.
 
-Keep going on those big plans!  
+Keep going on your vision!  
 Sincerely,
 
 --
