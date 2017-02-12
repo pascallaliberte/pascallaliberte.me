@@ -140,11 +140,12 @@ For the Feb 26 course, I'll only take 5 people who I think I can most help, so b
 * To be one of the first 5, sign up below and tell me about yourself, so we can see if we're a good match. After receiving your signup, I'll contact you to learn more about you, and if we think the course will be helpful (and you're one of the first 5), I'll send you a link to pay for the course via Paypal.
 * The course will cost $200.
 * Over 10 weeks, you'll receive weekly emails showing an example situation where _have-done lists_ are used to re-write the sample person's objectives. Through these examples, you'll learn by repetition some new ways to apply the ideas, and ways to write them objectives in a way that connects with your situation. I'll also encourage you to share with me your own lists, if you like, so I can give you specific feedback.
-* To write your lists, any software tool that allows you to indent lines will do, but my tools of choice are [TaskPaper for Mac](https://taskpaper.com) and [Taskmator for iOS][taskmator].
+* To write your lists, any software tool that allows you to indent lines will do, but my tools of choice are [TaskPaper for Mac](https://taskpaper.com) and [Taskmator for iOS][taskmator] (here's an [article explaining how I use TaskPaper][taskpaperarticle])
 * If you're not happy with how the course is going for you, I'll issue you a full refund.
 {: .get-started-checklist }
 
 [taskmator]: https://itunes.apple.com/app/taskmator-taskpaper-client/id806250172?mt=8
+[taskpaperarticle]: https://medium.com/@pascallaliberte/how-i-use-taskpaper-objectives-not-to-dos-d7183a318a83#.ytv94pwjd
 
 {% include signup-objectives-course-cohort.html %}
 
