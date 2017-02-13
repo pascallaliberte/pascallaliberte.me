@@ -25,7 +25,7 @@ og:
 
 The course starts on Feb 26, and the deadline to signup is Feb 19.
 
-[Signup now](#get-started) or check below for more details...
+[Sign up now](#get-started) or check below for more details...
 </div>
 
 <div class="img-responsive-wrapper">
@@ -48,7 +48,7 @@ Hi. My name is [Pascal Laliberté](/) and I'm offering a course **about a trick 
 
 * Made a first draft of the revision to the course intro page
 * Tagged my expenses to review
-* Created a signup form
+* Created a sign up form
 </div>
 
 <div class="have-done-list" markdown="1">
@@ -106,7 +106,7 @@ Also, with each email, I'll encourage you to share your objectives with me so I 
 
 For the Feb 26 course, I'll only take 5 people who I think I can most help, so be sure to apply before the deadline, Feb 19.
 
-[Signup before Feb 19 to be part of the course](#get-started){: .sign-up-link }
+[Sign up before Feb 19 to be part of the course](#get-started){: .sign-up-link }
 {: .sign-up-link-wrapper }
 
 ***
@@ -140,7 +140,7 @@ For the Feb 26 course, I'll only take 5 people who I think I can most help, so b
 {: .get-started-heading }
 
 * The course starts on Feb 26 with 5 people, coached individually.
-* To be one of the first 5, sign up below and tell me about yourself, so we can see if we're a good match. After receiving your signup, I'll contact you to learn more about you, and if we think the course will be helpful (and you're one of the first 5), I'll send you a link to pay for the course via Paypal.
+* To be one of the first 5, sign up below and tell me about yourself, so we can see if we're a good match. After receiving your sign up, I'll contact you to learn more about you, and if we think the course will be helpful (and you're one of the first 5), I'll send you a link to pay for the course via Paypal.
 * The price of the course is $200.
 * Over 10 weeks, you'll receive weekly emails showing an example situation where _have-done lists_ are used to re-write the sample person's objectives. Through these examples, you'll learn by repetition some new ways to apply the ideas, and ways to write them objectives in a way that connects with your situation. I'll also encourage you to share with me your own lists, if you like, so I can give you specific feedback.
 * To write your lists, any software tool that allows you to indent lines will do, but my tools of choice are [TaskPaper for Mac](https://taskpaper.com) and [Taskmator for iOS][taskmator] (here's an [article explaining how I use TaskPaper][taskpaperarticle])
