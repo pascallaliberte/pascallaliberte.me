@@ -98,7 +98,7 @@ Hi. My name is [Pascal Laliberté](/) and I'm offering a course **about a trick 
 
 The course will run over 10 weeks, starting on Feb 26.
 
-**Every week, you'll receive an email** with an example situation (we'll pretend you're the person in the situation). We'll use _have-done lists_ to help write some objectives to get progress on that example situation.
+**Every week, you'll receive an email** with an example situation (we'll pretend you're the person in the situation). We'll use _have-done lists_ to help write some objectives to get progress on that example situation. Here's an example [article which resembles how an example will be delivered](https://medium.com/@pascallaliberte/install-those-resolutions-962f7b52ac3b#.fwjhfv7px) in your email.
 
 Week after week, example by example, you'll **unlearn what leads to stale outcomes**, and you'll learn new ways to write objectives that get you what you really want. It'll be like **learning a new language**.
 
@@ -141,7 +141,7 @@ For the Feb 26 course, I'll only take 5 people who I think I can most help, so b
 
 * The course starts on Feb 26 with 5 people, coached individually.
 * To be one of the first 5, sign up below and tell me about yourself, so we can see if we're a good match. After receiving your signup, I'll contact you to learn more about you, and if we think the course will be helpful (and you're one of the first 5), I'll send you a link to pay for the course via Paypal.
-* The course will cost $200.
+* The price of the course is $200.
 * Over 10 weeks, you'll receive weekly emails showing an example situation where _have-done lists_ are used to re-write the sample person's objectives. Through these examples, you'll learn by repetition some new ways to apply the ideas, and ways to write them objectives in a way that connects with your situation. I'll also encourage you to share with me your own lists, if you like, so I can give you specific feedback.
 * To write your lists, any software tool that allows you to indent lines will do, but my tools of choice are [TaskPaper for Mac](https://taskpaper.com) and [Taskmator for iOS][taskmator] (here's an [article explaining how I use TaskPaper][taskpaperarticle])
 * If you're not happy with how the course is going for you, I'll issue you a full refund.
@@ -151,7 +151,7 @@ For the Feb 26 course, I'll only take 5 people who I think I can most help, so b
 [taskpaperarticle]: https://medium.com/@pascallaliberte/how-i-use-taskpaper-objectives-not-to-dos-d7183a318a83#.ytv94pwjd
 
 ### Fill the form before Feb 19.
-{: .get-started-heading }
+{: .get-started-heading #signup }
 
 These 8 questions will help me learn about you.
 
