@@ -7,6 +7,10 @@ layout: default
 Hi, I'm Pascal Laliberté. <span class="nowrap">Thanks for dropping by.</span>
 {: .home-intro }
 
+## A Course on Writing Objectives
+
+On Feb 26, I'm launching a course on how to write objectives called [The Objectives Course](/the-objectives-course/). The course will be especially useful if your bigger vision of how things can be is in competition with smaller to-dos. If that's the case, [check it out](/the-objectives-course/). Sign-ups for the course are happening this week, until Feb. 19. Places are limited for the first group starting on Feb. 26.
+
 ## My work: User Interface Designer and Developer
 
 I'm currently part of the team at [FarmLead][farmlead], a marketplace for farmers to sell their grain, where we've recently launched a redesign of the app. My role was in leading the design (Web, Android, iOS) and in building the web app.
