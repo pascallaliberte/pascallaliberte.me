@@ -11,9 +11,17 @@ Hi, I'm Pascal Laliberté. <span class="nowrap">Thanks for dropping by.</span>
 
 I'm offering a course on how to write objectives called [The Objectives Course](/the-objectives-course/). The course will be especially useful if your bigger vision is competing with many smaller things you also care about.
 
-## My work: User Interface Designer and Developer
+## My work: Consultant
 
-I'm currently part of the team at [FarmLead][farmlead], a marketplace for farmers to sell their grain, where we've recently launched a redesign of the app. My role was in leading the design (Web, Android, iOS) and in building the web app.
+I'm currently preparing to announce my services as a consultant.
+
+Would you like to be notified when I have something to announce? You will only receive emails when I announce new consulting services.
+
+{% include signup-services-announcement.html %}
+
+## Previous work
+
+Up until February, I was at [FarmLead][farmlead], a marketplace for farmers to sell their grain. My role was in leading the design (Web, Android, iOS) and in building the web app.
 
 Previously, it's at the University of Ottawa that I helped bring user-centered design thinking, working on the web templates, and designing apps and web sites. At its Faculty of Medicine, I helped direct the creation of [Learn.med][learnmed], an online learning platform.
 
