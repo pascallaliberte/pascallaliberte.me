@@ -24,6 +24,28 @@
   }
   li {
   }
+
+  #mc_embed_signup {
+    &, & .button, & input.email, & #mc-embedded-subscribe-form div.mce_inline_error {
+      font: inherit;
+    }
+    .button {
+      height: auto;
+    }
+    div#mce-responses {
+      padding: 0;
+      margin: 0;
+    }
+    div.response {
+      margin: 0 0 1em;
+      padding: 0;
+    }
+    padding: 1em;
+    background: transparentize($color-highlight, 0.7);
+    border-radius: 0.3em;
+    margin: 1em 0 2em;
+    box-sizing: border-box;
+  }
 }
 
 .home-intro {
