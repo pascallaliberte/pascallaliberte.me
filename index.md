@@ -15,7 +15,7 @@ I'm offering a course on how to write objectives called [The Objectives Course](
 
 I'm currently preparing to announce my services as a consultant.
 
-Would you like to be notified when I have something to announce? You will only receive emails when I announce new consulting services.
+Would you like to be notified when I have something to announce?
 
 {% include signup-services-announcement.html %}
 
