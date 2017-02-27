@@ -14,7 +14,7 @@ og:
       height: 110
 ---
 
-<mark>Do you have a vision for doing bigger things, but it's competing with a pile of other stuff you care about?</mark> Or how about this: are you making promises with yourself that you can't seem to keep? If that's your situation, here's something that could help:
+<mark>Do you have a vision for doing bigger things, but it's competing with a pile of other stuff you care about?</mark><br>Or how about this: are you making promises with yourself that you can't seem to keep? If that's your situation, here's something that could help:
 {: .switch-away-from }
 
 # The Objectives Course
