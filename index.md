@@ -1,10 +1,11 @@
 ---
-title: "I'm Pascal Laliberté. How are you?"
+title: "Pascal Laliberté"
 class: home
 layout: default
 ---
 
-Hi, I'm Pascal Laliberté. <span class="nowrap">Thanks for dropping by.</span>
+*Hi, this is the site of*  
+**Pascal Laliberté**, Ottawa, ON
 {: .home-intro }
 
 ## A Course on Writing Objectives
@@ -25,7 +26,7 @@ Up until February, I was at [FarmLead][farmlead], a marketplace for farmers to s
 
 Previously, it's at the University of Ottawa that I helped bring user-centered design thinking, working on the web templates, and designing apps and web sites. At its Faculty of Medicine, I helped direct the creation of [Learn.med][learnmed], an online learning platform.
 
-Lately, I've been doing work with [Vue.js][vuejs] for crafting web interfaces. When using Wordpress, I use the [Roots][rootsio] kits, but I prefer building sites using [Jekyll][jekyllrb], a static site generator. When designing, I prefer building real UIs through code, and I enjoy using [Sketch][sketchapp] for mocking them up.
+Lately, I've been doing work with [Vue.js][vuejs] for crafting web interfaces. When using Wordpress, I use the [Roots][rootsio] kits, but I prefer building sites using [Jekyll][jekyllrb], a static site generator. When designing, I prefer building real UIs through code, and I use [Sketch][sketchapp] for mocking them up.
 
 [farmlead]: https://farmlead.com/
 [learnmed]: https://learn.med.uottawa.ca/

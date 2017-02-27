@@ -110,7 +110,8 @@ a {
     visibility: hidden; }
 
 h1, h2 {
-  font-family: "freight-sans-pro", Helvetica, Arial, sans-serif; }
+  font-family: "freight-sans-pro", Helvetica, Arial, sans-serif;
+  font-weight: 900; }
 
 h1 {
   font-size: 3rem;
@@ -126,14 +127,14 @@ h3 {
   font-size: 1.2rem; }
 
 .content {
-  padding: 10vh 0.8rem; }
+  padding: 5vh 0.8rem; }
   .content h1 {
     margin-bottom: 2.5rem; }
   .content h2 {
     margin-top: 3rem;
     margin-bottom: 0.5rem; }
   .content p {
-    margin-bottom: 1rem; }
+    margin-bottom: 0.5rem; }
   .content ul {
     padding-left: 1.6rem;
     margin-bottom: 1rem; }
@@ -141,14 +142,14 @@ h3 {
 @media only screen and (min-width: 640px) {
   body {
     margin: 3rem;
-    font-size: 1.6rem;
+    font-size: 1.4rem;
     border: 0.2rem rgba(100, 84, 48, 0.1) solid;
     -webkit-border-radius: 2rem;
     -moz-border-radius: 2rem;
     border-radius: 2rem; }
 
   .content {
-    padding: 20vh 2rem;
+    padding: 15vh 2rem;
     max-width: 50rem;
     margin: 0 auto; }
     .content ul {
@@ -182,9 +183,13 @@ h3 {
   .footer {
     max-width: 960px; } }
 .home h2 {
+  font-family: "freight-sans-condensed-pro", Helvetica, Arial, sans-serif;
   display: inline-block;
-  border-bottom: 1px rgba(100, 84, 48, 0.1) solid;
-  margin-bottom: 2em; }
+  font-size: 1.5rem;
+  line-height: 0.9;
+  font-weight: 900;
+  text-transform: uppercase;
+  color: #708A9F; }
 .home hr {
   width: 2em;
   height: 1px;
@@ -212,9 +217,25 @@ h3 {
   .home #mc_embed_signup div.response {
     margin: 0 0 1em;
     padding: 0; }
-
-.home-intro {
-  margin-top: 1em; }
+.home .home-intro {
+  margin-top: 1em;
+  margin-bottom: 0;
+  padding-bottom: 1em;
+  position: relative; }
+  .home .home-intro strong {
+    font-family: "freight-sans-condensed-pro", Helvetica, Arial, sans-serif;
+    font-weight: 900;
+    text-transform: uppercase;
+    color: #708A9F;
+    font-size: 1.2em; }
+  .home .home-intro:after {
+    content: "";
+    width: 2rem;
+    height: 0;
+    border-bottom: 0.2rem solid rgba(100, 84, 48, 0.1);
+    bottom: 0;
+    left: 0;
+    position: absolute; }
 
 .home .home-beliefs {
   margin-left: 0;
@@ -245,6 +266,9 @@ h3 {
     margin: -0.1em 0; }
 
 @media only screen and (min-width: 640px) {
+  .home h2 {
+    font-size: 2.2rem;
+    width: 70%; }
   .home .home-beliefs li {
     margin-left: -0.5em; }
   .home ul {

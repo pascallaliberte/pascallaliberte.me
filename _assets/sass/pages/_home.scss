@@ -1,11 +1,18 @@
 // Home —————————————————————————————————————— •
 // ——————————————————————————————————————————— •
 
+$font-headings-home: "freight-sans-condensed-pro", Helvetica, Arial, sans-serif;
+$color-headings-home: #708A9F;
+
 .home {
   h2 {
+    font-family: $font-headings-home;
     display: inline-block;
-    border-bottom: 1px $color-lines solid;
-    margin-bottom: 2em;
+    font-size: 1.5rem;
+    line-height: 0.9;
+    font-weight: 900;
+    text-transform: uppercase;
+    color: $color-headings-home;
   }
   hr {
     width: 2em;
@@ -46,10 +53,28 @@
     margin: 1em 0 2em;
     box-sizing: border-box;
   }
-}
-
-.home-intro {
-  margin-top: 1em;
+  .home-intro {
+    margin-top: 1em;
+    margin-bottom: 0;
+    padding-bottom: 1em;
+    strong {
+      font-family: $font-headings-home;
+      font-weight: 900;
+      text-transform: uppercase;
+      color: $color-headings-home;
+      font-size: 1.2em;
+    }
+    position: relative;
+    &:after {
+      content: "";
+      width: 2rem;
+      height: 0;
+      border-bottom: 0.2rem solid $color-lines;
+      bottom: 0;
+      left: 0;
+      position: absolute;
+    }
+  }
 }
 
 .home .home-beliefs {
@@ -90,6 +115,10 @@
 
 @include responsive-break-point(640px) {
   .home {
+    h2 {
+      font-size: 2.2rem;
+      width: 70%;
+    }
     .home-beliefs {
       li {
         margin-left: -0.5em;
