@@ -23,7 +23,7 @@ og:
 <div class="intro" markdown="1">
 **A 10-week course on writing _have-done_ lists: a clever way to write objectives to get on top of your day-to-day activities _while_ helping you advance on your bigger vision.**
 
-A first group starts on Feb 26 (sign-ups are closed for that one), and if all goes well, other groups will be available in the coming months.
+A first group started on Feb. 26 (sign-ups are closed for that one), and if all goes well, other groups will be available in the coming months.
 
 [Sign up to be notified of future launches](#get-started) or check below for more details...
 </div>
@@ -47,11 +47,10 @@ Hi. My name is [Pascal Laliberté](/) and I'm offering a course **about a trick 
 ### Before the end of the morning, I'll have:
 
 * Made sure everyone in the family started their day feeling good
-* Advanced on preparing the course
-  * Modified the site to mention sign-ups are closed for Feb. 26
-  * Followed up with the people who signed-up for the next steps
-  * Revised the first few email send-outs
-* Did the 7-minute workout
+* Written the next example for the course
+  * Made a first draft of the evolution of the example's have-done list
+  * Written the narrative surrounding the example's have-done list
+* Done the 7-minute workout
 </div>
 
 <div class="have-done-list" markdown="1">
@@ -83,7 +82,7 @@ Hi. My name is [Pascal Laliberté](/) and I'm offering a course **about a trick 
 * **<mark>Have quick successes</mark>** that help me get to fun stuff later on, which help me...
 * **<mark>Get away from the always-urgent</mark>** and closer to the important, less-urgent goals, which freed up my attention and energy to...
 * **<mark>Tackle the most complex situations</mark>** and turn them around, in my family, in my work, with my friendships, where it matters, which, in the end, let me...
-* **<mark>Care more</mark>** about [pretty much everything][godeepineverything], but especially about what is bigger, more important.
+* **<mark>Care more</mark>** about [pretty much everything you care about][godeepineverything], but especially about what is bigger, more important.
 {: .lets-me-list }
 
 [godeepineverything]: https://medium.com/subtlety-in-faith/go-deep-on-everything-3bdf4db97134#.g8naua5nw
@@ -107,7 +106,7 @@ Hi. My name is [Pascal Laliberté](/) and I'm offering a course **about a trick 
 * **Every week, you'll receive an email** with an example situation (we'll pretend you're the person in the situation). We'll use _have-done lists_ to help write some objectives to get progress on that example situation. Here's an example [article which resembles how an example will be delivered](https://medium.com/@pascallaliberte/install-those-resolutions-962f7b52ac3b#.fwjhfv7px) in your email.
 * Week after week, example by example, you'll **unlearn what leads to stale outcomes**, and you'll learn new ways to write objectives that get you what you really want. It'll be like **learning a new language**.
 * Also, with each email, I'll encourage you to share your objectives with me so I can give you feedback. Just reply back to share your own list, and I'll help you by **giving you quick ideas and suggestions to improve the way your objectives are written**.
-* A first group is starting on Feb. 26, but stay tuned for future launches.
+* A first group started on Feb. 26. Stay tuned for future launches.
 * The course is offered at a fixed price, fully refundable if you're not satisfied.
 {: .get-started-checklist }
 
@@ -141,7 +140,7 @@ Hi. My name is [Pascal Laliberté](/) and I'm offering a course **about a trick 
 ## Sign up to be notified of future launches
 {: #get-started }
 
-A first group is starting on Feb. 26, but stay tuned for future launches in the coming months.
+A first group started on Feb. 26, but stay tuned for future launches in the coming months.
 
 {% include signup-objectives-course.html %}
 
@@ -156,4 +155,4 @@ Sincerely,
 
 --
 **Pascal Laliberté**<br>
-<mailto:pascal@pascallaliberte.me>
+<mailto:the-objectives-course@pascallaliberte.me>
