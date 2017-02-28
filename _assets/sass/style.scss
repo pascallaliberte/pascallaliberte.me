@@ -89,6 +89,9 @@ h3 {
 // ——————————————————————————————————————————— •
 
 @include responsive-break-point(640px) {
+  html {
+    background-color: lighten($color-lines, 40%);
+  }
   body {
     margin: 3rem;
     font-size: 1.4rem;
@@ -96,6 +99,7 @@ h3 {
     -webkit-border-radius: 2rem;
     -moz-border-radius: 2rem;
     border-radius: 2rem;
+    background: white;
   }
   .content {
     padding: 15vh 2rem;
