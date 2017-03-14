@@ -102,7 +102,7 @@ h3 {
     background: white;
   }
   .content {
-    padding: 15vh 2rem;
+    padding: 10vh 2rem;
     max-width: 50rem;
     margin: 0 auto;
     ul {
@@ -115,7 +115,9 @@ h3 {
 // ——————————————————————————————————————————— •
 
 @include responsive-break-point(800px) {
-
+  .content {
+    padding: 15vh 4rem;
+  }
 }
 
 
