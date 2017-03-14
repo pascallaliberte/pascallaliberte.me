@@ -5,12 +5,28 @@ layout: default
 ---
 
 *Hi, this is the site of*  
-**Pascal Laliberté**, Ottawa, ON
+**Pascal Laliberté**, Ottawa, ON  
+[Twitter][twitter], [LinkedIn][linkedin]
 {: .home-intro }
 
 ## A Course on Writing Objectives
 
 I'm offering a course on how to write objectives called [The Objectives Course](/the-objectives-course/). The course will be especially useful if your bigger vision is competing with many smaller things you also care about.
+
+## Current interests
+
+I'm interested in helping companies applying the **Jobs-To-Be-Done** theory and usability testing to improve their product offerings and to equip their teams to better understand their users.
+
+I'm also passionate about helping managers [become post-heroic leaders][postheroism] and about helping people who have reformer personality types to be at the top of their game. Stay tuned for more information on that.
+
+**When building products, I like to use these technologies:** I've been doing work with [Vue.js][vuejs] for crafting web interfaces. When using Wordpress, I use the [Roots][rootsio] kits, but I prefer building sites using [Jekyll][jekyllrb], a static site generator. When designing, I prefer building real UIs through code, and I use [Sketch][sketchapp] for mocking them up.
+
+[farmlead]: https://farmlead.com/
+[learnmed]: https://learn.med.uottawa.ca/
+[vuejs]: https://vuejs.org/
+[rootsio]: https://roots.io/
+[jekyllrb]: https://jekyllrb.com/
+[sketchapp]: https://sketchapp.com/
 
 ## My work: Consultant
 
@@ -25,15 +41,6 @@ Would you like to be notified when I have something to announce?
 Up until February, I was at [FarmLead][farmlead], a marketplace for farmers to sell their grain. My role was in leading the design (Web, Android, iOS) and in building the web app.
 
 Previously, it's at the University of Ottawa that I helped bring user-centered design thinking, working on the web templates, and designing apps and web sites. At its Faculty of Medicine, I helped direct the creation of [Learn.med][learnmed], an online learning platform.
-
-Lately, I've been doing work with [Vue.js][vuejs] for crafting web interfaces. When using Wordpress, I use the [Roots][rootsio] kits, but I prefer building sites using [Jekyll][jekyllrb], a static site generator. When designing, I prefer building real UIs through code, and I use [Sketch][sketchapp] for mocking them up.
-
-[farmlead]: https://farmlead.com/
-[learnmed]: https://learn.med.uottawa.ca/
-[vuejs]: https://vuejs.org/
-[rootsio]: https://roots.io/
-[jekyllrb]: https://jekyllrb.com/
-[sketchapp]: https://sketchapp.com/
 
 ## Some of my beliefs
 
@@ -95,3 +102,4 @@ Hope they help.
 *What about you? What do you care about? What are you working on? What are your tricks? [Let me know: I'm @pascallaliberte on Twitter][twitter].*
 
 [twitter]: https://twitter.com/pascallaliberte
+[linkedin]: https://www.linkedin.com/in/pascallaliberte/
