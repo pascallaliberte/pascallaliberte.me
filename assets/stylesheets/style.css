@@ -153,11 +153,14 @@ h3 {
     background: white; }
 
   .content {
-    padding: 15vh 2rem;
+    padding: 10vh 2rem;
     max-width: 50rem;
     margin: 0 auto; }
     .content ul {
       padding-left: 0; } }
+@media only screen and (min-width: 800px) {
+  .content {
+    padding: 15vh 4rem; } }
 @media screen and (max-device-width: 480px) {
   html {
     -webkit-text-size-adjust: 100%;
