@@ -15,7 +15,9 @@ I'm offering a course on how to write objectives called [The Objectives Course](
 
 ## Current interests
 
-I'm interested in helping companies applying the **Jobs-To-Be-Done** theory and usability testing to improve their product offerings and to equip their teams to better understand their users.
+I'm interested in helping companies applying the **Jobs-To-Be-Done** theory ([I'm giving a talk on April 7 on the topic][jtbd-presentation]) and usability testing to improve their product offerings and to equip their teams to better understand their users.
+
+[jtbd-presentation]: https://www.investottawa.ca/event/get-traction-product-using-jobs-done/
 
 I'm also passionate about helping managers [become post-heroic leaders][postheroism] and about helping people who have reformer personality types to be at the top of their game. Stay tuned for more information on that.
 
