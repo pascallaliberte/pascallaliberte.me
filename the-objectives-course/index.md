@@ -4,7 +4,7 @@ class: objectives-course
 title: "The Objectives Course: Care more"
 og:
   title: "The Objectives Course"
-  description: "A 10-week course on writing have-done lists: a clever way to write objectives to get on top of your day-to-day activities while helping you advance on the bigger vision you care about"
+  description: "A 10-week course on writing have-done lists: a clever way to write objectives to get on top of all the little things you care about while helping you advance on that bigger vision"
   images:
     - url: "/the-objectives-course/preview-1200x630.png"
       width: 1200
@@ -14,14 +14,14 @@ og:
       height: 110
 ---
 
-<mark>Do you have a vision for doing bigger things, but it's competing with a pile of other stuff you care about?</mark><br>Or how about this: are you making promises with yourself that you can't seem to keep? If that's your situation, here's something that could help:
+<mark>Do you have a vision for doing bigger things, but it's competing with all those other things you care about?</mark><br>Or how about this: are you making promises with yourself that you can't seem to keep? If that's your situation, here's something that could help:
 {: .switch-away-from }
 
 # The Objectives Course
 {: #course-title }
 
 <div class="intro" markdown="1">
-**A 10-week course on writing _have-done_ lists: a clever way to write objectives to get on top of your day-to-day activities _while_ helping you advance on your bigger vision.**
+**A 10-week course on writing _have-done_ lists: a clever way to write objectives to get on top of all the little things you care about _while_ helping you advance on that bigger vision**
 
 A first group started on Feb. 26 (sign-ups are closed for that one), and if all goes well, other groups will be available in the coming months.
 
