@@ -189,6 +189,29 @@ h3 {
 @media only screen and (min-width: 768px) {
   .footer {
     max-width: 960px; } }
+body #mc_embed_signup {
+  padding: 1em;
+  background: rgba(253, 234, 152, 0.3);
+  border-radius: 0.3em;
+  margin: 1em 0 2em;
+  box-sizing: border-box; }
+  body #mc_embed_signup, body #mc_embed_signup .button, body #mc_embed_signup input.email, body #mc_embed_signup #mc-embedded-subscribe-form div.mce_inline_error {
+    font: inherit; }
+  body #mc_embed_signup .button {
+    height: auto;
+    white-space: normal;
+    line-height: 1.2;
+    padding: 0.3em 0.7em;
+    background-color: #db7c2c; }
+    body #mc_embed_signup .button:hover {
+      background-color: #b5641f; }
+  body #mc_embed_signup div#mce-responses {
+    padding: 0;
+    margin: 0; }
+  body #mc_embed_signup div.response {
+    margin: 0 0 1em;
+    padding: 0; }
+
 .home h2 {
   font-family: "freight-sans-condensed-pro", Helvetica, Arial, sans-serif;
   display: inline-block;
@@ -208,22 +231,6 @@ h3 {
 .home ul {
   margin-bottom: 2em;
   margin-left: 1rem; }
-.home #mc_embed_signup {
-  padding: 1em;
-  background: rgba(253, 234, 152, 0.3);
-  border-radius: 0.3em;
-  margin: 1em 0 2em;
-  box-sizing: border-box; }
-  .home #mc_embed_signup, .home #mc_embed_signup .button, .home #mc_embed_signup input.email, .home #mc_embed_signup #mc-embedded-subscribe-form div.mce_inline_error {
-    font: inherit; }
-  .home #mc_embed_signup .button {
-    height: auto; }
-  .home #mc_embed_signup div#mce-responses {
-    padding: 0;
-    margin: 0; }
-  .home #mc_embed_signup div.response {
-    margin: 0 0 1em;
-    padding: 0; }
 .home .home-intro {
   margin-top: 1em;
   margin-bottom: 0;
