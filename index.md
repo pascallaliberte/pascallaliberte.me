@@ -6,7 +6,7 @@ layout: default
 
 *Hi, this is the site of*  
 **Pascal Laliberté**, Ottawa, ON  
-[Twitter][twitter], [LinkedIn][linkedin]
+[Twitter][twitter], [LinkedIn][linkedin], [Medium][medium]
 {: .home-intro }
 
 ## A Course on Writing Objectives
@@ -105,3 +105,4 @@ Hope they help.
 
 [twitter]: https://twitter.com/pascallaliberte
 [linkedin]: https://www.linkedin.com/in/pascallaliberte/
+[medium]: https://medium.com/@pascallaliberte
