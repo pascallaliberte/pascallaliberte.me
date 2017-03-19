@@ -29,8 +29,8 @@ Join the group that starts on April 3. The deadline to signup is March 26.
 </div>
 
 <div class="img-responsive-wrapper">
-  <img class="img-responsive img-responsive-mobile" src="./todos-vision-mobile.jpg">
-  <img class="img-responsive img-responsive-full" src="./todos-vision.jpg">
+  <img class="img-responsive img-responsive-mobile" src="./details-vision-mobile.jpg">
+  <img class="img-responsive img-responsive-full" src="./details-vision.jpg">
 </div>
 
 
