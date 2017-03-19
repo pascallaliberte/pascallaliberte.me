@@ -479,6 +479,8 @@ body #mc_embed_signup {
   list-style: none;
   margin-left: 1rem;
   margin-bottom: 3rem; }
+  .objectives-course ul.lets-me-list li {
+    margin-top: 0.5em; }
 
 .update ol {
   margin-bottom: 1em; }

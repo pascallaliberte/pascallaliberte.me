@@ -1,10 +1,10 @@
 ---
 layout: default
 class: objectives-course
-title: "The Objectives Course: Care more"
+title: "The Objectives Course: Have Some Big Plans"
 og:
   title: "The Objectives Course"
-  description: "A 10-week course on writing have-done lists: a clever way to write objectives to get on top of all the little things you care about while helping you advance on that bigger vision"
+  description: "A 10-week course on writing have-done lists, a clever way to write objectives which lets you care for those small details, and that bigger vision too."
   images:
     - url: "/the-objectives-course/preview-1200x630.png"
       width: 1200
@@ -14,18 +14,18 @@ og:
       height: 110
 ---
 
-<mark>Do you have a vision for doing bigger things, but it's competing with all those other things you care about?</mark><br>Or how about this: are you making promises with yourself that you can't seem to keep? If that's your situation, here's something that could help:
+<mark>Do you have a vision for doing bigger things, but it's competing with all those small details you care about?</mark><br>Or how about this: are you making promises with yourself that you can't seem to keep? If that's your situation, here's something that could help:
 {: .switch-away-from }
 
 # The Objectives Course
 {: #course-title }
 
 <div class="intro" markdown="1">
-**A 10-week course on writing _have-done_ lists: a clever way to write objectives to get on top of all the little things you care about _while_ helping you advance on that bigger vision**
+**A 10-week course on writing _have-done lists_, a clever way to write objectives which lets you care for those small details, and that bigger vision too.**
 
-A first group started on Feb. 26 (sign-ups are closed for that one), and if all goes well, other groups will be available in the coming months.
+Join the group that starts on April 3. The deadline to signup is March 26.
 
-[Sign up to be notified of future launches](#get-started) or check below for more details...
+[Sign up now](#get-started) or check below for more details...
 </div>
 
 <div class="img-responsive-wrapper">
@@ -82,7 +82,7 @@ Hi. My name is [Pascal Laliberté](/) and I'm offering a course **about a trick 
 * **<mark>Have quick successes</mark>** that help me get to fun stuff later on, which help me...
 * **<mark>Get away from the always-urgent</mark>** and closer to the important, less-urgent goals, which freed up my attention and energy to...
 * **<mark>Tackle the most complex situations</mark>** and turn them around, in my family, in my work, with my friendships, where it matters, which, in the end, let me...
-* **<mark>Care more</mark>** about [pretty much everything you care about][godeepineverything], but especially about what is bigger, more important.
+* **<mark>Care more</mark>** about [pretty much everything][godeepineverything] I usually care about, but especially about what is bigger, more important.
 {: .lets-me-list }
 
 [godeepineverything]: https://medium.com/subtlety-in-faith/go-deep-on-everything-3bdf4db97134#.g8naua5nw
@@ -96,21 +96,22 @@ Hi. My name is [Pascal Laliberté](/) and I'm offering a course **about a trick 
 * *...instead of*{: .instead-of-prefix } **compromising on my vision**, since _there is a way_ to get the concrete stuff done while, _at the same time_, match my [vision of how things should be...](https://medium.com/@pascallaliberte/your-ideals-and-their-future-c0cd9966801c#.ci5yc7ss2)
 {: .instead-of-list }
 
-[Ok, let me know the next time the course will be made available](#get-started){: .sign-up-link }
+[Ok, take me to the place where I sign up](#get-started){: .sign-up-link }
 {: .sign-up-link-wrapper }
 
 ## Structure of the course
-{: .get-started-heading }
 
-* The course will run over 10 weeks.
-* **Every week, you'll receive an email** with an example situation (we'll pretend you're the person in the situation). We'll use _have-done lists_ to help write some objectives to get progress on that example situation. Here's an example [article which resembles how an example will be delivered](https://medium.com/@pascallaliberte/install-those-resolutions-962f7b52ac3b#.fwjhfv7px) in your email.
-* Week after week, example by example, you'll **unlearn what leads to stale outcomes**, and you'll learn new ways to write objectives that get you what you really want. It'll be like **learning a new language**.
-* Also, with each email, I'll encourage you to share your objectives with me so I can give you feedback. Just reply back to share your own list, and I'll help you by **giving you quick ideas and suggestions to improve the way your objectives are written**.
-* A first group started on Feb. 26. Stay tuned for future launches.
-* The course is offered at a fixed price, fully refundable if you're not satisfied.
-{: .get-started-checklist }
+The course will run over 10 weeks, starting on April 3.
 
-[Sign up to be notified of future launches](#get-started){: .sign-up-link }
+**Every week, you'll receive an email** with an example situation (we'll pretend you're the person in the situation). We'll use _have-done lists_ to help write some objectives to get progress on that example situation. Here's an example [article which resembles how an example will be delivered](https://medium.com/@pascallaliberte/install-those-resolutions-962f7b52ac3b#.fwjhfv7px) in your email.
+
+Week after week, example by example, you'll **unlearn what leads to stale outcomes**, and you'll learn new ways to write objectives that get you what you really want. It'll be like **learning a new language**.
+
+Also, with each email, I'll encourage you to share your objectives with me so I can give you feedback. Just reply back to share your own list, and I'll help you by **giving you quick ideas and suggestions to improve the way your objectives are written**.
+
+For the April 3 course, I'll only take 10 people who I think I can most help, so be sure to apply before the deadline, March 26.
+
+[Sign up before March 26 to be part of the course](#get-started){: .sign-up-link }
 {: .sign-up-link-wrapper }
 
 ***
@@ -137,12 +138,29 @@ Hi. My name is [Pascal Laliberté](/) and I'm offering a course **about a trick 
 
 ***
 
-## Sign up to be notified of future launches
+## Sign up before March 26 to get started
 {: #get-started }
 
-A first group started on Feb. 26, but stay tuned for future launches in the coming months.
+### How it will work
+{: .get-started-heading }
 
-{% include signup-objectives-course.html %}
+* The course starts on April 3 with 10 people, coached individually.
+* To be selected, sign up below and tell me about yourself, so we can see if we're a good match. After receiving your sign up, I'll contact you to learn more about you, and if we think the course will be helpful (and you're one of the first 10), I'll send you a link to pay for the course via Paypal.
+* The price of the course is CAD $250.
+* Over 10 weeks, you'll receive weekly emails showing an example situation where _have-done lists_ are used to re-write the sample person's objectives. Through these examples, you'll learn by repetition some new ways to apply the ideas, and ways to write these objectives in a way that connects with your situation. I'll also encourage you to share with me your own lists, if you like, so I can give you specific feedback.
+* To write your lists, any software tool that allows you to indent lines will do, but my tools of choice are [TaskPaper for Mac](https://taskpaper.com) and [Taskmator for iOS][taskmator] (here's an [article explaining how I use TaskPaper][taskpaperarticle])
+* If you're not happy with how the course is going for you, I'll issue you a full refund.
+{: .get-started-checklist }
+
+[taskmator]: https://itunes.apple.com/app/taskmator-taskpaper-client/id806250172?mt=8
+[taskpaperarticle]: https://medium.com/@pascallaliberte/how-i-use-taskpaper-objectives-not-to-dos-d7183a318a83#.ytv94pwjd
+
+### Fill the form before March 26.
+{: .get-started-heading #signup }
+
+These 8 questions will help me learn about you.
+
+{% include signup-objectives-course-cohort.html %}
 
 ## A personal note
 
