@@ -287,6 +287,8 @@ body #mc_embed_signup {
     margin-left: -0.5em; }
   .home ul {
     margin-left: 2rem; } }
+.objectives-course #course-title {
+  margin-top: 2em; }
 .objectives-course .content {
   font-size: 0.9em;
   line-height: 1.25; }
