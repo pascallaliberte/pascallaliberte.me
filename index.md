@@ -19,7 +19,7 @@ I'm offering a course on how to write objectives called [The Objectives Course][
 
 My main areas of interest are:
 
-* The **Jobs-To-Be-Done** theory, which is on what causes people to purchase a product and helping companies sharpen their product offering ([I'm giving a talk on April 7 on the topic][jtbd-presentation]);
+* The *Jobs-To-Be-Done* theory, which is on what causes people to purchase a product and helping companies sharpen their product offering ([I'm giving a talk on April 7 on the topic][jtbd-presentation]);
 * Leadership and personal development coaching
 * User Experience Design and Web Development
 
