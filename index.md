@@ -15,15 +15,17 @@ I'm offering a course on how to write objectives called [The Objectives Course][
 
 [course]: /the-objectives-course/
 
-## Current interests
+## Areas of interest
 
-I'm interested in helping companies applying the **Jobs-To-Be-Done** theory ([I'm giving a talk on April 7 on the topic][jtbd-presentation]) and usability testing to improve their product offerings and to equip their teams to better understand their users.
+My main areas of interest are:
+
+* The *Jobs-To-Be-Done* theory, which is on what causes people to purchase a product and helping companies sharpen their product offering ([I'm giving a talk on April 7 on the topic][jtbd-presentation]);
+* Leadership and personal development coaching
+* User Experience Design and Web Development
 
 [jtbd-presentation]: https://www.investottawa.ca/event/get-traction-product-using-jobs-done/
 
-I'm also passionate about helping managers [become post-heroic leaders][postheroism] and about helping people who have reformer personality types to be at the top of their game. Stay tuned for more information on that.
-
-**When building products, I like to use these technologies:** I've been doing work with [Vue.js][vuejs] for crafting web interfaces. When using Wordpress, I use the [Roots][rootsio] kits, but I prefer building sites using [Jekyll][jekyllrb], a static site generator. When designing, I prefer building real UIs through code, and I use [Sketch][sketchapp] for mocking them up.
+**When building products, I use these technologies:** I've been doing work with [Vue.js][vuejs] for crafting web interfaces. When using Wordpress, I use the [Roots][rootsio] kits, but I prefer building sites using [Jekyll][jekyllrb], a static site generator. When designing, I prefer building real UIs through code, and I use [Sketch][sketchapp] for mocking them up.
 
 [farmlead]: https://farmlead.com/
 [learnmed]: https://learn.med.uottawa.ca/
