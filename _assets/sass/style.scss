@@ -85,6 +85,51 @@ h3 {
   }
 }
 
+
+
+ul.get-started-checklist {
+  margin: 0 auto;
+  list-style: none;
+  font-style: normal;
+  li {
+    margin: 0.5em 0;
+    margin-left: 2em;
+    display:inline-block;
+    position: relative;
+
+    &:before {
+      content: '';
+      display: block;
+      position: absolute;
+      width: 1.5em;
+      height: 1.5em;
+      @include border-radius(0.75em);
+      left: -2em;
+      top: -0.2em;
+      background: #f7f4ee;
+    }
+    &:after{
+      /*Add another block-level blank space*/
+      content: '';
+      display: block;
+      position: absolute;
+      left: -1.5em;
+      top: 0em;
+
+      /*Make it a small rectangle so the border will create an L-shape*/
+      width: 0.3em;
+      height: 0.7em;
+
+      /*Add a white border on the bottom and left, creating that 'L' */
+      border: solid #000;
+      border-width: 0 0.2em 0.2em 0;
+
+      /*Rotate the L 45 degrees to turn it into a checkmark*/
+      transform: rotate(45deg);
+    }
+  }
+}
+
 // Base Styles: Tablets —————————————————————— •
 // ——————————————————————————————————————————— •
 
