@@ -11,7 +11,7 @@ layout: default
 
 ## A Course on Writing Objectives
 
-I'm offering a course on how to write objectives called [The Objectives Course][course]. The course will be especially useful if your bigger vision is competing with many smaller things you also care about. [Signup before March 26][course] for the group starting April 3.
+I'm offering a course on how to write objectives called [The Objectives Course][course]. The course will be especially useful if your bigger vision is competing with many smaller things you also care about.
 
 [course]: /the-objectives-course/
 
