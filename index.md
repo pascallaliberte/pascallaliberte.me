@@ -22,9 +22,9 @@ I'm offering a course on how to write objectives called [The Objectives Course][
 
 My main areas of interest are:
 
+* User Experience Design and Development
 * The *Jobs-To-Be-Done* theory, which is on what causes people to purchase a product and helping companies sharpen their product offering ([I'm giving a talk on April 7 on the topic][jtbd-presentation]);
-* Leadership and personal development coaching
-* User Experience Design and Web Development
+* Personal development coaching
 
 [jtbd-presentation]: https://www.investottawa.ca/event/get-traction-product-using-jobs-done/
 
@@ -75,7 +75,7 @@ Previously, it's at the University of Ottawa that I helped bring user-centered d
 [willhavedone]: http://by.pascallaliberte.me/2013-12-writing-objectives-you-will-accomplish/
 
 <div class="scroll-reveal" markdown="1">
-## What I value the most
+## What I value most
 
 * I value being <mark>intentional and thorough</mark>, getting to the bottom of things and doing the right thing.
 * I value <mark>starting small, iterating</mark>, doing what matters, betting on the long-haul and respecting the natural rhythm of things.
