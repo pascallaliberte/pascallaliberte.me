@@ -1,6 +1,5 @@
 (function(){
   if (typeof ScrollReveal == "undefined") {
-    alert("no ScrollReveal")
     return;
   }
 
