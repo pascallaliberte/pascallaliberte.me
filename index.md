@@ -9,12 +9,15 @@ layout: default
 [Twitter][twitter], [LinkedIn][linkedin], [Medium][medium]
 {: .home-intro }
 
+<div class="scroll-reveal" markdown="1">
 ## A Course on Writing Objectives
 
 I'm offering a course on how to write objectives called [The Objectives Course][course]. The course will be especially useful if your bigger vision is competing with many smaller things you also care about.
+</div>
 
 [course]: /the-objectives-course/
 
+<div class="scroll-reveal" markdown="1">
 ## Areas of interest
 
 My main areas of interest are:
@@ -26,6 +29,7 @@ My main areas of interest are:
 [jtbd-presentation]: https://www.investottawa.ca/event/get-traction-product-using-jobs-done/
 
 **When building products, I use these technologies:** I've been doing work with [Vue.js][vuejs] for crafting web interfaces. When using Wordpress, I use the [Roots][rootsio] kits, but I prefer building sites using [Jekyll][jekyllrb], a static site generator. When designing, I prefer building real UIs through code, and I use [Sketch][sketchapp] for mocking them up.
+</div>
 
 [farmlead]: https://farmlead.com/
 [learnmed]: https://learn.med.uottawa.ca/
@@ -34,6 +38,7 @@ My main areas of interest are:
 [jekyllrb]: https://jekyllrb.com/
 [sketchapp]: https://sketchapp.com/
 
+<div class="scroll-reveal" markdown="1">
 ## My work: Consultant
 
 I'm currently preparing to announce my services as a consultant.
@@ -41,13 +46,17 @@ I'm currently preparing to announce my services as a consultant.
 Would you like to be notified when I have something to announce?
 
 {% include signup-services-announcement.html %}
+</div>
 
+<div class="scroll-reveal" markdown="1">
 ## Previous work
 
 Up until February, I was at [FarmLead][farmlead], a marketplace for farmers to sell their grain. My role was in leading the design (Web, Android, iOS) and in building the web app.
 
 Previously, it's at the University of Ottawa that I helped bring user-centered design thinking, working on the web templates, and designing apps and web sites. At its Faculty of Medicine, I helped direct the creation of [Learn.med][learnmed], an online learning platform.
+</div>
 
+<div class="scroll-reveal" markdown="1">
 ## Some of my beliefs
 
 * Design is best when done in tandem with the implementation. Knowing the limits of the material you work with makes for a better design.
@@ -58,11 +67,14 @@ Previously, it's at the University of Ottawa that I helped bring user-centered d
 * To-do lists are only a little helpful, because they're usually written as wish-for lists. I found that [writing will-have-done lists][willhavedone] to be the most helpful kind of list to write.
 {: .home-beliefs }
 
+</div>
+
 [postheroism]: https://medium.com/@pascallaliberte/the-urgency-of-post-heroism-11e7d920bf49
 [bridgeparadoxes]: http://by.pascallaliberte.me/2014-04-surviving-a-crisis-of-faith/
 [godeepineverything]: http://by.pascallaliberte.me/2014-12-go-deep-in-everything/
 [willhavedone]: http://by.pascallaliberte.me/2013-12-writing-objectives-you-will-accomplish/
 
+<div class="scroll-reveal" markdown="1">
 ## What I value the most
 
 * I value being <mark>intentional and thorough</mark>, getting to the bottom of things and doing the right thing.
@@ -70,7 +82,9 @@ Previously, it's at the University of Ottawa that I helped bring user-centered d
 * In relationships, I value <mark>authenticity, complicity</mark>, openness and truth.
 * And I value <mark>improving myself</mark> and making a good environment for others to grow in.
 {: .home-values }
+</div>
 
+<div class="scroll-reveal" markdown="1">
 ## A blog on modern Christianity
 
 In this care for growth and relationships and depth, I continue to be drawn to Christianity. Although deeply skeptical, I joyfully believe. Learning to bridge modernity and faith has been good for me, and so I write a blog on [Leading a modern life while living the Gospel][faithblog], sharing the ways for achieving both, fully. Let's grow towards more maturity, and to a more subtle faith.
@@ -86,7 +100,9 @@ Here are a few articles from the blog:
 [faithblog]: http://by.pascallaliberte.me/
 
 *[Subscribe to get notified of new articles](http://by.pascallaliberte.me/subscribe-follow/)*
+</div>
 
+<div class="scroll-reveal" markdown="1">
 ## In closing, two questions I think are helpful
 
 These questions help me stay true, and they help me make good choices. I hope they're useful to you too:
@@ -102,7 +118,9 @@ Hope they help.
 [taskmator]: https://itunes.apple.com/ca/app/taskmator-taskpaper-client/id806250172?mt=8
 [taskpaper]: https://www.taskpaper.com
 [theme-notes-first]: https://github.com/pascallaliberte/theme-notes-first
+</div>
 
+<div class="scroll-reveal" markdown="1">
 ## Thanks for reading
 
 *What about you? What do you care about? What are you working on? What are your tricks? [Let me know: I'm @pascallaliberte on Twitter][twitter].*
@@ -110,3 +128,4 @@ Hope they help.
 [twitter]: https://twitter.com/pascallaliberte
 [linkedin]: https://www.linkedin.com/in/pascallaliberte/
 [medium]: https://medium.com/@pascallaliberte
+</div>
