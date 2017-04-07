@@ -23,10 +23,10 @@ I'm offering a course on how to write objectives called [The Objectives Course][
 My main areas of interest are:
 
 * User Experience Design and Development
-* The *Jobs-To-Be-Done* theory, which is on what causes people to purchase a product and helping companies sharpen their product offering ([I'm giving a talk on April 7 on the topic][jtbd-presentation]);
+* The *Jobs-To-Be-Done* theory, which is on what causes people to purchase a product and helping companies sharpen their product offering ([I gave a talk on April 7 on the topic][jtbd-presentation]);
 * Personal development coaching
 
-[jtbd-presentation]: https://www.investottawa.ca/event/get-traction-product-using-jobs-done/
+[jtbd-presentation]: /jtbd/io/
 
 **When building products, I use these technologies:** I've been doing work with [Vue.js][vuejs] for crafting web interfaces. When using Wordpress, I use the [Roots][rootsio] kits, but I prefer building sites using [Jekyll][jekyllrb], a static site generator. When designing, I prefer building real UIs through code, and I use [Sketch][sketchapp] for mocking them up.
 </div>

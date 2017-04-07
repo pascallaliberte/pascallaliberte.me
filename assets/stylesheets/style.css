@@ -486,6 +486,19 @@ body #mc_embed_signup {
   .objectives-course ul.lets-me-list li {
     margin-top: 0.5em; }
 
+.jtbd h1 {
+  font-size: 2rem;
+  line-height: 1.1; }
+.jtbd h2 {
+  font-family: "freight-sans-condensed-pro", Helvetica, Arial, sans-serif;
+  margin: 3em 0;
+  text-align: center;
+  font-size: 1.5rem;
+  line-height: 0.9;
+  font-weight: 900;
+  text-transform: uppercase;
+  color: #708A9F; }
+
 .update ol {
   margin-bottom: 1em; }
 
