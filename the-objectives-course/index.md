@@ -4,7 +4,7 @@ class: objectives-course
 title: "The Objectives Course: Have Some Big Plans"
 og:
   title: "The Objectives Course"
-  description: "A 10-week course on writing have-done lists, a clever way to write objectives which lets you care for those small details, and that bigger vision too."
+  description: "A 10-week course on writing have-done lists, a clever way to write objectives which lets you care for those small details, for that bigger vision you have, and for your ideals too."
   images:
     - url: "/the-objectives-course/preview-1200x630.png"
       width: 1200
@@ -14,14 +14,14 @@ og:
       height: 110
 ---
 
-<mark>Do you have a vision for doing bigger things, but it's competing with all those small details you care about?</mark><br>Or how about this: are you making promises with yourself that you can't seem to keep? If that's your situation, here's something that could help:
+<mark>Do you have a vision for doing bigger things, or some ideals, but they're competing with all those small details you care about?</mark><br>Or how about this: are you making promises with yourself that you can't seem to keep? If that's your situation, here's something that could help:
 {: .switch-away-from }
 
 # The Objectives Course
 {: #course-title }
 
 <div class="intro" markdown="1">
-**A 10-week course on writing _have-done lists_, a clever way to write objectives which lets you care for those small details, and that bigger vision too.**
+**A 10-week course on writing _have-done lists_, a clever way to write objectives which lets you care for those small details, for that bigger vision you have, and for your ideals too.**
 
 The next group is scheduled to start on May 7.
 
@@ -93,7 +93,7 @@ Hi. My name is [Pascal Laliberté](/) and I'm offering a course **about a trick 
 * *...instead of*{: .instead-of-prefix } **letting guilt accumulate** about things I'm not giving my attention to. Every day you can start fresh with a new list and make hard decisions about what's in and what's out. Beat the guilt!
 * *...instead of*{: .instead-of-prefix } **writing to-do lists**, [because not everything that matters is a to-do](https://medium.com/@pascallaliberte/what-to-dos-cant-do-9e4568c7a901#.t9c97ucct). Sometimes what matters is to adopt a posture, or to listen, or to receive, or to connect. Have-done lists allow for those, no problem.
 * *...instead of*{: .instead-of-prefix } **using different techniques for different time scales**. Have-done lists work on tiny time scales (_before my meeting with my boss, I'll have..._) as well as huge time scales (_before my kids leave for university, I'll have..._)
-* *...instead of*{: .instead-of-prefix } **compromising on my vision**, since _there is a way_ to get the concrete stuff done while, _at the same time_, match my [vision of how things should be...](https://medium.com/@pascallaliberte/your-ideals-and-their-future-c0cd9966801c#.ci5yc7ss2)
+* *...instead of*{: .instead-of-prefix } **compromising on my vision**, since _there is a way_ to get the concrete stuff done while, _at the same time_, match my [vision/ideals of how things should be...](https://medium.com/@pascallaliberte/your-ideals-and-their-future-c0cd9966801c#.ci5yc7ss2)
 {: .instead-of-list }
 
 [Notify me when sign-ups are open](#get-started){: .sign-up-link }
@@ -147,7 +147,7 @@ I've relied on this way of writing objectives for much of the breakthroughs I've
 
 If you've got some questions, look below for my email address.
 
-Keep going on your vision!  
+Keep those ideals!  
 Sincerely,
 
 --

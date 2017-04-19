@@ -12,7 +12,7 @@ layout: default
 <div class="scroll-reveal" markdown="1">
 ## A Course on Writing Objectives
 
-I'm offering a course on how to write objectives called [The Objectives Course][course]. The course will be especially useful if your bigger vision is competing with many smaller things you also care about.
+I'm offering a course on how to write objectives called [The Objectives Course][course]. The course will be especially useful if your bigger vision or ideals are competing with many smaller things you also care about.
 </div>
 
 [course]: /the-objectives-course/
