@@ -12,7 +12,7 @@ layout: default
 <div class="scroll-reveal" markdown="1">
 ## A Course on Writing Objectives
 
-I'm offering a course on how to write objectives called [The Objectives Course][course]. The course will be especially useful if your bigger vision or ideals are competing with many smaller things you also care about. Limited spots for the group starting May 7. [Apply by Monday May 1][course].
+I'm offering a course on how to write objectives called [The Objectives Course][course]. The course will be especially useful if your bigger vision or ideals are competing with many smaller things you also care about. {% if site.course.allow_signups %} Limited spots for the group starting {{ site.course.starts }}. [Apply by {{ site.course.deadline }}][course].{% endif %}
 </div>
 
 [course]: /the-objectives-course/

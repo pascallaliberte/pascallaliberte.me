@@ -10,3 +10,9 @@ gems:
   - jekyll-sitemap
 destination: public
 exclude: [public, Gemfile, Gemfile.lock, Rakefile, README.md]
+course:
+  starts: "June 11"
+  deadline: "June 5"
+  limit: 10
+  price: 250
+  allow_signups: false

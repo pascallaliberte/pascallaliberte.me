@@ -23,9 +23,16 @@ og:
 <div class="intro" markdown="1">
 **A 10-week course on writing _have-done lists_, a clever way to write objectives which lets you care for those small details, for that bigger vision you have, and for your ideals too.**
 
-Join the group that starts on May 7. The deadline to signup is Monday May 1.
+{% if site.course.allow_signups %}
+Join the group that starts on {{ site.course.starts }}. The deadline to signup is Monday {{ site.course.deadline }}.
 
 [Sign up now](#get-started) or check below for more details...
+{% else %}
+The next group is scheduled to start on {{ site.course.starts }}.
+
+[Be notified when sign-ups are open for the {{ site.course.starts }} group](#get-started) or check below for more details...
+{% endif %}
+
 </div>
 
 <div class="img-responsive-wrapper">
@@ -96,12 +103,18 @@ Hi. My name is [Pascal Laliberté](/) and I'm offering a course **about a trick 
 * *...instead of*{: .instead-of-prefix } **compromising on my vision**, since _there is a way_ to get the concrete stuff done while, _at the same time_, match my [vision/ideals of how things should be...](https://medium.com/@pascallaliberte/your-ideals-and-their-future-c0cd9966801c#.ci5yc7ss2)
 {: .instead-of-list }
 
+{% if site.course.allow_signups %}
 [Ok, take me to the place where I sign up](#get-started){: .sign-up-link }
 {: .sign-up-link-wrapper }
+{% else %}
+[Notify me when sign-ups are open](#get-started){: .sign-up-link }
+{: .sign-up-link-wrapper }
+{% endif %}
+
 
 ## Structure of the course
 
-The course will run over 10 weeks, starting on May 7.
+The course will run over 10 weeks, starting on {{ site.course.starts }}.
 
 **Every week, you'll receive an email** with an example situation (we'll pretend you're the person in the situation). We'll use _have-done lists_ to help write some objectives to get progress on that example situation. Here's an example [article which resembles how an example will be delivered](https://medium.com/@pascallaliberte/install-those-resolutions-962f7b52ac3b#.fwjhfv7px) in your email.
 
@@ -109,10 +122,15 @@ Week after week, example by example, you'll **unlearn what leads to stale outcom
 
 Also, with each email, I'll encourage you to share your objectives with me so I can give you feedback. Just reply back to share your own list, and I'll help you by **giving you quick ideas and suggestions to improve the way your objectives are written**.
 
-For the May 7 course, I'll only take 10 people who I think I can most help, so be sure to apply before the deadline, Monday May 1.
+{% if site.course.allow_signups %}
+For the {{ site.course.starts }} course, I'll only take {{ site.course.limit }} people who I think I can most help, so be sure to apply before the deadline, Monday {{ site.course.deadline }}.
 
-[Sign up before May 1 to be part of the course](#get-started){: .sign-up-link }
+[Sign up before {{ site.course.deadline }} to be part of the course](#get-started){: .sign-up-link }
 {: .sign-up-link-wrapper }
+{% else %}
+[Be notified when sign-ups are open for the {{ site.course.starts }} group](#get-started){: .sign-up-link }
+{: .sign-up-link-wrapper }
+{% endif %}
 
 ***
 
@@ -138,15 +156,21 @@ For the May 7 course, I'll only take 10 people who I think I can most help, so b
 
 ***
 
-## Sign up before May 1 to get started
+{% if site.course.allow_signups %}
+## Sign up before {{ site.course.deadline }} to get started
 {: #get-started }
+{% else %}
+## Be notified when sign-ups are open for the {{ site.course.starts }} group
+{: #get-started }
+{% endif %}
 
+{% if site.course.allow_signups %}
 ### How it will work
 {: .get-started-heading }
 
-* The course starts on May 7 with 10 people, coached individually.
-* To be selected, sign up below and tell me about yourself, so we can see if we're a good match. After receiving your sign up, I'll contact you to learn more about you, and if we think the course will be helpful (and you're one of the first 10), I'll send you a link to pay for the course via Paypal.
-* The price of the course is CAD $250.
+* The course starts on {{ site.course.starts }} with {{ site.course.limit }} people, coached individually.
+* To be selected, sign up below and tell me about yourself, so we can see if we're a good match. After receiving your sign up, I'll contact you to learn more about you, and if we think the course will be helpful (and you're one of the first {{ site.course.limit }}), I'll send you a link to pay for the course via Paypal.
+* The price of the course is CAD ${{ site.course.price }}.
 * Over 10 weeks, you'll receive weekly emails showing an example situation where _have-done lists_ are used to re-write the sample person's objectives. Through these examples, you'll learn by repetition some new ways to apply the ideas, and ways to write these objectives in a way that connects with your situation. I'll also encourage you to share with me your own lists, if you like, so I can give you specific feedback.
 * To write your lists, any software tool that allows you to indent lines will do, but my tools of choice are [TaskPaper for Mac](https://taskpaper.com) and [Taskmator for iOS][taskmator] (here's an [article explaining how I use TaskPaper][taskpaperarticle])
 * If you're not happy with how the course is going for you, I'll issue you a full refund.
@@ -155,12 +179,16 @@ For the May 7 course, I'll only take 10 people who I think I can most help, so b
 [taskmator]: https://itunes.apple.com/app/taskmator-taskpaper-client/id806250172?mt=8
 [taskpaperarticle]: https://medium.com/@pascallaliberte/how-i-use-taskpaper-objectives-not-to-dos-d7183a318a83#.ytv94pwjd
 
-### Fill the form before May 1.
+### Fill the form before {{ site.course.deadline }}.
 {: .get-started-heading #signup }
 
 These 8 questions will help me learn about you.
 
 {% include signup-objectives-course-cohort.html %}
+
+{% else %}
+{% include signup-objectives-course.html %}
+{% endif %}
 
 ## A personal note
 
