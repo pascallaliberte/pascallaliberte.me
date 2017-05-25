@@ -6,7 +6,7 @@ class: jtbd
 
 # {{ page.title }}
 
-Given May 26, 2017 at [Impact Hub Ottawa](http://ottawa.impacthub.net), by [Pascal Laliberté](/).
+Given April 7, 2017 at Invest Ottawa, by [Pascal Laliberté](/).
 
 Here are some shareable slides (with more explanation):
 
