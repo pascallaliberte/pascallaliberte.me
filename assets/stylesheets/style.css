@@ -240,7 +240,9 @@ body #mc_embed_signup {
     white-space: normal;
     line-height: 1.2;
     padding: 0.3em 0.7em;
-    background-color: #db7c2c; }
+    background-color: #db7c2c;
+    -webkit-appearance: none;
+    border-radius: 4px; }
     body #mc_embed_signup .button:hover {
       background-color: #b5641f; }
   body #mc_embed_signup div#mce-responses {
