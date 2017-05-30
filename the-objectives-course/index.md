@@ -1,10 +1,10 @@
 ---
 layout: default
 class: objectives-course
-title: "The Objectives Course: Have Some Big Plans"
+title: "The Objectives Course: From Catch-up to Catch-all"
 og:
   title: "The Objectives Course"
-  description: "A 10-week course on writing have-done lists, a clever way to write objectives which lets you care for those small details, for that bigger vision you have, and for your ideals too."
+  description: "A 10-week course on writing _have-done lists_, a way to write objectives instead of to-dos."
   images:
     - url: "/the-objectives-course/preview-1200x630.png"
       width: 1200
@@ -14,14 +14,11 @@ og:
       height: 110
 ---
 
-<mark>Do you have a vision for doing bigger things, or some ideals, but they're competing with all those small details you care about?</mark><br>Or how about this: are you making promises with yourself that you can't seem to keep? If that's your situation, here's something that could help:
-{: .switch-away-from }
-
-# The Objectives Course
+# The Objectives Course <span class="tagline">From Catch-up <span class="br-xs"></span>to Catch-all</span>
 {: #course-title }
 
 <div class="intro" markdown="1">
-**A 10-week course on writing _have-done lists_, a clever way to write objectives which lets you care for those small details, for that bigger vision you have, and for your ideals too.**
+**A 10-week course on writing _have-done lists_, a way to write objectives instead of to-dos.**
 
 {% if site.course.allow_signups %}
 Join the group that starts on {{ site.course.starts }}. The deadline to signup is Monday {{ site.course.deadline }}.
@@ -34,12 +31,6 @@ The next group is scheduled to start on {{ site.course.starts }}.
 {% endif %}
 
 </div>
-
-<div class="img-responsive-wrapper">
-  <img class="img-responsive img-responsive-mobile" src="./details-vision-mobile.jpg">
-  <img class="img-responsive img-responsive-full" src="./details-vision.jpg">
-</div>
-
 
 ***
 
@@ -82,8 +73,19 @@ Hi. My name is [Pascal Laliberté](/) and I'm offering a course **about a trick 
 </div>
 </div>
 
+## The struggle to catch-up
+
+Maybe you're going through something like this right now:
+
+* There's just **too many things to do** these days.
+* **You have to catch-up** in too many areas of your life, and now it's gotten to be a little too much.
+* It's gotten to a point where you realize that your **old habits are no longer working**. Your to-do system is no longer working, your decision system is no longer working, and the big picture needs fixing.
+
+***
+
 ### I've found that _have-done lists_ let me...
 
+* **<mark>Start from scratch, by default</mark>**: Unlike to-do systems, have-done lists force me to treat today as the start of something new, not the continuation of yesterday's plan. That's freeing to me. I can peek into my past lists, but today's a new day, encouraging me to...
 * **<mark>Picture "perfection"</mark>**: I like imagining the best way something can become, and _have-done lists_ encourage me to do that, while letting me...
 * **<mark>Prioritize ruthlessly</mark>** to find the smallest possible, most impactful thing I can do first, which allow me to...
 * **<mark>Have quick successes</mark>** that help me get to fun stuff later on, which help me...
@@ -153,6 +155,12 @@ For the {{ site.course.starts }} course, I'll only take {{ site.course.limit }} 
 * Developed a better appreciation of your natural tendencies and your default ways of tackling problems
 * Been exposed to a variety of different ways to write objectives: time boxing, how to iterate on a list, new verbs to use at the beginning of each objective, how to group objectives, what questions to ask yourself to get unstuck, applying the technique on different time scales
 </div>
+
+***
+
+## Testimonial
+
+> "No need for any shiny new app, a perfect reference system or that new faster device to save some time -- all you need is your brain and heart in order to getting done what needs to be done and what you want to be done. But your mind needs to be rewired in order for that to work properly, and this course helps one to set sail on this journey of finding one's true objectives, life goals, desires and needs in relationships and the best way to prioritize handle all those mundane daily tasks as well. After those ten weeks you won’t be perfect and much work will still be needed - but you will be ready and armed with wisdom, advice and a better self-understanding in order to embark on your life’s journey with a renewed perspective and ambition."
 
 ***
 

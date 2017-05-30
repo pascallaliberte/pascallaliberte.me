@@ -1,7 +1,36 @@
+$font-headings-course: "freight-sans-condensed-pro", Helvetica, Arial, sans-serif;
+
+.br-xs {
+  display: block;
+  width: 100%;
+  height: 0;
+  @include responsive-break-point (768px) {
+    display: inline;
+    width: auto;
+  }
+}
+
 .objectives-course {
 
   #course-title {
-    margin-top: 2em;
+    font-size: 2.2em;
+    font-family: $font-headings-course;
+    line-height: 0.9;
+    margin-top: 1em;
+    margin-bottom: 2em;
+    .tagline {
+      font-family: $font-headings;
+      font-size: 0.8em;
+      margin-top: 0.2em;
+      display: block;
+      font-weight: normal;
+    }
+  }
+
+  blockquote {
+    border: 1px solid $color-lines;
+    padding: 2em;
+    font-size: 0.8em;
   }
 
   .content {
@@ -33,7 +62,9 @@
 
 
   h1 {
-    text-align: center;
+    @include responsive-break-point(768px) {
+      text-align: center;
+    }
     font-weight: bold;
     text-transform: uppercase;
     font-size: 1.4em;
