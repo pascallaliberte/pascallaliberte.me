@@ -327,8 +327,31 @@ body #mc_embed_signup {
     margin-left: -0.5em; }
   .home ul {
     margin-left: 2rem; } }
+.br-xs {
+  display: block;
+  width: 100%;
+  height: 0; }
+  @media only screen and (min-width: 768px) {
+    .br-xs {
+      display: inline;
+      width: auto; } }
+
 .objectives-course #course-title {
-  margin-top: 2em; }
+  font-size: 2.2em;
+  font-family: "freight-sans-condensed-pro", Helvetica, Arial, sans-serif;
+  line-height: 0.9;
+  margin-top: 1em;
+  margin-bottom: 2em; }
+  .objectives-course #course-title .tagline {
+    font-family: "freight-sans-pro", Helvetica, Arial, sans-serif;
+    font-size: 0.8em;
+    margin-top: 0.2em;
+    display: block;
+    font-weight: normal; }
+.objectives-course blockquote {
+  border: 1px solid rgba(100, 84, 48, 0.1);
+  padding: 2em;
+  font-size: 0.8em; }
 .objectives-course .content {
   font-size: 0.9em;
   line-height: 1.25; }
@@ -347,11 +370,13 @@ body #mc_embed_signup {
   .objectives-course .img-responsive-full {
     display: block; } }
 .objectives-course h1 {
-  text-align: center;
   font-weight: bold;
   text-transform: uppercase;
   font-size: 1.4em;
   line-height: 1.1; }
+  @media only screen and (min-width: 768px) {
+    .objectives-course h1 {
+      text-align: center; } }
 .objectives-course h2 {
   text-align: center;
   font-weight: bold;
