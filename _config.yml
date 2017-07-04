@@ -15,4 +15,4 @@ course:
   deadline: "July 10" # has to be a Monday
   limit: 5
   price: 350
-  allow_signups: false
+  allow_signups: true

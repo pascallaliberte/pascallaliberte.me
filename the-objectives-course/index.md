@@ -1,10 +1,10 @@
 ---
 layout: default
 class: objectives-course
-title: "The Objectives Course: From Catch-up to Catch-all"
+title: "The Objectives Course: Change Your Situation"
 og:
   title: "The Objectives Course"
-  description: "A 10-week course on writing _have-done lists_, a way to write objectives instead of to-dos."
+  description: "A 10-week course on writing _have-done lists_, an approach for changing any situation."
   images:
     - url: "/the-objectives-course/preview-1200x630.png"
       width: 1200
@@ -14,11 +14,11 @@ og:
       height: 110
 ---
 
-# The Objectives Course <span class="tagline">From Catch-up <span class="br-xs"></span>to Catch-all</span>
+# The Objectives Course <span class="tagline">Change any situation</span>
 {: #course-title }
 
 <div class="intro" markdown="1">
-**A 10-week course on writing _have-done lists_, a way to write objectives instead of to-dos.**
+**A 10-week course on writing _have-done lists_, an approach for changing any situation.**
 
 {% if site.course.allow_signups %}
 Join the group that starts on {{ site.course.starts }}. The deadline to signup is Monday {{ site.course.deadline }}.
@@ -73,13 +73,21 @@ Hi. My name is [Pascal Laliberté](/) and I'm offering a course **about a trick 
 </div>
 </div>
 
-## The struggle to catch-up
+## From Catch-up <span class="br-xs"></span>to Catch-all
 
 Maybe you're going through something like this right now:
 
 * There's just **too many things to do** these days.
 * **You have to catch-up** in too many areas of your life, and now it's gotten to be a little too much.
 * It's gotten to a point where you realize that your **old habits are no longer working**. Your to-do system is no longer working, your decision system is no longer working, and the big picture needs fixing.
+
+## From This-isn't-working to This-will-work
+
+Or maybe your situation needs to change in deeper ways.
+
+* You're faced with a complex problem and you need a way to advance on it
+* You believe that there's a way to improve something, when others aren't so sure, or don't have the patience or energy to try.
+* You want to reform an environment, starting with your own contribution to it.
 
 ***
 
