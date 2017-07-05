@@ -186,9 +186,9 @@ For the {{ site.course.starts }} course, I'll only take {{ site.course.limit }} 
 
 * The course starts on {{ site.course.starts }} with {{ site.course.limit }} people, coached individually.
 * To be selected, sign up below and tell me about yourself, so we can see if we're a good match. After receiving your sign up, I'll contact you to learn more about you, and if we think the course will be helpful (and you're one of the first {{ site.course.limit }}), I'll send you a link to pay for the course via Paypal.
-* The price of the course is CAD ${{ site.course.price }}.
 * Over 10 weeks, you'll receive weekly emails showing an example situation where _have-done lists_ are used to re-write the sample person's objectives. Through these examples, you'll learn by repetition some new ways to apply the ideas, and ways to write these objectives in a way that connects with your situation. I'll also encourage you to share with me your own lists, if you like, so I can give you specific feedback.
 * To write your lists, any software tool that allows you to indent lines will do, but my tools of choice are [TaskPaper for Mac](https://taskpaper.com) and [Taskmator for iOS][taskmator] (here's an [article explaining how I use TaskPaper][taskpaperarticle])
+* The price of the course is CAD ${{ site.course.price }}.
 * If you're not happy with how the course is going for you, I'll issue you a full refund.
 {: .get-started-checklist }
 
