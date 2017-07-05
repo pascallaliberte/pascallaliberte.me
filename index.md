@@ -10,9 +10,9 @@ layout: default
 {: .home-intro }
 
 <div class="scroll-reveal" markdown="1">
-## A Course on Writing Objectives
+## A Course On Changing Your Situation
 
-I'm offering a course on how to write objectives called [The Objectives Course][course]. The course will be especially useful if your bigger vision or ideals are competing with many smaller things you also care about. {% if site.course.allow_signups %} Limited spots for the group starting {{ site.course.starts }}. [Apply by {{ site.course.deadline }}][course].{% endif %}
+I'm offering a course called [The Objectives Course][course]. It teaches thinking tools (including a novel way to write objectives) to help you change your situation, to reform it for the better. {% if site.course.allow_signups %} There are limited spots for the group starting {{ site.course.starts }}. [Apply by {{ site.course.deadline }}][course].{% endif %}
 </div>
 
 [course]: /the-objectives-course/
