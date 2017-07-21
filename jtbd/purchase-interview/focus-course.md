@@ -21,7 +21,7 @@ I'm not affiliated with Shawn Blanc and haven't taken The Focus Course, but if y
 
 ---
 
-If all three points in the checklist? Can I call you to ask you about the purchase? It'll be a **one-hour call**, and for your time, I'll be sending you a $50 Amazon Gift Certificate.
+Do you match all three points? Can I call you to ask you about the purchase? It'll be a **one-hour call**, and for your time, I'll be sending you a $50 Amazon Gift Certificate.
 
 Interested? Here are 4 questions to get started and I'll be in touch.
 {: #form }
