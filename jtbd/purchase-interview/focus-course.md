@@ -50,7 +50,7 @@ If there's an insight into your situation, it would be useful for others to hear
 
 ### Q. What if I'm just considering buying The Focus Course, but haven't bought it yet?
 
-I'm focusing my research on those who made a purchase of a personal growth-type product (it could be a course or a service, a coaching session, a book, etc). If you've made such a purchase for another product, maybe [I'd love to interview you about that other purchase instead](../).
+I'm focusing my research on those who made a purchase of a personal growth-type product (it could be a course or a service, a coaching session, a book, etc). If you've made such a purchase for another product, [I'd love to interview you about that other purchase instead](../).
 
 ### Q. What books are you reading these days?
 
@@ -60,7 +60,7 @@ I'm focusing my research on those who made a purchase of a personal growth-type 
 * _Peak Performance_ by Brad Stulberg and Steve Magness -- Currently reading, but so far: Growth = Stress + Rest, and the importance of deliberate practice.
 * _Blue-Ocean Strategy_, by W. Chan Kim and Renée Mauborgne. Currently reading, but so far: there's an abundance of business ideas.
 
-I've talked about mental models a few questions up. The book I want to read about that is _Leadership Agility_ by Bill Joiner. If you're interested in reading it together in a reading group setup, give me a shout: I'm @pascallaliberte or send me an email at pascal at this domain.
+I've talked about mental models a few questions up. The book I want to read about that is _Leadership Agility_ by Bill Joiner. If you're interested in reading it together in a reading group setup, give me a shout: I'm [@pascallaliberte on Twitter](https://twitter.com/@pascallaliberte) or send me an email at pascal at this domain.
 
 ### Q. I'm at the bottom of the page, can I get a link back up to the form?
 
