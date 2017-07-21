@@ -48,6 +48,10 @@ There's this buyer psychology theory called Jobs-To-Be-Done. It's been formulate
 
 If there's an insight into your situation, it would be useful for others to hear about it! But, I won't share your name or anything that'll identify you.
 
+### Q. What if I'm just considering buying The Focus Course, but haven't bought it yet?
+
+I'm focusing my research on those who made a purchase of a personal growth-type product (it could be a course or a service, a coaching session, a book, etc). If you've made such a purchase for another product, maybe [I'd love to interview you about that other purchase instead](../).
+
 ### Q. What books are you reading these days?
 
 * _Competing Against Luck_ by Clayton Christensen -- The Jobs-To-Be-Done theory removes luck from the process of putting a product on the market.
