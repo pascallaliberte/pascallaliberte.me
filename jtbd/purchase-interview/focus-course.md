@@ -42,7 +42,7 @@ I'm [Pascal Laliberté](/), and I live in Ottawa, Canada. I do app and web desig
 
 ### Q. Why are you interested in knowing about my experience with The Focus Course?
 
-There's this buyer psychology theory called Jobs-To-Be-Done. It's been formulated by Harvard School of Business professor Clayton Christensen, and it basically says that people don't buy products, they hire products for a job. I have ideas for creating personal growth-type products, and want to generally find the jobs for which people hire personal growth-type products. The interview will use an approach based on the ideas behind the theory (I'll ask you to tell me about the situations preceding your purchase -- you share with me what you'd like to share).
+There's this buyer psychology theory called Jobs-To-Be-Done. It's been formulated by Harvard Business School professor Clayton Christensen. Its main idea: people don't _buy_ products, they _hire_ products for a _job_. I have ideas for creating personal growth-type products, and want to generally find the jobs for which people hire personal growth-type products. The interview will use an approach based on the ideas behind the theory (I'll ask you to tell me about the situations preceding your purchase -- you share with me what you'd like to share).
 
 ### Q. Will you share details about my situation with others?
 
