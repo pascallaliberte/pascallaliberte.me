@@ -124,7 +124,7 @@ $font-headings-course: "freight-sans-condensed-pro", Helvetica, Arial, sans-seri
     }
   }
 
-  .intro, #mc_embed_signup, .createform {
+  .intro, #mc_embed_signup {
     padding: 1em;
     background: transparentize($color-highlight, 0.7);
     border-radius: 0.3em;
@@ -146,26 +146,6 @@ $font-headings-course: "freight-sans-condensed-pro", Helvetica, Arial, sans-seri
   .sign-up-link-wrapper {
     text-align: center;
     margin: 1em 0;
-  }
-
-  .createform {
-    .cf-input {
-      padding: 0.5em .7em;
-    }
-
-    .cf-label {
-      margin-bottom: 0;
-      margin-top: 0;
-    }
-
-    .submit-btn {
-      font-size: 1em;
-      background-color: $color-link;
-    }
-
-    .cf-submit {
-      margin-top: 0;
-    }
   }
 
   hr {

@@ -13,4 +13,14 @@
     text-transform: uppercase;
     color: $color-headings-home;
   }
+  hr {
+    max-width: 10rem;
+    margin: 2em auto 1em;
+    background-color: $color-lines;
+    border: none;
+    height: 0.2rem;
+  }
+  ul {
+    margin-left: 2rem;
+  }
 }

@@ -227,6 +227,23 @@ ul.get-started-checklist {
 @media only screen and (min-width: 768px) {
   .footer {
     max-width: 960px; } }
+.createform {
+  padding: 1em;
+  background: rgba(253, 234, 152, 0.3);
+  border-radius: 0.3em;
+  margin: 1em 0 2em;
+  box-sizing: border-box; }
+  .createform .cf-input {
+    padding: 0.5em .7em; }
+  .createform .cf-label {
+    margin-bottom: 0;
+    margin-top: 0; }
+  .createform .submit-btn {
+    font-size: 1em;
+    background-color: #bb5400; }
+  .createform .cf-submit {
+    margin-top: 0; }
+
 body #mc_embed_signup {
   padding: 1em;
   background: rgba(253, 234, 152, 0.3);
@@ -414,7 +431,7 @@ body #mc_embed_signup {
   @media only screen and (min-width: 640px) {
     .objectives-course .switch-away-from {
       margin: 0 3em 3em; } }
-.objectives-course .intro, .objectives-course #mc_embed_signup, .objectives-course .createform {
+.objectives-course .intro, .objectives-course #mc_embed_signup {
   padding: 1em;
   background: rgba(253, 234, 152, 0.3);
   border-radius: 0.3em;
@@ -430,16 +447,6 @@ body #mc_embed_signup {
 .objectives-course .sign-up-link-wrapper {
   text-align: center;
   margin: 1em 0; }
-.objectives-course .createform .cf-input {
-  padding: 0.5em .7em; }
-.objectives-course .createform .cf-label {
-  margin-bottom: 0;
-  margin-top: 0; }
-.objectives-course .createform .submit-btn {
-  font-size: 1em;
-  background-color: #bb5400; }
-.objectives-course .createform .cf-submit {
-  margin-top: 0; }
 .objectives-course hr {
   max-width: 10rem;
   margin: 2em auto 1em;
@@ -525,6 +532,14 @@ body #mc_embed_signup {
   font-weight: 900;
   text-transform: uppercase;
   color: #708A9F; }
+.jtbd hr {
+  max-width: 10rem;
+  margin: 2em auto 1em;
+  background-color: rgba(100, 84, 48, 0.1);
+  border: none;
+  height: 0.2rem; }
+.jtbd ul {
+  margin-left: 2rem; }
 
 .update ol {
   margin-bottom: 1em; }

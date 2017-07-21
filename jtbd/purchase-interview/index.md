@@ -12,7 +12,7 @@ I'm interested in hearing people's stories of how they made a recent purchase. C
 ## **Do these match your experience?**
 
 - You purchased something **in the last 90 days**
-- It took you **some time to think it over**, make up your mind to make the purchase
+- It took you **some time to think it over**, to make up your mind to make the purchase
 - It was something you **bought for yourself** (not a gift)
 - It was a **first-time purchase** (not a refill)
 - It was a **sizable price**, like $100 or more, roughly.
