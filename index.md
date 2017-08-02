@@ -9,7 +9,7 @@ layout: default
 [Twitter][twitter], [LinkedIn][linkedin], [Medium][medium]
 {: .home-intro }
 
-<div class="scroll-reveal" markdown="1">
+<div class="scroll-reveal" markdown="1" id="course">
 ## A Course On Changing Your Situation
 
 I'm offering a course called [The Objectives Course][course]. It teaches thinking tools (including a novel way to write objectives) to help you change your situation, to reform it for the better. {% if site.course.allow_signups %} There are limited spots for the group starting {{ site.course.starts }}. [Apply by {{ site.course.deadline }}][course].{% endif %}
@@ -17,7 +17,7 @@ I'm offering a course called [The Objectives Course][course]. It teaches thinkin
 
 [course]: /the-objectives-course/
 
-<div class="scroll-reveal" markdown="1">
+<div class="scroll-reveal" markdown="1" id="interests">
 ## Areas of interest
 
 My main areas of interest are:
@@ -38,7 +38,7 @@ My main areas of interest are:
 [jekyllrb]: https://jekyllrb.com/
 [sketchapp]: https://sketchapp.com/
 
-<div class="scroll-reveal" markdown="1">
+<div class="scroll-reveal" markdown="1" id="my-work">
 ## My work: Consultant
 
 I'm currently preparing to announce my services as a consultant.
@@ -48,7 +48,7 @@ Would you like to be notified when I have something to announce?
 {% include signup-services-announcement.html %}
 </div>
 
-<div class="scroll-reveal" markdown="1">
+<div class="scroll-reveal" markdown="1" id="previous-work">
 ## Previous work
 
 Up until February, I was at [FarmLead][farmlead], a marketplace for farmers to sell their grain. My role was in leading the design (Web, Android, iOS) and in building the web app.
@@ -56,7 +56,7 @@ Up until February, I was at [FarmLead][farmlead], a marketplace for farmers to s
 Previously, it's at the University of Ottawa that I helped bring user-centered design thinking, working on the web templates, and designing apps and web sites. At its Faculty of Medicine, I helped direct the creation of [Learn.med][learnmed], an online learning platform.
 </div>
 
-<div class="scroll-reveal" markdown="1">
+<div class="scroll-reveal" markdown="1" id="beliefs">
 ## Some of my beliefs
 
 * Design is best when done in tandem with the implementation. Knowing the limits of the material you work with makes for a better design.
@@ -74,7 +74,7 @@ Previously, it's at the University of Ottawa that I helped bring user-centered d
 [godeepineverything]: http://by.pascallaliberte.me/2014-12-go-deep-in-everything/
 [willhavedone]: http://by.pascallaliberte.me/2013-12-writing-objectives-you-will-accomplish/
 
-<div class="scroll-reveal" markdown="1">
+<div class="scroll-reveal" markdown="1" id="values">
 ## What I value most
 
 * I value being <mark>intentional and thorough</mark>, getting to the bottom of things and doing the right thing.
@@ -84,7 +84,7 @@ Previously, it's at the University of Ottawa that I helped bring user-centered d
 {: .home-values }
 </div>
 
-<div class="scroll-reveal" markdown="1">
+<div class="scroll-reveal" markdown="1" id="christianity">
 ## A blog on modern Christianity
 
 In this care for growth and relationships and depth, I continue to be drawn to Christianity. Although deeply skeptical, I joyfully believe. Learning to bridge modernity and faith has been good for me, and so I write a blog on [Leading a modern life while living the Gospel][faithblog], sharing the ways for achieving both, fully. Let's grow towards more maturity, and to a more subtle faith.
@@ -102,7 +102,7 @@ Here are a few articles from the blog:
 *[Subscribe to get notified of new articles](http://by.pascallaliberte.me/subscribe-follow/)*
 </div>
 
-<div class="scroll-reveal" markdown="1">
+<div class="scroll-reveal" markdown="1" id="questions">
 ## In closing, two questions I think are helpful
 
 These questions help me stay true, and they help me make good choices. I hope they're useful to you too:

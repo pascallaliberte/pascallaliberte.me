@@ -269,6 +269,19 @@ body #mc_embed_signup {
     margin: 0 0 1em;
     padding: 0; }
 
+html {
+  transition: background-color 0.5s ease; }
+  html[data-section-in-view="interests"] {
+    background-color: #C2BCAF; }
+  html[data-section-in-view="my-work"] {
+    background-color: #894B1C; }
+  html[data-section-in-view="previous-work"] {
+    background-color: #B7B7AD; }
+  html[data-section-in-view="christianity"] {
+    background-color: #B55E19; }
+  html[data-section-in-view="questions"] {
+    background-color: #9DB0A3; }
+
 .home h2 {
   font-family: "freight-sans-condensed-pro", Helvetica, Arial, sans-serif;
   display: inline-block;
