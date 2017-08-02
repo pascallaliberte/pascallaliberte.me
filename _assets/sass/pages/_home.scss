@@ -4,6 +4,17 @@
 $font-headings-home: "freight-sans-condensed-pro", Helvetica, Arial, sans-serif;
 $color-headings-home: #708A9F;
 
+html {
+  transition: background-color 0.5s ease;
+  &[data-section-in-view="interests"]      { background-color: #C2BCAF; }
+  &[data-section-in-view="my-work"]        { background-color: #894B1C; }
+  &[data-section-in-view="previous-work"]  { background-color: #B7B7AD; }
+  // &[data-section-in-view="beliefs"]        { background-color: #B55E19; }
+  // &[data-section-in-view="values"]         { background-color: #DBE2EA; }
+  &[data-section-in-view="christianity"]   { background-color: #B55E19; }
+  &[data-section-in-view="questions"]      { background-color: #9DB0A3; }
+}
+
 .home {
   h2 {
     font-family: $font-headings-home;
