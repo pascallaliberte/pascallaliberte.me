@@ -6,7 +6,7 @@ layout: default
 
 *Hi, this is the site of*  
 **Pascal Laliberté**, Ottawa, ON  
-[Twitter][twitter], [LinkedIn][linkedin], [Medium][medium]
+[LinkedIn][linkedin], [Medium][medium], [Twitter][twitter], [Instagram][instagram]
 {: .home-intro }
 
 <div class="scroll-reveal" markdown="1" id="course">
@@ -17,33 +17,10 @@ I'm offering a course called [The Objectives Course][course]. It teaches thinkin
 
 [course]: /the-objectives-course/
 
-<div class="scroll-reveal" markdown="1" id="interests">
-## Areas of interest
-
-My main areas of interest are:
-
-* User Experience Design and Development
-* The *Jobs-To-Be-Done* theory, which is on what causes people to purchase a product and helping companies sharpen their product offering ([I gave a talk on May 25 on the Jobs-To-Be-Done theory][jtbd-presentation]);
-* Personal development coaching
-
-[jtbd-presentation]: /jtbd/hub/
-
-**When building products, I use these technologies:** I've been doing work with [Vue.js][vuejs] for crafting web interfaces. When using Wordpress, I use the [Roots][rootsio] kits, but I prefer building sites using [Jekyll][jekyllrb], a static site generator. When designing, I prefer building real UIs through code, and I use [Sketch][sketchapp] for mocking them up.
-</div>
-
-[farmlead]: https://farmlead.com/
-[learnmed]: https://learn.med.uottawa.ca/
-[vuejs]: https://vuejs.org/
-[rootsio]: https://roots.io/
-[jekyllrb]: https://jekyllrb.com/
-[sketchapp]: https://sketchapp.com/
-
 <div class="scroll-reveal" markdown="1" id="my-work">
-## My work: Consultant
+## My work: Designer, Developer and User Researcher
 
-I'm currently preparing to announce my services as a consultant.
-
-Would you like to be notified when I have something to announce?
+I'm currently preparing some service offerings to help product owners increase their sales. Would you like to be notified when I have something to announce?
 
 {% include signup-services-announcement.html %}
 </div>
@@ -73,6 +50,27 @@ Previously, it's at the University of Ottawa that I helped bring user-centered d
 [bridgeparadoxes]: http://by.pascallaliberte.me/2014-04-surviving-a-crisis-of-faith/
 [godeepineverything]: http://by.pascallaliberte.me/2014-12-go-deep-in-everything/
 [willhavedone]: http://by.pascallaliberte.me/2013-12-writing-objectives-you-will-accomplish/
+
+<div class="scroll-reveal" markdown="1" id="interests">
+## Areas of interest
+
+My main areas of interest are:
+
+* User Experience Design and Development
+* The *Jobs-To-Be-Done* theory, which is on what causes people to purchase a product and helping companies sharpen their product offering ([I gave a talk on May 25 on the Jobs-To-Be-Done theory][jtbd-presentation]);
+* Personal development coaching
+
+[jtbd-presentation]: /jtbd/hub/
+
+**When building products, I use these technologies:** I've been doing work with [Vue.js][vuejs] for crafting web interfaces. When using Wordpress, I use the [Roots][rootsio] kits, but I prefer building sites using [Jekyll][jekyllrb], a static site generator. When designing, I prefer building real UIs through code, and I use [Sketch][sketchapp] for mocking them up.
+</div>
+
+[farmlead]: https://farmlead.com/
+[learnmed]: https://learn.med.uottawa.ca/
+[vuejs]: https://vuejs.org/
+[rootsio]: https://roots.io/
+[jekyllrb]: https://jekyllrb.com/
+[sketchapp]: https://sketchapp.com/
 
 <div class="scroll-reveal" markdown="1" id="values">
 ## What I value most
@@ -125,7 +123,8 @@ Hope they help.
 
 *What about you? What do you care about? What are you working on? What are your tricks? [Let me know: I'm @pascallaliberte on Twitter][twitter].*
 
-[twitter]: https://twitter.com/pascallaliberte
 [linkedin]: https://www.linkedin.com/in/pascallaliberte/
 [medium]: https://medium.com/@pascallaliberte
+[twitter]: https://twitter.com/pascallaliberte
+[instagram]: https://www.instagram.com/pascallaliberte/
 </div>
