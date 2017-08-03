@@ -56,15 +56,15 @@ Previously, it's at the University of Ottawa that I helped bring user-centered d
 
 My main areas of interest are:
 
-* User Experience Design and Development
-* The *Jobs-To-Be-Done* theory, which is on what causes people to purchase a product and helping companies sharpen their product offering ([I gave a talk on May 25 on the Jobs-To-Be-Done theory][jtbd-presentation]);
+* The *Jobs-To-Be-Done* theory, which is on what causes people to purchase a product. [I gave a talk on May 25 on the Jobs-To-Be-Done theory][jtbd-presentation];
 * Personal development coaching
 
 [jtbd-presentation]: /jtbd/hub/
 
-**When building products, I use these technologies:** I've been doing work with [Vue.js][vuejs] for crafting web interfaces. When using Wordpress, I use the [Roots][rootsio] kits, but I prefer building sites using [Jekyll][jekyllrb], a static site generator. When designing, I prefer building real UIs through code, and I use [Sketch][sketchapp] for mocking them up.
+**When building products, I use these technologies:** I've been doing work with [Vue.js][vuejs] for crafting web interfaces. When using Wordpress, I use the [Roots][rootsio] kits (see my [presentation on Roots at Wordpress Ottawa][roots-presentation]). When the site I'm building is small or if I'm doing prototyping work, [Jekyll][jekyllrb] is my go-to static-site generator. When designing, I prefer building real UIs through code, and I use [Sketch][sketchapp] for mocking them up.
 </div>
 
+[roots-presentation]: https://www.youtube.com/watch?v=c25nvDkblSQ&lc=z123zx3xcozsehkwc04cg1ujxxroyrgp5q40k
 [farmlead]: https://farmlead.com/
 [learnmed]: https://learn.med.uottawa.ca/
 [vuejs]: https://vuejs.org/
