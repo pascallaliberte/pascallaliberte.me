@@ -3,12 +3,7 @@
     return;
   }
 
-  afterReveal = function(elScrolledTo) {
-    elScrolledTo.setAttribute('data-sr-revealed', true);
-  }
-
-  afterReset = function(elScrolledTo) {
-    elScrolledTo.setAttribute('data-sr-revealed', false);
+  setSectionInView = function() {
     var elInView = document.querySelector('[data-sr-revealed="true"]');
     if (!elInView) {
       return;
@@ -21,6 +16,16 @@
       return;
     }
     htmlTag.setAttribute('data-section-in-view', sectionInView);
+  }
+
+  afterReveal = function(elScrolledTo) {
+    elScrolledTo.setAttribute('data-sr-revealed', true);
+    setSectionInView();
+  }
+
+  afterReset = function(elScrolledTo) {
+    elScrolledTo.setAttribute('data-sr-revealed', false);
+    setSectionInView();
   }
 
   addScrollReveal = function() {
