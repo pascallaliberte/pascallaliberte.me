@@ -1,10 +1,10 @@
 ---
 layout: default
 class: objectives-course
-title: "The Objectives Course: Change Your Situation"
+title: "The Objectives Course: Catch-up on the small. Tackle the big. One approach"
 og:
   title: "The Objectives Course"
-  description: "A 10-week course on writing _have-done lists_, an approach for changing any situation."
+  description: "A 10-week course on writing _have-done lists_, an approach for catching up on the small stuff so you can get to big stuff."
   images:
     - url: "/the-objectives-course/preview-1200x630.png"
       width: 1200
@@ -14,11 +14,11 @@ og:
       height: 110
 ---
 
-# The Objectives Course <span class="tagline">Change any situation</span>
+# The Objectives Course <span class="tagline">Catch-up on the small. Tackle the big. One approach</span>
 {: #course-title }
 
 <div class="intro" markdown="1">
-**A 10-week course on writing _have-done lists_, an approach for changing any situation.**
+**A 10-week course on writing _have-done lists_, an approach for catching up on the small stuff so you can get to big stuff.**
 
 {% if site.course.allow_signups %}
 Join the group that starts on {{ site.course.starts }}. The deadline to signup is Monday {{ site.course.deadline }}.
@@ -128,7 +128,7 @@ The course will run over 10 weeks, starting on {{ site.course.starts }}.
 
 **Every week, you'll receive an email** with an example situation (we'll pretend you're the person in the situation). We'll use _have-done lists_ to help write some objectives to get progress on that example situation. Here's an example [article which resembles how an example will be delivered](https://medium.com/@pascallaliberte/install-those-resolutions-962f7b52ac3b#.fwjhfv7px) in your email.
 
-Week after week, example by example, you'll **unlearn what leads to stale outcomes**, and you'll learn new ways to write objectives that get you what you really want. It'll be like **learning a new language**.
+Week after week, example by example, you'll **unlearn what leads to the same results you used to have**, and you'll learn new ways to write objectives that get you what you really want. It'll be like **learning a new language**.
 
 Also, with each email, I'll encourage you to share your objectives with me so I can give you feedback. Just reply back to share your own list, and I'll help you by **giving you quick ideas and suggestions to improve the way your objectives are written**.
 
@@ -188,8 +188,8 @@ For the {{ site.course.starts }} course, I'll only take {{ site.course.limit }} 
 * To be selected, sign up below and tell me about yourself, so we can see if we're a good match. After receiving your sign up, I'll contact you to learn more about you, and if we think the course will be helpful (and you're one of the first {{ site.course.limit }}), I'll send you a link to pay for the course via Paypal.
 * Over 10 weeks, you'll receive weekly emails showing an example situation where _have-done lists_ are used to re-write the sample person's objectives. Through these examples, you'll learn by repetition some new ways to apply the ideas, and ways to write these objectives in a way that connects with your situation. I'll also encourage you to share with me your own lists, if you like, so I can give you specific feedback.
 * To write your lists, any software tool that allows you to indent lines will do, but my tools of choice are [TaskPaper for Mac](https://taskpaper.com) and [Taskmator for iOS][taskmator] (here's an [article explaining how I use TaskPaper][taskpaperarticle])
-* The price of the course is CAD ${{ site.course.price }}.
-* If you're not happy with how the course is going for you, I'll issue you a full refund.
+* The price of the course is CAD ${{ site.course.price }} (plus HST if you're a resident of Ontario).
+* If you're not happy with how the course is going for you, **I'll issue you a full refund** up to the last week of the course.
 {: .get-started-checklist }
 
 [taskmator]: https://itunes.apple.com/app/taskmator-taskpaper-client/id806250172?mt=8
@@ -208,7 +208,7 @@ These 8 questions will help me learn about you.
 
 ## A personal note
 
-I've relied on this way of writing objectives for much of the breakthroughs I've had in the last long while. By visualizing a better situation, and focusing on the smallest thing I could do to improve the situation, I found some surprising ways to make things work out with less effort. Put in the effort to re-write your options with these objectives lists, and you'll likely be surprised too.
+I've relied on this way of writing objectives for much of the breakthroughs I've had in the last long while. By visualizing a better situation, and focusing on the smallest thing I could do to improve the situation, I found some surprising ways to make things work out with less effort. I've managed some important small things, and I've navigated through some complex bigger things with these too. Put in the effort to re-write your options with these objectives lists, and you'll likely be surprised too.
 
 If you've got some questions, look below for my email address.
 

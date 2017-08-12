@@ -10,9 +10,9 @@ layout: default
 {: .home-intro }
 
 <div class="scroll-reveal" markdown="1" id="course">
-## A Course On Changing Your Situation
+## The Objectives Course: Catch-up on the small. Tackle the big. One approach.
 
-I'm offering a course called [The Objectives Course][course]. It teaches thinking tools (including a novel way to write objectives) to help you change your situation, to reform it for the better. {% if site.course.allow_signups %} There are limited spots for the group starting {{ site.course.starts }}. [Apply by {{ site.course.deadline }}][course].{% endif %}
+I'm offering a course called [The Objectives Course][course]. It teaches thinking tools (centered on a novel way to write objectives called _have-done lists_) to help you get a handle on the trivial stuff so you can finally get to those bigger things. {% if site.course.allow_signups %} There are limited spots for the group starting {{ site.course.starts }}. [Apply by {{ site.course.deadline }}][course].{% else %}[Learn more][course]{% endif %}
 </div>
 
 [course]: /the-objectives-course/
