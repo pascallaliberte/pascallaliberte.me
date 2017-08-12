@@ -1,7 +1,7 @@
 ---
 layout: default
 class: objectives-course
-title: "The Objectives Course: Change Your Situation"
+title: "The Objectives Course: Catch-up on the small. Tackle the big. One approach"
 og:
   title: "The Objectives Course"
   description: "A 10-week course on writing _have-done lists_, an approach for catching up on the small stuff so you can get to big stuff."
