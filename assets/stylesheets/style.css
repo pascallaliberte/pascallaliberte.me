@@ -573,6 +573,88 @@ html[data-section-in-view="interests"] #interests h2 {
 .jtbd ul {
   margin-left: 2rem; }
 
+.bleep-bloop-shop #main-title {
+  font-size: 2.2em;
+  font-family: "freight-sans-condensed-pro", Helvetica, Arial, sans-serif;
+  line-height: 1;
+  margin-top: 1em;
+  margin-bottom: 2em; }
+  .bleep-bloop-shop #main-title .tagline {
+    font-family: "freight-sans-pro", Helvetica, Arial, sans-serif;
+    font-size: 0.8em;
+    margin-top: 0.2em;
+    display: block;
+    font-weight: normal; }
+.bleep-bloop-shop .content {
+  font-size: 0.9em;
+  line-height: 1.25; }
+  .bleep-bloop-shop .content ul {
+    padding-left: 0;
+    margin-left: 1em; }
+    .bleep-bloop-shop .content ul > li {
+      margin-bottom: 0.5em; }
+.bleep-bloop-shop h1 {
+  margin-top: 2em;
+  font-weight: bold;
+  text-transform: uppercase;
+  font-size: 1.4em;
+  line-height: 1.1; }
+  @media only screen and (min-width: 768px) {
+    .bleep-bloop-shop h1 {
+      text-align: center; } }
+.bleep-bloop-shop h2 {
+  text-align: center;
+  font-weight: bold;
+  text-transform: uppercase;
+  margin: 2em 0;
+  line-height: 1.1; }
+.bleep-bloop-shop .img-responsive {
+  width: 100%;
+  height: auto;
+  display: block; }
+.bleep-bloop-shop .text-center {
+  text-align: center; }
+.bleep-bloop-shop .demo-images .demo-image {
+  position: relative; }
+  .bleep-bloop-shop .demo-images .demo-image .legend {
+    position: absolute;
+    text-align: center;
+    width: 85%;
+    top: 60%;
+    left: 50%;
+    transform: translateX(-50%); }
+  .bleep-bloop-shop .demo-images .demo-image.light-text .legend, .bleep-bloop-shop .demo-images .demo-image.light-text .legend a {
+    color: white; }
+@media only screen and (min-width: 768px) {
+  .bleep-bloop-shop .left {
+    float: left;
+    width: 48%; }
+  .bleep-bloop-shop .right {
+    float: right;
+    width: 48%; }
+  .bleep-bloop-shop .demo-images {
+    zoom: 1; }
+    .bleep-bloop-shop .demo-images:after {
+      content: ".";
+      display: block;
+      height: 0;
+      clear: both;
+      visibility: hidden; } }
+.bleep-bloop-shop .clarification {
+  background: rgba(253, 234, 152, 0.3);
+  padding: 1em; }
+@media (max-width: 768px) {
+  .bleep-bloop-shop .hide-mobile {
+    display: none; } }
+.bleep-bloop-shop .byline {
+  font-size: 1.2em;
+  font-weight: italic;
+  margin-top: -3em;
+  margin-bottom: 3em; }
+  @media only screen and (min-width: 768px) {
+    .bleep-bloop-shop .byline {
+      text-align: center; } }
+
 .update ol {
   margin-bottom: 1em; }
 
