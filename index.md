@@ -17,6 +17,14 @@ I'm offering a course called [The Objectives Course][course]. It teaches thinkin
 
 [course]: /the-objectives-course/
 
+<div class="scroll-reveal" markdown="1" id="bleep-bloop-shop">
+## Bleep, Bloop, Shop! A tweaking service for your Shopify Store.
+
+I'm offering [a tweaking service to make your Shopify Store faster to load and more up to date](/bleep-bloop-shop). (Why Bleep, Bloop? That's the sounds our internet connections make here in Canada. jk, jk)
+</div>
+
+[course]: /the-objectives-course/
+
 <div class="scroll-reveal" markdown="1" id="my-work">
 ## My work: Designer, Developer and User Researcher
 
