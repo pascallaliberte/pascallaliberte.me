@@ -11,8 +11,8 @@ gems:
 destination: public
 exclude: [public, Gemfile, Gemfile.lock, Rakefile, README.md]
 course:
-  starts: "September 3rd" # has to be a Sunday
-  deadline: "August 28" # has to be a Monday
+  starts: "September 10rd" # has to be a Sunday
+  deadline: "September 4rd" # has to be a Monday
   limit: 5
-  price: 250
-  allow_signups: false
+  price: 300
+  allow_signups: true

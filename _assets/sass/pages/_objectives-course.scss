@@ -12,16 +12,32 @@ $font-headings-course: "freight-sans-condensed-pro", Helvetica, Arial, sans-seri
 
 .objectives-course {
 
+  .course-title-label {
+    @include responsive-break-point(768px) {
+      text-align: center;
+    }
+    p {
+      font-size: 0.7em;
+      padding: 0.3em 0;
+      border-radius: 0;
+      text-transform: uppercase;
+      font-weight: 200;
+      display: inline-block;
+      font-family: $font-headings-course;
+      line-height: 0.9;
+      border-bottom: 3px solid $color-text;
+    }
+  }
+
   #course-title {
     font-size: 2.2em;
     font-family: $font-headings-course;
     line-height: 0.9;
-    margin-top: 1em;
     margin-bottom: 2em;
     .tagline {
       font-family: $font-headings;
       font-size: 0.8em;
-      margin-top: 0.2em;
+      margin-top: 0.4em;
       display: block;
       font-weight: normal;
     }
