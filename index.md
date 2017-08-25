@@ -10,20 +10,18 @@ layout: default
 {: .home-intro }
 
 <div class="scroll-reveal" markdown="1" id="course">
-## The Objectives Course: Catch-up on the small. Tackle the big. One approach.
+## The Language of Objectives: Catch-up on the small. Tackle the big. One approach.
 
-I'm offering a course called [The Objectives Course][course]. It teaches thinking tools (centered on a novel way to write objectives called _have-done lists_) to help you get a handle on the trivial stuff so you can finally get to those bigger things. {% if site.course.allow_signups %} There are limited spots for the group starting {{ site.course.starts }}. [Apply by {{ site.course.deadline }}][course].{% else %}[Learn more][course]{% endif %}
+I'm offering a course called [The Language of Objectives][course]. It teaches thinking tools (centered on a novel way to write objectives called _have-done lists_) to help you get a handle on the trivial stuff so you can finally get to those bigger things. {% if site.course.allow_signups %} There are limited spots for the group starting {{ site.course.starts }}. [Apply by {{ site.course.deadline }}][course].{% else %}[Learn more][course]{% endif %}
 </div>
 
-[course]: /the-objectives-course/
+[course]: /language-of-objectives/
 
 <div class="scroll-reveal" markdown="1" id="bleep-bloop-shop">
 ## Bleep, Bloop, Shop! A tweaking service for your Shopify Store.
 
 I'm offering [a tweaking service to make your Shopify Store faster to load and more up to date](/bleep-bloop-shop). (Why Bleep, Bloop? That's the sounds our internet connections make here in Canada. jk, jk)
 </div>
-
-[course]: /the-objectives-course/
 
 <div class="scroll-reveal" markdown="1" id="my-work">
 ## My work: Designer, Developer and User Researcher

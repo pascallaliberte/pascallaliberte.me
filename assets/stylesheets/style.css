@@ -385,16 +385,28 @@ html[data-section-in-view="interests"] #interests h2 {
       display: inline;
       width: auto; } }
 
+@media only screen and (min-width: 768px) {
+  .objectives-course .course-title-label {
+    text-align: center; } }
+.objectives-course .course-title-label p {
+  font-size: 0.7em;
+  padding: 0.3em 0;
+  border-radius: 0;
+  text-transform: uppercase;
+  font-weight: 200;
+  display: inline-block;
+  font-family: "freight-sans-condensed-pro", Helvetica, Arial, sans-serif;
+  line-height: 0.9;
+  border-bottom: 3px solid #645430; }
 .objectives-course #course-title {
   font-size: 2.2em;
   font-family: "freight-sans-condensed-pro", Helvetica, Arial, sans-serif;
   line-height: 0.9;
-  margin-top: 1em;
   margin-bottom: 2em; }
   .objectives-course #course-title .tagline {
     font-family: "freight-sans-pro", Helvetica, Arial, sans-serif;
     font-size: 0.8em;
-    margin-top: 0.2em;
+    margin-top: 0.4em;
     display: block;
     font-weight: normal; }
 .objectives-course blockquote {
