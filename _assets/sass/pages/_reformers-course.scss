@@ -1,0 +1,265 @@
+$font-headings-course: "freight-sans-condensed-pro", Helvetica, Arial, sans-serif;
+
+.br-xs {
+  display: block;
+  width: 100%;
+  height: 0;
+  @include responsive-break-point (768px) {
+    display: inline;
+    width: auto;
+  }
+}
+
+.reformers-course {
+
+  .byline {
+    font-size: 1.2em;
+    font-weight: italic;
+    margin-top: -3em;
+    @include responsive-break-point(768px) {
+      text-align: center;
+    }
+    margin-bottom: 3em;
+  }
+
+  ol {
+    margin-left: 3em;
+  }
+
+  .course-title-label {
+    @include responsive-break-point(768px) {
+      text-align: center;
+    }
+    p {
+      font-size: 0.7em;
+      padding: 0.3em 0;
+      border-radius: 0;
+      text-transform: uppercase;
+      font-weight: 200;
+      display: inline-block;
+      font-family: $font-headings-course;
+      line-height: 0.9;
+      border-bottom: 3px solid $color-text;
+    }
+  }
+
+  #course-title {
+    font-size: 2.2em;
+    font-family: $font-headings-course;
+    line-height: 0.9;
+    margin-bottom: 2em;
+    .tagline {
+      font-family: $font-headings;
+      font-size: 0.8em;
+      margin-top: 0.4em;
+      display: block;
+      font-weight: normal;
+    }
+  }
+
+  blockquote {
+    border: 1px solid $color-lines;
+    padding: 2em;
+    font-size: 0.8em;
+  }
+
+  .content {
+    font-size: 0.9em;
+    line-height: 1.25;
+    ul {
+      padding-left: 0;
+      margin-left: 1em;
+    }
+  }
+
+  .img-responsive {
+    width: 100%;
+    height: auto;
+    display: block;
+  }
+  .img-responsive-full {
+    display: none;
+  }
+  @include responsive-break-point(420px) {
+    .img-responsive-mobile {
+      display: none;
+    }
+    .img-responsive-full {
+      display: block;
+    }
+  }
+
+
+
+  h1 {
+    @include responsive-break-point(768px) {
+      text-align: center;
+    }
+    font-weight: bold;
+    text-transform: uppercase;
+    font-size: 1.4em;
+    line-height: 1.1;
+  }
+
+  h2 {
+    text-align: center;
+    font-weight: bold;
+    text-transform: uppercase;
+    margin: 2em 0;
+    line-height: 1.1;
+  }
+
+  mark {
+    color: inherit;
+    background: transparentize($color-highlight, 0.7);
+    display: inline;
+    padding: 0 0.2em;
+    margin: 0 0;
+  }
+
+  #mc_embed_signup {
+    &, & .button, & input.email, & #mc-embedded-subscribe-form div.mce_inline_error {
+      font: inherit;
+    }
+    .button {
+      height: auto;
+    }
+  }
+
+  h3 {
+    font-weight: bold;
+    font-size: 1em;
+    line-height: 1.1;
+    margin: 1em 0 0.5em;
+    &.get-started-heading {
+      font-weight: normal;
+      text-align: center;
+      text-transform: uppercase;
+      margin: 2em 0 1em;
+    }
+  }
+
+  ul {
+    margin-left: 0em;
+    font-style: italic;
+    @include responsive-break-point(640px) {
+      margin-left: 1em;
+    }
+  }
+
+  .switch-away-from {
+    font-size: 1.2em;
+    @include responsive-break-point(640px) {
+      margin: 0 3em 3em;
+    }
+  }
+
+  .highlight, #mc_embed_signup {
+    padding: 1em;
+    background: transparentize($color-highlight, 0.7);
+    border-radius: 0.3em;
+    margin: 1em 0 2em;
+    box-sizing: border-box;
+  }
+
+  .examples {
+    font-size: 0.8em;
+    line-height: 1.2em;
+    background: lighten($color-text, 66%);
+    padding: 1em;
+    margin: 1em;
+    color: lighten(#333, 30%);
+
+    h3 {
+      font-weight: 700;
+      margin: 0;
+      color: #333;
+    }
+  }
+
+  .highlight {
+    margin-top: 4em;
+    h2 {
+      margin: 0;
+      margin-bottom: 0.5em;
+    }
+    @include responsive-break-point(640px) {
+      text-align: center;
+      p {
+        max-width: 80%;
+        margin-left: auto;
+        margin-right: auto;
+      }
+    }
+  }
+
+  .text-center-desktop {
+    @include responsive-break-point(640px) {
+      text-align: center;
+    }
+  }
+
+  ul.get-started-checklist {
+    width: 80%;
+  }
+
+  .sign-up-link {
+    display: inline-block;
+    padding: 0.5em 2em;
+    background: transparentize($color-highlight, 0.7);
+    border-radius: 0.3em;
+  }
+
+  .sign-up-link-wrapper {
+    text-align: center;
+    margin: 1em 0;
+  }
+
+  hr {
+    max-width: 10rem;
+    margin: 2em auto 1em;
+    background-color: $color-lines;
+    border: none;
+    height: 0.2rem;
+  }
+
+  ul.instead-of-list {
+    list-style: none;
+    margin-left: 1rem;
+    margin-top: 2.5em;
+    @include responsive-break-point(640px) {
+      margin-top: 0;
+      margin-left: 7em;
+    }
+    position: relative;
+    font-style: normal;
+
+    line-height: 1.1em;
+    li {
+      margin-bottom: 1em;
+    }
+  }
+  .instead-of-prefix {
+    @include responsive-break-point(640px) {
+      position: absolute;
+      display: inline-block;
+      white-space: nowrap;
+      bottom: auto;
+      right: 100%;
+      margin-right: 0.3em;
+      margin-left: 0;
+      margin-top: 0;
+      text-align: right;
+    }
+  }
+
+  ul.lets-me-list {
+    list-style: none;
+    margin-left: 1rem;
+    margin-bottom: 3rem;
+    li {
+      margin-top: 0.5em;
+    }
+  }
+
+}

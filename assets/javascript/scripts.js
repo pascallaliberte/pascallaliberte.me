@@ -42,5 +42,14 @@
     sr.reveal('.scroll-reveal');
   }
 
-  addScrollReveal()
+  makeVideosResponsive = function() {
+    if (typeof reframe == "undefined") {
+      return;
+    }
+
+    reframe('iframe');
+  }
+
+  addScrollReveal();
+  makeVideosResponsive();
 })()

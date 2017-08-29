@@ -268,6 +268,8 @@ body #mc_embed_signup {
   body #mc_embed_signup div.response {
     margin: 0 0 1em;
     padding: 0; }
+  body #mc_embed_signup input.email {
+    padding: 0.88em 0.7em; }
 
 html {
   transition: background-color 0.5s ease; }
@@ -562,6 +564,194 @@ html[data-section-in-view="interests"] #interests h2 {
   margin-left: 1rem;
   margin-bottom: 3rem; }
   .objectives-course ul.lets-me-list li {
+    margin-top: 0.5em; }
+
+.br-xs {
+  display: block;
+  width: 100%;
+  height: 0; }
+  @media only screen and (min-width: 768px) {
+    .br-xs {
+      display: inline;
+      width: auto; } }
+
+.reformers-course .byline {
+  font-size: 1.2em;
+  font-weight: italic;
+  margin-top: -3em;
+  margin-bottom: 3em; }
+  @media only screen and (min-width: 768px) {
+    .reformers-course .byline {
+      text-align: center; } }
+.reformers-course ol {
+  margin-left: 3em; }
+@media only screen and (min-width: 768px) {
+  .reformers-course .course-title-label {
+    text-align: center; } }
+.reformers-course .course-title-label p {
+  font-size: 0.7em;
+  padding: 0.3em 0;
+  border-radius: 0;
+  text-transform: uppercase;
+  font-weight: 200;
+  display: inline-block;
+  font-family: "freight-sans-condensed-pro", Helvetica, Arial, sans-serif;
+  line-height: 0.9;
+  border-bottom: 3px solid #645430; }
+.reformers-course #course-title {
+  font-size: 2.2em;
+  font-family: "freight-sans-condensed-pro", Helvetica, Arial, sans-serif;
+  line-height: 0.9;
+  margin-bottom: 2em; }
+  .reformers-course #course-title .tagline {
+    font-family: "freight-sans-pro", Helvetica, Arial, sans-serif;
+    font-size: 0.8em;
+    margin-top: 0.4em;
+    display: block;
+    font-weight: normal; }
+.reformers-course blockquote {
+  border: 1px solid rgba(100, 84, 48, 0.1);
+  padding: 2em;
+  font-size: 0.8em; }
+.reformers-course .content {
+  font-size: 0.9em;
+  line-height: 1.25; }
+  .reformers-course .content ul {
+    padding-left: 0;
+    margin-left: 1em; }
+.reformers-course .img-responsive {
+  width: 100%;
+  height: auto;
+  display: block; }
+.reformers-course .img-responsive-full {
+  display: none; }
+@media only screen and (min-width: 420px) {
+  .reformers-course .img-responsive-mobile {
+    display: none; }
+  .reformers-course .img-responsive-full {
+    display: block; } }
+.reformers-course h1 {
+  font-weight: bold;
+  text-transform: uppercase;
+  font-size: 1.4em;
+  line-height: 1.1; }
+  @media only screen and (min-width: 768px) {
+    .reformers-course h1 {
+      text-align: center; } }
+.reformers-course h2 {
+  text-align: center;
+  font-weight: bold;
+  text-transform: uppercase;
+  margin: 2em 0;
+  line-height: 1.1; }
+.reformers-course mark {
+  color: inherit;
+  background: rgba(253, 234, 152, 0.3);
+  display: inline;
+  padding: 0 0.2em;
+  margin: 0 0; }
+.reformers-course #mc_embed_signup, .reformers-course #mc_embed_signup .button, .reformers-course #mc_embed_signup input.email, .reformers-course #mc_embed_signup #mc-embedded-subscribe-form div.mce_inline_error {
+  font: inherit; }
+.reformers-course #mc_embed_signup .button {
+  height: auto; }
+.reformers-course h3 {
+  font-weight: bold;
+  font-size: 1em;
+  line-height: 1.1;
+  margin: 1em 0 0.5em; }
+  .reformers-course h3.get-started-heading {
+    font-weight: normal;
+    text-align: center;
+    text-transform: uppercase;
+    margin: 2em 0 1em; }
+.reformers-course ul {
+  margin-left: 0em;
+  font-style: italic; }
+  @media only screen and (min-width: 640px) {
+    .reformers-course ul {
+      margin-left: 1em; } }
+.reformers-course .switch-away-from {
+  font-size: 1.2em; }
+  @media only screen and (min-width: 640px) {
+    .reformers-course .switch-away-from {
+      margin: 0 3em 3em; } }
+.reformers-course .highlight, .reformers-course #mc_embed_signup {
+  padding: 1em;
+  background: rgba(253, 234, 152, 0.3);
+  border-radius: 0.3em;
+  margin: 1em 0 2em;
+  box-sizing: border-box; }
+.reformers-course .examples {
+  font-size: 0.8em;
+  line-height: 1.2em;
+  background: #f7f4ee;
+  padding: 1em;
+  margin: 1em;
+  color: gray; }
+  .reformers-course .examples h3 {
+    font-weight: 700;
+    margin: 0;
+    color: #333; }
+.reformers-course .highlight {
+  margin-top: 4em; }
+  .reformers-course .highlight h2 {
+    margin: 0;
+    margin-bottom: 0.5em; }
+  @media only screen and (min-width: 640px) {
+    .reformers-course .highlight {
+      text-align: center; }
+      .reformers-course .highlight p {
+        max-width: 80%;
+        margin-left: auto;
+        margin-right: auto; } }
+@media only screen and (min-width: 640px) {
+  .reformers-course .text-center-desktop {
+    text-align: center; } }
+.reformers-course ul.get-started-checklist {
+  width: 80%; }
+.reformers-course .sign-up-link {
+  display: inline-block;
+  padding: 0.5em 2em;
+  background: rgba(253, 234, 152, 0.3);
+  border-radius: 0.3em; }
+.reformers-course .sign-up-link-wrapper {
+  text-align: center;
+  margin: 1em 0; }
+.reformers-course hr {
+  max-width: 10rem;
+  margin: 2em auto 1em;
+  background-color: rgba(100, 84, 48, 0.1);
+  border: none;
+  height: 0.2rem; }
+.reformers-course ul.instead-of-list {
+  list-style: none;
+  margin-left: 1rem;
+  margin-top: 2.5em;
+  position: relative;
+  font-style: normal;
+  line-height: 1.1em; }
+  @media only screen and (min-width: 640px) {
+    .reformers-course ul.instead-of-list {
+      margin-top: 0;
+      margin-left: 7em; } }
+  .reformers-course ul.instead-of-list li {
+    margin-bottom: 1em; }
+@media only screen and (min-width: 640px) {
+  .reformers-course .instead-of-prefix {
+    position: absolute;
+    display: inline-block;
+    white-space: nowrap;
+    bottom: auto;
+    right: 100%;
+    margin-right: 0.3em;
+    margin-left: 0;
+    margin-top: 0;
+    text-align: right; } }
+.reformers-course ul.lets-me-list {
+  list-style: none;
+  margin-left: 1rem;
+  margin-bottom: 3rem; }
+  .reformers-course ul.lets-me-list li {
     margin-top: 0.5em; }
 
 .jtbd h1 {
