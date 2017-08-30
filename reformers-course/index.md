@@ -10,7 +10,7 @@ og:
 # The Reformer's Course <span class="tagline">When you're the one to make that change happen</span>
 {: #course-title }
 
-by [Pascal Laliberté](/)
+(Coming soon) by [Pascal Laliberté](/)
 {: .byline }
 
 When you see that things could be done better.  
