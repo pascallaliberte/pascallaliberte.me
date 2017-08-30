@@ -1,10 +1,10 @@
 ---
 layout: default
 class: objectives-course
-title: "The Language of Objectives: Catch-up on the small. Tackle the big. One approach"
+title: "The Language of Objectives: Catch-up on the small so you can get to your bigger priorities"
 og:
   title: "The Language of Objectives"
-  description: "A 10-week course on writing _have-done lists_, an approach for catching up on the small stuff so you can get to big stuff."
+  description: "A 10-week course on writing _have-done lists_, an approach for Catch-up on the small so you can get to your bigger priorities."
   images:
     - url: "/language-of-objectives/preview-1200x630.png"
       width: 1200
@@ -18,7 +18,7 @@ og:
   A course on
 </div>
 
-# The Language of Objectives <span class="tagline">Catch-up on the small. Tackle the big. One approach</span>
+# The Language of Objectives <span class="tagline">Catch-up on the small so you can get to your bigger priorities</span>
 {: #course-title }
 
 by [Pascal Laliberté](/)
