@@ -10,7 +10,7 @@ layout: default
 {: .home-intro }
 
 <div class="scroll-reveal" markdown="1" id="language-of-objectives">
-## The Language of Objectives <span class="sub-title">Catch-up on the small so you can get to your bigger priorities</span>
+## [The Language of Objectives][language-of-objectives] <span class="sub-title">Catch-up on the small so you can get to your bigger priorities</span>
 
 I'm offering a course called [The Language of Objectives][language-of-objectives]. It teaches thinking tools (centered on a novel way to write objectives called _have-done lists_) to help you get a handle on the trivial stuff so you can finally get to those bigger things. {% if site.course.allow_signups %} There are limited spots for the group starting {{ site.course.starts }}. [Apply by {{ site.course.deadline }}][language-of-objectives].{% else %}[Learn more][language-of-objectives]{% endif %}
 </div>
@@ -18,7 +18,7 @@ I'm offering a course called [The Language of Objectives][language-of-objectives
 [language-of-objectives]: /language-of-objectives/
 
 <div class="scroll-reveal" markdown="1" id="reformers-course">
-## The Reformer's Course <span class="coming-soon">Coming soon</span> <span class="sub-title">When you're the one to make that change happen</span>
+## [The Reformer's Course][reformers-course] <span class="coming-soon">Coming soon</span> <span class="sub-title">When you're the one to make that change happen</span>
 
 I'm working on a new course I'm calling [The Reformer's Course][reformers-course]. It will come at the right time for you if you see that your action will be important in changing situations for the better, and you want to bring your best game. Like the _Language of Objectives_ course, it also teaches about _have-done lists_, the technique for visualizing your participation in the future. It also teaches the concept of _mental models_, those invisible lenses that color our judgement. [Learn more or sign-up to **be notified when The Reformer's Course launches**][reformers-course].
 </div>
@@ -26,9 +26,9 @@ I'm working on a new course I'm calling [The Reformer's Course][reformers-course
 [reformers-course]: /reformers-course/
 
 <div class="scroll-reveal" markdown="1" id="bleep-bloop-shop">
-## Bleep, Bloop, Shop! <span class="sub-title">A tweaking service for your Shopify Store.</span>
+## [Bleep, Bloop, Shop!](/bleep-bloop-shop/) <span class="sub-title">A tweaking service for your Shopify Store.</span>
 
-I'm offering [a tweaking service to make your Shopify Store faster to load and more up to date](/bleep-bloop-shop). (Why Bleep, Bloop? That's the sounds our internet connections make here in Canada. jk, jk)
+I'm offering [a tweaking service to make your Shopify Store faster to load and more up to date](/bleep-bloop-shop/). (Why Bleep, Bloop? That's the sounds our internet connections make here in Canada. jk, jk)
 </div>
 
 <div class="scroll-reveal" markdown="1" id="my-work">
@@ -97,7 +97,7 @@ My main areas of interest are:
 </div>
 
 <div class="scroll-reveal" markdown="1" id="christianity">
-## A blog on modern Christianity
+## [A blog on modern Christianity][faithblog]
 
 In this care for growth and relationships and depth, I continue to be drawn to Christianity. Although deeply skeptical, I joyfully believe. Learning to bridge modernity and faith has been good for me, and so I write a blog on [Leading a modern life while living the Gospel][faithblog], sharing the ways for achieving both, fully. Let's grow towards more maturity, and to a more subtle faith.
 

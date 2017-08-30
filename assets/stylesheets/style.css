@@ -318,6 +318,15 @@ html[data-section-in-view="interests"] #interests h2 {
     line-height: 1.2;
     display: block;
     font-weight: normal; }
+  .home h2 a {
+    color: inherit;
+    text-decoration: none;
+    display: inline-block;
+    border-bottom: 1px solid transparent;
+    transition: border-bottom-color 0.2s ease, color 0.2s ease; }
+    .home h2 a:hover, .home h2 a:focus {
+      color: #bb5400;
+      border-bottom-color: rgba(187, 84, 0, 0.6); }
 .home .coming-soon {
   display: inline-block;
   font-size: 0.5em;
