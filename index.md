@@ -9,13 +9,21 @@ layout: default
 [LinkedIn][linkedin], [Medium][medium], [Twitter][twitter], [Instagram][instagram]
 {: .home-intro }
 
-<div class="scroll-reveal" markdown="1" id="course">
+<div class="scroll-reveal" markdown="1" id="language-of-objectives">
 ## The Language of Objectives <span class="sub-title">Catch-up on the small. Tackle the big. One approach.</span>
 
-I'm offering a course called [The Language of Objectives][course]. It teaches thinking tools (centered on a novel way to write objectives called _have-done lists_) to help you get a handle on the trivial stuff so you can finally get to those bigger things. {% if site.course.allow_signups %} There are limited spots for the group starting {{ site.course.starts }}. [Apply by {{ site.course.deadline }}][course].{% else %}[Learn more][course]{% endif %}
+I'm offering a course called [The Language of Objectives][language-of-objectives]. It teaches thinking tools (centered on a novel way to write objectives called _have-done lists_) to help you get a handle on the trivial stuff so you can finally get to those bigger things. {% if site.course.allow_signups %} There are limited spots for the group starting {{ site.course.starts }}. [Apply by {{ site.course.deadline }}][language-of-objectives].{% else %}[Learn more][language-of-objectives]{% endif %}
 </div>
 
-[course]: /language-of-objectives/
+[language-of-objectives]: /language-of-objectives/
+
+<div class="scroll-reveal" markdown="1" id="reformers-course">
+## The Reformer's Course <span class="coming-soon">Coming soon</span> <span class="sub-title">When you're the one to make that change happen</span>
+
+I'm working on a new course I'm calling [The Reformer's Course][reformers-course]. It will come at the right time for you if you see that your action will be important in changing situations for the better, and you want to bring your best game. Like the _Language of Objectives_ course, it also teaches about _have-done lists_, the technique for visualizing your participation in the future. It also teaches the concept of _mental models_, those invisible lenses that color our judgement. [Learn more or sign-up to **be notified when The Reformer's Course launches**][reformers-course].
+</div>
+
+[reformers-course]: /reformers-course/
 
 <div class="scroll-reveal" markdown="1" id="bleep-bloop-shop">
 ## Bleep, Bloop, Shop! <span class="sub-title">A tweaking service for your Shopify Store.</span>
@@ -24,9 +32,9 @@ I'm offering [a tweaking service to make your Shopify Store faster to load and m
 </div>
 
 <div class="scroll-reveal" markdown="1" id="my-work">
-## My work: <span class="sub-title">Designer, Developer and User Researcher</span>
+## My work <span class="sub-title">Personal Development, Product Marketing and Web UIs</span>
 
-I'm currently preparing some service offerings to help product owners increase their sales. Would you like to be notified when I have something to announce?
+I'm currently preparing a way to help product owners improve their sales by tweaking how they present their product. By understanding the _reason_ why someone bought your product (they wanted progress in that area of their life), you can craft your messaging. To be notified when I announce that service, here's where to sign-up:
 
 {% include signup-services-announcement.html %}
 </div>
@@ -112,7 +120,7 @@ Here are a few articles from the blog:
 These questions help me stay true, and they help me make good choices. I hope they're useful to you too:
 
 1. **What am I so convinced of?** Any time I feel conflicted, agitated, or that my options are limited, I inspect and identify my [mental models, those invisible lenses through which we distort how we see reality][mentalmodels]. I make it a habit to put my finger on my mental models, so I drive them and they don't drive me. Every time I did this, I was able to solve the right problem, build the right thing, and help people in the way they needed the help. And the second question is:
-2. **What will I be celebrating?** Instead of writing lists of things to do, or of things I want to achieve, I write lists of things I'll *have achieved* in a future place in time. I call these [will-have-done lists][havedonelists]. That subtle change of position helps me visualize what's essential, what's central and what to ship first, and also what's a distraction and what to ignore until after that date. To write these lists, I use [Taskmator for iOS][taskmator] and [Taskpaper for Mac][taskpaper] with a [custom stylesheet][theme-notes-first].
+2. **What will I be celebrating?** Instead of writing lists of things to do, or of things I want to achieve, I write lists of things I'll *have achieved* in a future place in time. I call these [have-done lists][havedonelists]. That subtle change of position helps me visualize what's essential, what's central and what to ship first, and also what's a distraction and what to ignore until after that date. To write these lists, I use [Taskmator for iOS][taskmator] and [Taskpaper for Mac][taskpaper] with a [custom stylesheet][theme-notes-first].
 
 Hope they help.
 

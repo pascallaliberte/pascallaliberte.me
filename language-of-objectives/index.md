@@ -21,6 +21,9 @@ og:
 # The Language of Objectives <span class="tagline">Catch-up on the small. Tackle the big. One approach</span>
 {: #course-title }
 
+by [Pascal Laliberté](/)
+{: .byline }
+
 <div class="intro" markdown="1">
 **A 10-week course on writing _have-done lists_, an approach for catching up on the small stuff so you can get to big stuff.**
 
@@ -38,7 +41,7 @@ The next group is scheduled to start on {{ site.course.starts }}.
 
 ***
 
-Hi. My name is [Pascal Laliberté](/) and I'm offering a course **about a trick I've learned: how to write objectives in a way I call _have-done lists_**.
+Hi. My name is [Pascal](/) and I'm offering a course **about a trick I've learned: how to write objectives in a way I call _have-done lists_**.
 
 ## Here's what **_have-done lists_** look like:
 {: .have-done-lists-heading }

@@ -7,7 +7,7 @@ og:
   description: ""
 ---
 
-# The Reformer's Course
+# The Reformer's Course <span class="tagline">When you're the one to make that change happen</span>
 {: #course-title }
 
 by [Pascal Laliberté](/)

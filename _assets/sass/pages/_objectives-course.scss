@@ -12,6 +12,16 @@ $font-headings-course: "freight-sans-condensed-pro", Helvetica, Arial, sans-seri
 
 .objectives-course {
 
+  .byline {
+    font-size: 1.2em;
+    font-weight: italic;
+    margin-top: -3em;
+    @include responsive-break-point(768px) {
+      text-align: center;
+    }
+    margin-bottom: 3em;
+  }
+
   .course-title-label {
     @include responsive-break-point(768px) {
       text-align: center;

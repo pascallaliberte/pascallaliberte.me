@@ -54,6 +54,23 @@ html[data-section-in-view="interests"] #interests h2 {
       font-weight: normal;
     }
   }
+
+  .coming-soon {
+    display: inline-block;
+    font-size: 0.5em;
+    border-radius: 0.4em;
+    padding: 0.3em 0.6em 0.4em;
+    background-color: transparentize($color-highlight, 0.4);
+    color: mix($color-link, $color-text);
+    text-transform: uppercase;
+    font-weight: normal!important;
+    @include responsive-break-point(768px) {
+      position: absolute;
+      margin-left: 1em;
+      margin-top: 0.2em;
+    }
+  }
+
   hr {
     width: 2em;
     height: 1px;
