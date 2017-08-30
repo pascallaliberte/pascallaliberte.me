@@ -32,6 +32,8 @@ Maybe seeing all of the variables is a burden for you. Caring about everything i
 
 You have an urge to fix broken things, from systems to processes to relationships. To you, it's all the same. It all needs fixing. You've tried saying the job is for someone else, but this time, it seems to be your turn.
 
+For you, I'm putting together The Reformer's Course.
+
 <div class="highlight" markdown="1">
 
 ## The two techniques the course teaches:
@@ -40,7 +42,7 @@ To help you take that step (and many other steps after that), there are two main
 
 **Have-Done Lists**, and **Mental Models**.
 
-This video shows you how they work:
+This video shows you how they work (38 minutes):
 
 <div class="fitvid">
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/mZIE4sj1HHM?rel=0" frameborder="0" allowfullscreen></iframe>
@@ -51,13 +53,13 @@ This video shows you how they work:
 
 ## You can use these techniques for doing the following:
 
-* Taking inventory of everything that's on your mind, and going deep on everything you want to go deep in, no compromise. You'll do that by using a way to list everything, and re-write your relationship to each of them with more subtlety, fewer absolutes, and more relativity. Have-done lists will be what you'll use for this (more on that below).
-* Catching yourself when you're in a reactionary state (you know, when you're feeling obsessed with a single way forward) and re-wire your thoughts to see more clearly. You'll do that by practicing seeing something that's normally invisible to your brain: its own mental models (more on that below as well).
-* Moving away from doing small things to doing big things instead. You'll do that by envisioning the future you think is important to go towards. Just by rewriting statements describing the future, you'll be taken by a sense of "this is so obvious, it has to happen". And then you'll go out and do it. And when you catch some thoughts coming up, as anything of consequence normally creates, you'll know how to deal with them. Both have-done lists and mental models are what you'll use for this.
+* **Taking inventory of everything that's on your mind**, and going deep on everything you want to go deep in, no compromise. You'll do that by using a way to list everything, and re-write your relationship to each of them with more subtlety, fewer absolutes, and more relativity. Have-done lists will be what you'll use for this (more on that below).
+* **Catching yourself when you're in a reactionary state** (you know, when you're feeling obsessed with a single way forward) and re-wire your thoughts to see more clearly. You'll do that by practicing seeing something that's normally invisible to your brain: its own mental models (more on that below as well).
+* **Moving away from doing small things to doing big things instead.** You'll do that by envisioning the future you think is important to go towards. Just by rewriting statements describing the future, you'll be taken by a sense of "this is so obvious, it has to happen". And then you'll go out and do it. And when you catch some thoughts coming up, as anything of consequence normally creates, you'll know how to deal with them. Both have-done lists and mental models are what you'll use for this.
 
 ## More on how these two techniques work:
 
-**Have-done lists** are lists of statements describing what you will have done by a certain time in the future. This single approach replaces both to-do lists and goal-setting at the same time, and it works for big timelines (bigger goals) and well as small timelines (shorter-term to-dos).
+[**Have-done lists**][have-done-lists] are lists of statements describing what you will have done by a certain time in the future. This single approach replaces both to-do lists and goal-setting at the same time, and it works for big timelines (bigger goals) and well as small timelines (shorter-term to-dos).
 
 Start with a heading with this format: "By *&lt;time or event in the future&gt;*, I'll have". Then, underneath, write statements that start with a past participle verb, finishing the sentence started by the heading. e.g. "By the end of the week, I'll have:" "Finished the minimum things I need to have done", "Prepared a first draft of a proposal to send to my supervisor".
 
@@ -65,20 +67,26 @@ The technique becomes particularly powerful when there are a lot of statements, 
 
 What's more, this approach creates lists that are surprisingly flexible to changes. There are several questions you can ask yourself to help you get have-done lists that are super helpful, and we'll go over these questions in the course.
 
-**Mental Models** are these invisible lenses that our brain uses to color our perception of the world (biases, conclusions, oppositions, labels, prejudices, certainties). Since our brain stores facts together _with the conclusion it made about the fact_, it makes it difficult for us to see things clearly.
+[have-done-lists]: http://by.pascallaliberte.me/2013-12-writing-objectives-you-will-accomplish/
+
+[**Mental Models**][mental-models] are these invisible lenses that our brain uses to color our perception of the world (biases, conclusions, oppositions, labels, prejudices, certainties). Since our brain stores facts together _with the conclusion it made about the fact_, it makes it difficult for us to see things clearly.
 
 Seeing your mental models is a way for you to be objective. But objectivity is the first thing that goes out the window when you're in a moment of certainty, or in a moment of feeling annoyed or misunderstood or confronted or defensive. You regain objectivity after that moment is gone, but it was in that moment that your objectivity was needed.
 
 In the course, you'll train the habit of spotting mental models _as they take over_. It's not easy, but boy is it useful. It'll turn you into one of the most effective leaders, because you'll serve the situation and the people around you with agility and poise.
 
-[Sign up below](#sign-up){: .sign-up-link }
+[mental-models]: http://by.pascallaliberte.me/2014-01-intro-to-mental-models/
+
+**The course will allow you to take these techniques from kinda-know-it to this-actually-works.**
+
+[See below to get notified when it launches](#sign-up){: .sign-up-link }
 {: .sign-up-link-wrapper }
 
 ---
 
 ## Here's how the course works:
 
-**There are 15 lessons**, and each lesson starts from a situation that some fictitious person is going through, and in which she applies have-done lists and mental models to turn it around and make it better.
+**There are 15 lessons**, and each lesson starts from a situation that some example person is going through, and in which she applies have-done lists and mental models to turn it around and make it better.
 
 <div class="examples" markdown="1">
 ### Examples:

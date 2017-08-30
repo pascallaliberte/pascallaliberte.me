@@ -703,11 +703,12 @@ html[data-section-in-view="interests"] #interests h2 {
     text-transform: uppercase;
     margin: 2em 0 1em; }
 .reformers-course ul {
-  margin-left: 0em;
-  font-style: italic; }
+  margin-left: 0em; }
   @media only screen and (min-width: 640px) {
     .reformers-course ul {
       margin-left: 1em; } }
+  .reformers-course ul > li {
+    margin-bottom: 0.5em; }
 .reformers-course .switch-away-from {
   font-size: 1.2em; }
   @media only screen and (min-width: 640px) {
