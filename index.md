@@ -10,7 +10,7 @@ layout: default
 {: .home-intro }
 
 <div class="scroll-reveal" markdown="1" id="course">
-## The Language of Objectives: Catch-up on the small. Tackle the big. One approach.
+## The Language of Objectives <span class="sub-title">Catch-up on the small. Tackle the big. One approach.</span>
 
 I'm offering a course called [The Language of Objectives][course]. It teaches thinking tools (centered on a novel way to write objectives called _have-done lists_) to help you get a handle on the trivial stuff so you can finally get to those bigger things. {% if site.course.allow_signups %} There are limited spots for the group starting {{ site.course.starts }}. [Apply by {{ site.course.deadline }}][course].{% else %}[Learn more][course]{% endif %}
 </div>
@@ -18,13 +18,13 @@ I'm offering a course called [The Language of Objectives][course]. It teaches th
 [course]: /language-of-objectives/
 
 <div class="scroll-reveal" markdown="1" id="bleep-bloop-shop">
-## Bleep, Bloop, Shop! A tweaking service for your Shopify Store.
+## Bleep, Bloop, Shop! <span class="sub-title">A tweaking service for your Shopify Store.</span>
 
 I'm offering [a tweaking service to make your Shopify Store faster to load and more up to date](/bleep-bloop-shop). (Why Bleep, Bloop? That's the sounds our internet connections make here in Canada. jk, jk)
 </div>
 
 <div class="scroll-reveal" markdown="1" id="my-work">
-## My work: Designer, Developer and User Researcher
+## My work: <span class="sub-title">Designer, Developer and User Researcher</span>
 
 I'm currently preparing some service offerings to help product owners increase their sales. Would you like to be notified when I have something to announce?
 
@@ -107,7 +107,7 @@ Here are a few articles from the blog:
 </div>
 
 <div class="scroll-reveal" markdown="1" id="questions">
-## In closing, two questions I think are helpful
+## In closing, <span class="sub-title">two questions I think are helpful</span>
 
 These questions help me stay true, and they help me make good choices. I hope they're useful to you too:
 

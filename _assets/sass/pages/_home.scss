@@ -45,6 +45,14 @@ html[data-section-in-view="interests"] #interests h2 {
     font-weight: 900;
     text-transform: uppercase;
     color: $color-headings-home;
+    span.sub-title {
+      font-family: $font-headings;
+      font-size: 0.8em;
+      margin-top: 0.2em;
+      line-height: 1.2;
+      display: block;
+      font-weight: normal;
+    }
   }
   hr {
     width: 2em;

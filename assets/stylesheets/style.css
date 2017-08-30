@@ -311,6 +311,13 @@ html[data-section-in-view="interests"] #interests h2 {
   font-weight: 900;
   text-transform: uppercase;
   color: #708A9F; }
+  .home h2 span.sub-title {
+    font-family: "freight-sans-pro", Helvetica, Arial, sans-serif;
+    font-size: 0.8em;
+    margin-top: 0.2em;
+    line-height: 1.2;
+    display: block;
+    font-weight: normal; }
 .home hr {
   width: 2em;
   height: 1px;
