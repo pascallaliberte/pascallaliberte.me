@@ -10,7 +10,7 @@ $font-headings-course: "freight-sans-condensed-pro", Helvetica, Arial, sans-seri
   }
 }
 
-.objectives-course {
+.reformers-course {
 
   .byline {
     font-size: 1.2em;
@@ -20,6 +20,10 @@ $font-headings-course: "freight-sans-condensed-pro", Helvetica, Arial, sans-seri
       text-align: center;
     }
     margin-bottom: 3em;
+  }
+
+  ol {
+    margin-left: 3em;
   }
 
   .course-title-label {
@@ -137,9 +141,11 @@ $font-headings-course: "freight-sans-condensed-pro", Helvetica, Arial, sans-seri
 
   ul {
     margin-left: 0em;
-    font-style: italic;
     @include responsive-break-point(640px) {
       margin-left: 1em;
+    }
+    > li {
+      margin-bottom: 0.5em;
     }
   }
 
@@ -150,12 +156,49 @@ $font-headings-course: "freight-sans-condensed-pro", Helvetica, Arial, sans-seri
     }
   }
 
-  .intro, #mc_embed_signup {
+  .highlight, #mc_embed_signup {
     padding: 1em;
     background: transparentize($color-highlight, 0.7);
     border-radius: 0.3em;
     margin: 1em 0 2em;
     box-sizing: border-box;
+  }
+
+  .examples {
+    font-size: 0.8em;
+    line-height: 1.2em;
+    background: lighten($color-text, 66%);
+    padding: 1em;
+    margin: 1em;
+    color: lighten(#333, 30%);
+
+    h3 {
+      font-weight: 700;
+      margin: 0;
+      color: #333;
+    }
+  }
+
+  .highlight {
+    margin-top: 4em;
+    h2 {
+      margin: 0;
+      margin-bottom: 0.5em;
+    }
+    @include responsive-break-point(640px) {
+      text-align: center;
+      p {
+        max-width: 80%;
+        margin-left: auto;
+        margin-right: auto;
+      }
+    }
+  }
+
+  .text-center-desktop {
+    @include responsive-break-point(640px) {
+      text-align: center;
+    }
   }
 
   ul.get-started-checklist {
@@ -180,54 +223,6 @@ $font-headings-course: "freight-sans-condensed-pro", Helvetica, Arial, sans-seri
     background-color: $color-lines;
     border: none;
     height: 0.2rem;
-  }
-
-  .have-done-lists-heading {
-    text-transform: none;
-    font-weight: normal;
-    font-style: italic;
-  }
-
-  .have-done-list {
-    font-size: 0.8em;
-    line-height: 1.2em;
-    background: lighten($color-text, 66%);
-    padding: 1em;
-    margin: 1em;
-    color: #333;
-
-    h3 {
-      font-weight: 700;
-      margin: 0;
-      color: #333;
-    }
-    ul {
-      list-style: none;
-      margin-left: 1em;
-      font-style: normal;
-      color: lighten(#333, 30%);
-      margin-top: 0.5em;
-      margin-bottom: 0;
-    }
-    li {
-      margin-bottom: 0.5em;
-    }
-  }
-
-  @include responsive-break-point(640px) {
-    .have-done-lists {
-      display: flex;
-      flex-direction: row;
-      align-items: stretch;
-      align-content: flex-start;
-      justify-content: center;
-      flex-wrap: wrap;
-    }
-    .have-done-list {
-      flex-grow: 0;
-      flex-shrink: 0;
-      flex-basis: 35%;
-    }
   }
 
   ul.instead-of-list {
