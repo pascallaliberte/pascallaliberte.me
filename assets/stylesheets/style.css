@@ -720,17 +720,32 @@ html[data-section-in-view="interests"] #interests h2 {
   border-radius: 0.3em;
   margin: 1em 0 2em;
   box-sizing: border-box; }
-.reformers-course .examples {
-  font-size: 0.8em;
+.reformers-course ul.examples {
+  font-size: 1em;
   line-height: 1.2em;
   background: #f7f4ee;
   padding: 1em;
   margin: 1em;
-  color: gray; }
-  .reformers-course .examples h3 {
+  color: gray;
+  list-style: none; }
+  .reformers-course ul.examples h3 {
     font-weight: 700;
     margin: 0;
     color: #333; }
+  .reformers-course ul.examples strong {
+    background-color: rgba(253, 234, 152, 0.5);
+    padding: 0 0.2em;
+    color: black;
+    font-weight: normal; }
+  .reformers-course ul.examples li:before {
+    border-top: 1px solid rgba(128, 128, 128, 0.5);
+    margin: 1em auto;
+    content: '';
+    display: block;
+    height: 1;
+    max-width: 100px; }
+  .reformers-course ul.examples li:first-of-type:before {
+    border-top: none; }
 .reformers-course .highlight {
   margin-top: 4em; }
   .reformers-course .highlight h2 {
