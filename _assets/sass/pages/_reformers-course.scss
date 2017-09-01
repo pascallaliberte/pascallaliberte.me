@@ -164,18 +164,40 @@ $font-headings-course: "freight-sans-condensed-pro", Helvetica, Arial, sans-seri
     box-sizing: border-box;
   }
 
-  .examples {
-    font-size: 0.8em;
+  ul.examples {
+    font-size: 1em;
     line-height: 1.2em;
     background: lighten($color-text, 66%);
     padding: 1em;
     margin: 1em;
     color: lighten(#333, 30%);
+    list-style: none;
 
     h3 {
       font-weight: 700;
       margin: 0;
       color: #333;
+    }
+
+    strong {
+      background-color: transparentize($color-highlight, 0.5);
+      padding: 0 0.2em;
+      color: black;
+      font-weight: normal;
+    }
+
+    li {
+      &:before {
+        border-top: 1px solid transparentize(lighten(#333, 30%), 0.5);
+        margin: 1em auto;
+        content: '';
+        display: block;
+        height: 1;
+        max-width: 100px;
+      }
+      &:first-of-type:before {
+        border-top: none;
+      }
     }
   }
 

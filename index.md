@@ -18,9 +18,9 @@ I'm offering a course called [The Language of Objectives][language-of-objectives
 [language-of-objectives]: /language-of-objectives/
 
 <div class="scroll-reveal" markdown="1" id="reformers-course">
-## [The Reformer's Course][reformers-course] <span class="coming-soon">Coming soon</span> <span class="sub-title">When you're the one to make that change happen</span>
+## [The Reformer's Course][reformers-course] <span class="coming-soon">Coming soon</span> <span class="sub-title">Train your mind to be sharp for when you're the one to make those changes happen</span>
 
-I'm working on a new course I'm calling [The Reformer's Course][reformers-course]. It will come at the right time for you if you see that your action will be important in changing situations for the better, and you want to bring your best game. Like the _Language of Objectives_ course, it also teaches about _have-done lists_, the technique for visualizing your participation in the future. It also teaches the concept of _mental models_, those invisible lenses that color our judgement. [Learn more or sign-up to **be notified when The Reformer's Course launches**][reformers-course].
+I'm working on a new course I'm calling [The Reformer's Course][reformers-course]. It will come at the right time for you if you see that your action will be important in changing situations for the better, and you want to bring your best game. [Learn more or sign-up][reformers-course] to be notified when The Reformer's Course launches.
 </div>
 
 [reformers-course]: /reformers-course/
