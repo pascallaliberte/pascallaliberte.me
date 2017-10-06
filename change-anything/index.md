@@ -10,10 +10,10 @@ og:
 # <em><span class="the-kit">The</span> <span class="name">Change Anything</span> <span class="the-kit">Kit</span></em> <span class="tagline">To influence a change,<br> start by tweaking your mind</span>
 {: #page-title }
 
-Hi, I'm [Pascal](/). I've been using two main mental tools to help me navigate complex situations. They'll be useful to you if you like to be thorough, you persist in getting to the bottom of things, and you want to do the right thing.
+Hi, I'm [Pascal](/). I've been using two main mental reprogramming tools to help me navigate complex situations. They'll be useful to you if you like to be thorough, you persist in getting to the bottom of things, and you want to do the right thing. If it's on you to change the situation for the better, than you want to be sure your mind isn't what's in the way. **Change happens first in the mind**.
 {: .highlight }
 
-## Two mental tools
+## Two Mental Reprogramming Tools
 
 <div class="clearfix" markdown="1">
 <div class="left" markdown="1">
@@ -63,15 +63,24 @@ _(You can [find more about them in the video](#video) below.)_
 
 <div class="examples" markdown="1">
 
-* One person **prepares a conversation** with her supervisor for proposing a change in the way things are done.
-* One person creates a difficult but important document to **sell an idea**.
-* Another person **redefines a relationship with a co-worker in a deep way**, and creates a partnership that's going to be key to doing the next big thing.
-* A person makes a **tiny change in their posture** ahead of talking to the group, and the impact is remarked by others.
-* Another person was asked to do something consequential and important, but is **paralyzed with doubt** about her capabilities.
-* Another person is **furious about the work of a team member**, and she prepares for the best way to make this into a good situation for both of you (and others).
-* One person sees that a **change in the team's processes** is important, and she envisions the next month and her approach to bring that new approach in.
-* A person senses some **cynicism installing itself** in the mind of people of the group. She knows the cause, and she feels urged to fix it before it gets out of hand.
-* Another person is reading about change management, but realizes the biggest impact she can have, is to **be a person people can be comfortable being authentic to**.
+* You see a problem in the way your team works and you need to have that changed.
+* It's important that you get a client to see things from a new perspective.
+* You discovered something about your son that needs addressing.
+* There's a big opportunity coming up that you don't want to miss on.
+* Suddenly, all your priorities no longer matter. That big event changed everything, and you need to take it slow, do it right.
+* There's a deadline coming up and you're paralyzed by analysis.
+* You see everything that's wrong everywhere, and you're overwhelmed. Something's got to change.
+* There's an injustice at work, and you're feeling the urge to step up.
+* In your family, you see a bad relationship trend and you sense that it needs to be broached.
+* In the past, you used to know the right way to do things. Now, it's important you give the space for others to learn and you want to change your behaviours.
+* There's an urgent need to help a friend, but your relationship had some difficulties. It's time to let those bad feelings aside and be helpful.
+* You're hesitant how to take on something you've never tried before, but nobody else is going to do it, so it's up to you this time.
+* You need to prepare for a difficult but important conversation with your boss.
+* You see something new that needs to be created, but you're paralyzed with doubt.
+* You're starting a new consultancy, and you want to have a good first day.
+* You're furious about a team member's performance, and you need to prepare your conversation so there's a good outcome for the both of you and the rest of the team.
+* You see that cynicism is installing itself in the team, and you know the problem has to be fixed at the source.
+* You find it difficult to be authentic and vulnerable, but this time it'll be important that you put on those traits, and you want to be ready.
 
 </div>
 
