@@ -7,21 +7,17 @@ og:
   description: ""
 ---
 
-# <span class="the-kit">The</span> Change Anything <span class="the-kit">Kit</span> <span class="tagline">To influence a change,<br> start by tweaking your mind</span>
+# <em><span class="the-kit">The</span> <span class="name">Change Anything</span> <span class="the-kit">Kit</span></em> <span class="tagline">To influence a change,<br> start by tweaking your mind</span>
 {: #page-title }
 
----
-
-Hi, I'm Pascal. I've been using two main mental tools to help me navigate complex situations. They'll be useful to you if you like to be thorough, you persist in getting to the bottom of things, and you want to do the right thing. Here they are.
+Hi, I'm [Pascal](/). I've been using two main mental tools to help me navigate complex situations. They'll be useful to you if you like to be thorough, you persist in getting to the bottom of things, and you want to do the right thing.
+{: .highlight }
 
 ## Two mental tools
 
-_(You can find more about them in the video below.)_
-{: .text-center }
-
 <div class="clearfix" markdown="1">
 <div class="left" markdown="1">
-### Have-done lists
+### 1. Have-done lists
 
 Pretend you're in the future, that's the trick of have-done lists. Replace to-dos with this "Language of Objectives"
 
@@ -40,9 +36,9 @@ Pretend you're in the future, that's the trick of have-done lists. Replace to-do
 </div>
 
 <div class="right" markdown="1">
-### Mental models
+### 2. Mental models
 
-Stay on the right path by catching and rewriting your thoughts as they come up.
+Stay on the right path by catching and rewriting your thoughts before they take over.
 
 <div class="taskpaper" markdown="1">
 ### What am I so sure about?
@@ -60,22 +56,12 @@ Stay on the right path by catching and rewriting your thoughts as they come up.
 
 </div>
 
+_(You can [find more about them in the video](#video) below.)_
+{: .text-center .margin-top }
+
 ## To change pretty much any situation
 
-## The Kit
-{: #the-kit }
-
-<div class="clearfix" markdown="1">
-  <div class="left" markdown="1">
-    ### The presentation
-  </div>
-  <div class="right" markdown="1">
-    ### Let's have a call
-  </div>
-</div>
-
-### Go deep on Have-Done Lists
-
+<div class="examples" markdown="1">
 
 * One person **prepares a conversation** with her supervisor for proposing a change in the way things are done.
 * One person creates a difficult but important document to **sell an idea**.
@@ -86,13 +72,23 @@ Stay on the right path by catching and rewriting your thoughts as they come up.
 * One person sees that a **change in the team's processes** is important, and she envisions the next month and her approach to bring that new approach in.
 * A person senses some **cynicism installing itself** in the mind of people of the group. She knows the cause, and she feels urged to fix it before it gets out of hand.
 * Another person is reading about change management, but realizes the biggest impact she can have, is to **be a person people can be comfortable being authentic to**.
-{: .examples }
 
----
+</div>
 
-**<mark markdown="1">All these people are reformers.</mark>** They're not just implementors. They're not creating something big to be seen by all. They're not founding a new company. They just pose the right action at the right time. They lead with a mixture of heart, fragility, and unexpected confidence.
+## The Kit
+{: #the-kit }
 
-If you'd like to be better at doing those things, I hope you'll make the jump.
+<div class="clearfix" markdown="1">
+<div class="left" markdown="1">
+### The Video
+{: #video }
+</div>
 
-[Sign up to be notified when it launches](#sign-up){: .sign-up-link }
-{: .sign-up-link-wrapper }
+<div class="right" markdown="1">
+### Phone Call
+</div>
+</div>
+
+### Go deep on Have-Done Lists
+
+## Personal Note
