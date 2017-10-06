@@ -808,6 +808,255 @@ html[data-section-in-view="interests"] #interests h2 {
   .reformers-course ul.lets-me-list li {
     margin-top: 0.5em; }
 
+.br-xs {
+  display: block;
+  width: 100%;
+  height: 0; }
+  @media only screen and (min-width: 768px) {
+    .br-xs {
+      display: inline;
+      width: auto; } }
+
+.change-anything .byline {
+  font-size: 1.2em;
+  font-weight: italic;
+  margin-top: -3em;
+  margin-bottom: 3em; }
+  @media only screen and (min-width: 768px) {
+    .change-anything .byline {
+      text-align: center; } }
+.change-anything ol {
+  margin-left: 3em; }
+.change-anything .the-kit {
+  display: block;
+  font-size: 0.5em;
+  padding: 0.3em 0;
+  border-radius: 0;
+  text-transform: uppercase;
+  font-weight: 500;
+  font-family: "freight-sans-pro", Helvetica, Arial, sans-serif;
+  line-height: 0.9; }
+  @media only screen and (min-width: 768px) {
+    .change-anything .the-kit {
+      display: inline-block; } }
+.change-anything #page-title {
+  font-size: 2.4em;
+  font-weight: 100;
+  text-transform: none;
+  line-height: 0.9;
+  margin-bottom: 1.5em; }
+  .change-anything #page-title .tagline {
+    text-transform: uppercase;
+    font-family: "freight-sans-condensed-pro", Helvetica, Arial, sans-serif;
+    font-size: 0.6em;
+    margin-top: 0.6em;
+    display: block;
+    font-weight: normal; }
+.change-anything blockquote {
+  border: 1px solid rgba(100, 84, 48, 0.1);
+  padding: 2em;
+  font-size: 0.8em; }
+.change-anything .content {
+  font-size: 0.9em;
+  line-height: 1.25; }
+  .change-anything .content ul {
+    padding-left: 0;
+    margin-left: 1em; }
+.change-anything .img-responsive {
+  width: 100%;
+  height: auto;
+  display: block; }
+.change-anything .img-responsive-full {
+  display: none; }
+@media only screen and (min-width: 420px) {
+  .change-anything .img-responsive-mobile {
+    display: none; }
+  .change-anything .img-responsive-full {
+    display: block; } }
+.change-anything h1 {
+  text-align: center;
+  font-weight: bold;
+  text-transform: uppercase;
+  font-size: 1.4em;
+  line-height: 1.1; }
+.change-anything h2 {
+  text-align: center;
+  font-weight: bold;
+  text-transform: uppercase;
+  margin: 2em 0;
+  line-height: 1.1; }
+.change-anything mark {
+  color: inherit;
+  background: rgba(253, 234, 152, 0.3);
+  display: inline;
+  padding: 0 0.2em;
+  margin: 0 0; }
+.change-anything #mc_embed_signup, .change-anything #mc_embed_signup .button, .change-anything #mc_embed_signup input.email, .change-anything #mc_embed_signup #mc-embedded-subscribe-form div.mce_inline_error {
+  font: inherit; }
+.change-anything #mc_embed_signup .button {
+  height: auto; }
+.change-anything h3 {
+  font-weight: bold;
+  font-size: 1em;
+  line-height: 1.1;
+  margin: 1em 0 0.5em; }
+  .change-anything h3.get-started-heading {
+    font-weight: normal;
+    text-align: center;
+    text-transform: uppercase;
+    margin: 2em 0 1em; }
+.change-anything ul {
+  margin-left: 0em; }
+  @media only screen and (min-width: 640px) {
+    .change-anything ul {
+      margin-left: 1em; } }
+  .change-anything ul > li {
+    margin-bottom: 0.5em; }
+.change-anything .switch-away-from {
+  font-size: 1.2em; }
+  @media only screen and (min-width: 640px) {
+    .change-anything .switch-away-from {
+      margin: 0 3em 3em; } }
+.change-anything div.highlight, .change-anything #mc_embed_signup {
+  padding: 1em;
+  background: rgba(253, 234, 152, 0.3);
+  border-radius: 0.3em;
+  margin: 1em 0 2em;
+  box-sizing: border-box; }
+.change-anything ul.examples {
+  font-size: 1em;
+  line-height: 1.2em;
+  background: #f7f4ee;
+  padding: 1em;
+  margin: 1em;
+  color: gray;
+  list-style: none; }
+  .change-anything ul.examples h3 {
+    font-weight: 700;
+    margin: 0;
+    color: #333; }
+  .change-anything ul.examples strong {
+    background-color: rgba(253, 234, 152, 0.5);
+    padding: 0 0.2em;
+    color: black;
+    font-weight: normal; }
+  .change-anything ul.examples li:before {
+    border-top: 1px solid rgba(128, 128, 128, 0.5);
+    margin: 1em auto;
+    content: '';
+    display: block;
+    height: 1;
+    max-width: 100px; }
+  .change-anything ul.examples li:first-of-type:before {
+    border-top: none; }
+.change-anything div.highlight {
+  margin-top: 4em; }
+  .change-anything div.highlight h2 {
+    margin: 0;
+    margin-bottom: 0.5em; }
+  @media only screen and (min-width: 640px) {
+    .change-anything div.highlight {
+      text-align: center; }
+      .change-anything div.highlight p {
+        max-width: 80%;
+        margin-left: auto;
+        margin-right: auto; } }
+@media only screen and (min-width: 640px) {
+  .change-anything .text-center-desktop {
+    text-align: center; } }
+.change-anything ul.get-started-checklist {
+  width: 80%; }
+.change-anything .sign-up-link {
+  display: inline-block;
+  padding: 0.5em 2em;
+  background: rgba(253, 234, 152, 0.3);
+  border-radius: 0.3em; }
+.change-anything .sign-up-link-wrapper {
+  text-align: center;
+  margin: 1em 0; }
+.change-anything hr {
+  max-width: 10rem;
+  margin: 2em auto 1em;
+  background-color: rgba(100, 84, 48, 0.1);
+  border: none;
+  height: 0.2rem; }
+.change-anything ul.instead-of-list {
+  list-style: none;
+  margin-left: 1rem;
+  margin-top: 2.5em;
+  position: relative;
+  font-style: normal;
+  line-height: 1.1em; }
+  @media only screen and (min-width: 640px) {
+    .change-anything ul.instead-of-list {
+      margin-top: 0;
+      margin-left: 7em; } }
+  .change-anything ul.instead-of-list li {
+    margin-bottom: 1em; }
+@media only screen and (min-width: 640px) {
+  .change-anything .instead-of-prefix {
+    position: absolute;
+    display: inline-block;
+    white-space: nowrap;
+    bottom: auto;
+    right: 100%;
+    margin-right: 0.3em;
+    margin-left: 0;
+    margin-top: 0;
+    text-align: right; } }
+.change-anything ul.lets-me-list {
+  list-style: none;
+  margin-left: 1rem;
+  margin-bottom: 3rem; }
+  .change-anything ul.lets-me-list li {
+    margin-top: 0.5em; }
+@media only screen and (min-width: 768px) {
+  .change-anything .left {
+    float: left;
+    width: 48%; }
+  .change-anything .right {
+    float: right;
+    width: 48%; }
+  .change-anything .clearfix {
+    zoom: 1; }
+    .change-anything .clearfix:after {
+      content: ".";
+      display: block;
+      height: 0;
+      clear: both;
+      visibility: hidden; } }
+.change-anything .taskpaper {
+  font-size: 0.8em;
+  line-height: 1.2em;
+  background: #f7f4ee;
+  padding: 1em;
+  color: #333; }
+  .change-anything .taskpaper h3 {
+    font-weight: 700;
+    margin: 0;
+    color: #333; }
+  .change-anything .taskpaper ul {
+    list-style: none;
+    margin-left: 1em;
+    font-style: normal;
+    color: gray;
+    margin-top: 0.5em;
+    margin-bottom: 0; }
+  .change-anything .taskpaper li {
+    margin-bottom: 0.5em; }
+    .change-anything .taskpaper li.highlight {
+      color: black;
+      position: relative;
+      padding-left: 1em; }
+      .change-anything .taskpaper li.highlight:before {
+        position: absolute;
+        width: 0.5em;
+        height: 1px;
+        background-color: black;
+        content: '';
+        left: 0;
+        top: 0.6em; }
+
 .jtbd h1 {
   font-size: 2rem;
   line-height: 1.1; }
