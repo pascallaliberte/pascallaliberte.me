@@ -7,10 +7,10 @@ og:
   description: ""
 ---
 
-# <em><span class="the-kit">The</span> <span class="name">Change Anything</span> <span class="the-kit">Kit</span></em> <span class="tagline">To influence a change,<br> start by tweaking your mind</span>
+# <em><span class="the-kit">The</span> <span class="name">Change Anything</span> <span class="the-kit">Kit</span></em> <span class="tagline">To influence a change,<br> start by taming your thoughts.</span>
 {: #page-title }
 
-Hi, I'm [Pascal](/). I've been using two main mental reprogramming tools to help me navigate complex situations. They'll be useful to you if you like to be thorough, you persist in getting to the bottom of things, and you want to do the right thing. If it's on you to change the situation for the better, than you want to be sure your mind isn't what's in the way. **Change happens first in the mind**.
+Hi, I'm [Pascal](/). I've been using two main mental reprogramming tools to help me fix complex situations. They'll be useful to you if you like to be thorough, you persist in getting to the bottom of things, and you want to do the right thing. If it's on you to change the situation for the better, than you want to be sure your mind isn't what's in the way. **Change happens first in the mind**.
 {: .highlight }
 
 ## Two Mental Reprogramming Tools
@@ -90,14 +90,29 @@ _(You can [find more about them in the video](#video) below.)_
 <div class="clearfix" markdown="1">
 <div class="left" markdown="1">
 ### The Video
+
+Learn about using have-done lists and mental models in three sample situations.
+
 {: #video }
 </div>
 
 <div class="right" markdown="1">
 ### Phone Call
+
+Tell me about your situation. At the end of the call, you'll have obtained an idea on how to address it, you'll have felt listened to and you'll know if now's the time to invest in these techniques.
+
 </div>
 </div>
 
 ### Go deep on Have-Done Lists
 
+<div class="page-preview objectives-course" markdown="1">
+</div>
+
 ## Personal Note
+
+
+
+### Pass the word
+
+If you know someone who wants to affect a change, please send them a link.
