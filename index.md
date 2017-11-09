@@ -12,7 +12,7 @@ layout: default
 <div class="scroll-reveal" markdown="1" id="language-of-objectives">
 ## [The Language of Objectives][language-of-objectives] <span class="sub-title">Catch-up on the small so you can get to your bigger priorities</span>
 
-I'm offering a course called [The Language of Objectives][language-of-objectives]. It teaches thinking tools (centered on a novel way to write objectives called _have-done lists_) to help you get a handle on the trivial stuff so you can finally get to those bigger things. {% if site.course.allow_signups %} There are limited spots for the group starting {{ site.course.starts }}. [Apply by {{ site.course.deadline }}][language-of-objectives].{% else %}[Learn more][language-of-objectives]{% endif %}
+I'm offering a course called [The Language of Objectives][language-of-objectives]. It teaches a mental reprogramming technique to help you if you feel you need to switch your focus to bigger priorities, and you feel that your pile of smaller to-dos needs to be taken care of too. {% if site.course.allow_signups %} There are limited spots for the group starting {{ site.course.starts }}. [Apply by {{ site.course.deadline }}][language-of-objectives].{% else %}[Learn more][language-of-objectives]{% endif %}
 </div>
 
 [language-of-objectives]: /language-of-objectives/
