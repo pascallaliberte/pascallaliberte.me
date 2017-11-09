@@ -25,7 +25,7 @@ by [Pascal Laliberté](/)
 {: .byline }
 
 <div class="intro" markdown="1">
-**A 10-week course on writing _have-done lists_, an approach for catching up on the small stuff so you can get to big stuff.**
+**A 10-week course on a mental reprogramming technique called _have-done lists_ so you can focus on your life's bigger priorities. It'll be like learning a new (meta) language. You're in for some breakthroughs.**
 
 {% if site.course.allow_signups %}
 Join the group that starts on {{ site.course.starts }}. The deadline to signup is Monday {{ site.course.deadline }}.
@@ -41,7 +41,7 @@ The next group is scheduled to start on {{ site.course.starts }}.
 
 ***
 
-Hi. My name is [Pascal](/) and I'm offering a course **about a trick I've learned: how to write objectives in a way I call _have-done lists_**.
+Hi. My name is [Pascal](/) and I'm offering a course **about a trick I've learned: how to write objectives in a way I call _have-done lists_**. Instead of writing to-do's, you're writing stuff you _will have done_.
 
 ## Here's what **_have-done lists_** look like:
 {: .have-done-lists-heading }
@@ -73,10 +73,11 @@ Hi. My name is [Pascal](/) and I'm offering a course **about a trick I've learne
 <div class="have-done-list" markdown="1">
 ### Before the end of the month, I'll have:
 
-* Tended to the small tasks around the house
-* Advanced in preparing for handling an emergency situation
-  * Had a first fire drill that was clear, encouraged personal responsibility and was light-hearted
-* Fixed the squeaky door to the garage
+* Had a breakthrough talking to my brother
+* Advanced in preparing my next career move
+  * Published something scary and important
+    * Reduced my ideas down to something I can ship before the end of the year
+* Prepared for the holidays
 </div>
 </div>
 
@@ -219,8 +220,7 @@ I've relied on this way of writing objectives for much of the breakthroughs I've
 
 If you've got some questions, look below for my email address.
 
-Keep those ideals!  
-Sincerely,
+Get to those bigger priorities!  
 
 --
 **Pascal Laliberté**<br>
