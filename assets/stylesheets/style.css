@@ -971,7 +971,7 @@ html[data-section-in-view="interests"] #interests h2 {
   .change-anything .examples li:first-of-type:before {
     display: none; }
 .change-anything p.highlight {
-  margin-top: 4em; }
+  margin-top: 2em; }
   .change-anything p.highlight h2 {
     margin: 0;
     margin-bottom: 0.5em; }
@@ -1034,12 +1034,10 @@ html[data-section-in-view="interests"] #interests h2 {
 @media only screen and (min-width: 768px) {
   .change-anything .left {
     float: left;
-    width: 48%;
-    text-align: center; }
+    width: 48%; }
   .change-anything .right {
     float: right;
-    width: 48%;
-    text-align: center; }
+    width: 48%; }
   .change-anything .clearfix {
     zoom: 1; }
     .change-anything .clearfix:after {
@@ -1085,6 +1083,23 @@ html[data-section-in-view="interests"] #interests h2 {
   text-align: center; }
 .change-anything .margin-top {
   margin-top: 1em; }
+.change-anything .kit-options {
+  width: 80%;
+  margin: 0 auto; }
+  .change-anything .kit-options h3 {
+    text-align: center; }
+.change-anything .kit-option-label {
+  font-style: normal;
+  font-size: 0.7em;
+  padding: 0.3em 0.6em;
+  border-radius: 0;
+  text-transform: uppercase;
+  font-weight: 200;
+  display: inline-block;
+  font-family: "freight-sans-condensed-pro", Helvetica, Arial, sans-serif;
+  line-height: 0.9;
+  background-color: rgba(100, 84, 48, 0.2);
+  margin-bottom: 0.3em; }
 
 .jtbd h1 {
   font-size: 2rem;

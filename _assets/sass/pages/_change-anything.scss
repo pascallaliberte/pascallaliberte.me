@@ -240,7 +240,7 @@ $font-headings-condensed: "freight-sans-condensed-pro", Helvetica, Arial, sans-s
   }
 
   p.highlight {
-    margin-top: 4em;
+    margin-top: 2em;
     h2 {
       margin: 0;
       margin-bottom: 0.5em;
@@ -328,12 +328,10 @@ $font-headings-condensed: "freight-sans-condensed-pro", Helvetica, Arial, sans-s
     .left {
       float: left;
       width: 48%;
-      text-align: center;
     }
     .right {
       float: right;
       width: 48%;
-      text-align: center;
     }
 
     .clearfix {
@@ -392,5 +390,27 @@ $font-headings-condensed: "freight-sans-condensed-pro", Helvetica, Arial, sans-s
 
   .margin-top {
     margin-top: 1em;
+  }
+  
+  .kit-options {
+    width: 80%;
+    margin: 0 auto;
+    h3 {
+      text-align: center;
+    }
+  }
+  
+  .kit-option-label {
+    font-style: normal;
+    font-size: 0.7em;
+    padding: 0.3em 0.6em;
+    border-radius: 0;
+    text-transform: uppercase;
+    font-weight: 200;
+    display: inline-block;
+    font-family: $font-headings-course;
+    line-height: 0.9;
+    background-color: transparentize($color-text, 0.8);
+    margin-bottom: 0.3em;
   }
 }
