@@ -92,7 +92,7 @@ By Re-Wiring Your Brain Using Have-Done Lists
 
 </div>
 
-## To go deep, take this course:
+## To go deep, there's also a course:
 
 [The Language of Objectives][course] is a 10-week course on learning have-done lists. Every week, get an email with an example situation improved by using have-done lists, and get coaching on your own lists via email by me. **By the mid-way point, by putting in the effort, you'll have obtained a breakthrough in one area of your life.** The next round [starts on {{ site.course.starts }}][course].
 
