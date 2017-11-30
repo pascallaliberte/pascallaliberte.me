@@ -6,7 +6,7 @@ layout: default
 
 *Hi, this is the site of*  
 **Pascal Laliberté**, Ottawa, ON  
-[LinkedIn][linkedin], [Medium][medium], [Twitter][twitter], [Instagram][instagram]
+[LinkedIn][linkedin], [Medium][medium], [Twitter][twitter], [Instagram][instagram], [YouTube][youtube]
 {: .home-intro }
 
 <div class="scroll-reveal" markdown="1" id="language-of-objectives">
@@ -133,4 +133,5 @@ Hope they help.
 [medium]: https://medium.com/@pascallaliberte
 [twitter]: https://twitter.com/pascallaliberte
 [instagram]: https://www.instagram.com/pascallaliberte/
+[youtube]: https://www.youtube.com/channel/UCo2CttXwSgcaEmrTsALqS-A
 </div>
