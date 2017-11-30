@@ -11,6 +11,16 @@ $font-headings-condensed: "freight-sans-condensed-pro", Helvetica, Arial, sans-s
 }
 
 .change-anything {
+  
+  .about {
+    font-size: 0.6em;
+    padding: 0.2em 0.3em;
+    margin-left: 0.4em;
+    vertical-align: middle;
+    background: $color-highlight;
+    text-decoration: none;
+    border-radius: 0.3em;
+  }
 
   .byline {
     font-size: 1.2em;
@@ -140,10 +150,14 @@ $font-headings-condensed: "freight-sans-condensed-pro", Helvetica, Arial, sans-s
 
   mark {
     color: inherit;
-    background: transparentize($color-highlight, 0.7);
+    background: transparentize($color-highlight, 0.5);
+    border-radius: 0.8em 0.3em;
     display: inline;
     padding: 0 0.2em;
     margin: 0 0;
+    font-style: normal;
+    font-weight: normal;
+    color: $color-text;
   }
 
   #mc_embed_signup {
@@ -394,9 +408,34 @@ $font-headings-condensed: "freight-sans-condensed-pro", Helvetica, Arial, sans-s
   
   .kit-options {
     width: 80%;
-    margin: 0 auto;
+    margin: 0 auto 2em;
     h3 {
       text-align: center;
+      font-weight: normal;
+      z-index: 10;
+      position: relative;
+      a {
+        color: $color-text;
+        text-decoration: none;
+        strong {
+          text-decoration: underline;
+          color: $color-link;
+        }
+      }
+    }
+    > div.active {
+      position: relative;
+      &::before {
+        position: absolute;
+        content: '';
+        left: 50%;
+        top: 50%;
+        width: 70%;
+        height: 80%;
+        @include transform(translateX(-50%) translateY(-45%));
+        background-color: transparentize($color-highlight, 0.5);
+        border-radius: 40% 20% 40% 20%;
+      }
     }
   }
   
@@ -412,5 +451,11 @@ $font-headings-condensed: "freight-sans-condensed-pro", Helvetica, Arial, sans-s
     line-height: 0.9;
     background-color: transparentize($color-text, 0.8);
     margin-bottom: 0.3em;
+  }
+  
+  .d-md-block {
+    @include responsive-break-point(768px) {
+      display: block;
+    }
   }
 }
