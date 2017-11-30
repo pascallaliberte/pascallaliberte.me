@@ -9,13 +9,13 @@ layout: default
 [LinkedIn][linkedin], [Medium][medium], [Twitter][twitter], [Instagram][instagram], [YouTube][youtube]
 {: .home-intro }
 
-<div class="scroll-reveal" markdown="1" id="language-of-objectives">
-## [The Language of Objectives][language-of-objectives] <span class="sub-title">Catch-up on the small so you can get to your bigger priorities</span>
+<div class="scroll-reveal" markdown="1" id="">
+## [The Change Anything Kit][change-anything] <span class="sub-title">Learn two mental reprogramming techniques I use, or let's have a call</span>
 
-I'm offering a course called [The Language of Objectives][language-of-objectives]. It teaches a mental reprogramming technique to help you if you feel you need to switch your focus to bigger priorities, and you feel that your pile of smaller to-dos needs to be taken care of too. {% if site.course.allow_signups %} There are limited spots for the group starting {{ site.course.starts }}. [Apply by {{ site.course.deadline }}][language-of-objectives].{% else %}[Learn more][language-of-objectives]{% endif %}
+If it's up to you to make that important change happen, I offer coaching and learning material to help you prepare to make that change happen. [Learn more][change-anything]
 </div>
 
-[language-of-objectives]: /language-of-objectives/
+[change-anything]: /change-anything/
 
 <div class="scroll-reveal" markdown="1" id="bleep-bloop-shop">
 ## [Bleep, Bloop, Shop!](/bleep-bloop-shop/) <span class="sub-title">A tweaking service for your Shopify Store.</span>

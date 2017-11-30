@@ -18,8 +18,10 @@ og:
   A course on
 </div>
 
-# The Language of Objectives <span class="tagline">Catch-up on the small so you can get to your bigger priorities</span>
+# The Language of Objectives <span class="part-of">Part of [The Change Anything Kit](/change-anything/)</span><span class="tagline">Catch-up on the small so you can get to your bigger priorities</span>
 {: #course-title }
+
+
 
 by [Pascal Laliberté](/)
 {: .byline }
