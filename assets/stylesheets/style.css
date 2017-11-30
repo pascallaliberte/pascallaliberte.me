@@ -417,6 +417,10 @@ html[data-section-in-view="interests"] #interests h2 {
       display: inline;
       width: auto; } }
 
+.objectives-course .part-of {
+  display: block;
+  font-size: 1rem;
+  margin-top: 0.5em; }
 .objectives-course .byline {
   font-size: 1.2em;
   font-weight: italic;
