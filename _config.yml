@@ -12,7 +12,9 @@ destination: public
 exclude: [public, Gemfile, Gemfile.lock, Rakefile, README.md]
 course:
   starts: "January 14th" # has to be a Sunday
+  starts_fr: "14 janvier"
   deadline: "January 8th" # has to be a Monday
+  deadline_fr: "8 janvier" # has to be a Monday
   limit: 5
   price: 400
   allow_signups: false
