@@ -2,6 +2,8 @@
 layout: default
 class: change-anything
 title: "The Change Anything Kit - Mental Reprogramming Tools and Coaching Call"
+lang: en
+link_alt_lang: /outils-du-changement/
 og:
   title: "The Change Anything Kit - Mental Reprogramming Tools and Coaching Call"
   description: ""

@@ -2,6 +2,8 @@
 layout: default
 class: change-anything
 title: "Coaching Call - The Change Anything Kit"
+lang: en
+link_alt_lang: /outils-du-changement/coaching/
 og:
   title: "Coaching Call - The Change Anything Kit"
   description: ""

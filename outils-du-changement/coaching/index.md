@@ -2,6 +2,8 @@
 layout: default
 class: change-anything
 title: "Optez pour une consultation téléphonique - Les outils du changement"
+lang: fr
+link_alt_lang: /change-anything/coaching/
 og:
   title: "Optez pour une consultation téléphonique - Les outils du changement"
   description: ""

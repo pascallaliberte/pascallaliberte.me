@@ -2,6 +2,8 @@
 layout: default
 class: change-anything
 title: "Les outils du changement - Reprogrammation mentale et appel de coaching"
+lang: fr
+link_alt_lang: /change-anything/
 og:
   title: "Les outils du changement - Reprogrammation mentale et appel de coaching"
   description: ""

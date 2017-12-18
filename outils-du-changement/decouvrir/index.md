@@ -2,6 +2,8 @@
 layout: default
 class: change-anything
 title: "Découvrez les deux techniques de reprogrammation mentale - Les outils du changement"
+lang: fr
+link_alt_lang: /change-anything/learn/
 og:
   title: "Découvrez les deux techniques de reprogrammation mentale - Les outils du changement"
   description: ""

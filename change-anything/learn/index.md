@@ -2,6 +2,8 @@
 layout: default
 class: change-anything
 title: "Learn Mental Reprogramming Tools - The Change Anything Kit"
+lang: en
+link_alt_lang: /outils-du-changement/decouvrir/
 og:
   title: "Learn Mental Reprogramming Tools - The Change Anything Kit"
   description: ""
