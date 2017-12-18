@@ -69,10 +69,10 @@ Détectez les modèles mentaux qui déforment subtilement votre perception de la
 
 ## Video d'introduction
 
-(5 min)
+(Durée: 6 min)
 {: .text-center}
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mZIE4sj1HHM" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_jv0OLNJv64" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 
 ## Deux articles
 
