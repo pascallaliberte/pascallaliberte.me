@@ -39,44 +39,44 @@ Je vous poserai des questions tout en écoutant votre situation. Vous en ressort
 
 <div class="examples" markdown="1">
 
-* You see that <mark>cynicism is installing itself in the team</mark>, and you know the problem has to be fixed at the source.
-* <mark>In your family, you see a bad relationship trend</mark> and you sense that it needs to be broached.
-* There's a big opportunity coming up <mark>that you don't want to miss on</mark>.
+* Vous percevez qu’<mark>il y a un cynisme qui s’installe dans l’équipe,</mark> et selon vous, ça doit être réglé à la source.
+* <mark>Dans votre famille, vous sentez une mauvaise tendance dans les relations</mark> et  décidez qu’il faudra l’aborder.
+* Une grande opportunité se présente à vous et <mark>vous ne voulez pas la manquer.</mark>
 
-How do you broach situations like these? One question you can ask yourself is this: at the end, say it went super well, what will you be celebrating having done? You'll have... (and complete the sentence). This helps change your perspective to that of a success, and the act of writing down statements (and re-writing them) forces you to make priority choices and to be intentional about your actions.
+Comment faire pour aborder de telles situations? Une question que vous pouvez peut-être vous poser: si vous imaginez la fin de ce changement difficile, et vous imaginez que ça ait super bien été finalement, qu'est-ce que vous allez célébrer? Vous aurai... (complétez la phrase). Voyez comment cette méthode change votre perspective à celle d'avoir déjà obtenu un succès. En écrivant ces énoncés (et en les ajustant), vous êtes forcé à trouver la priorité et à poser des gestes intentionnels.
 {: .highlight }
 
-* In the past, you used to know the right way to do things. Now, it's important you <mark>give the space for others to learn</mark> and you want to change your behaviours.
-* You're hesitant how to <mark>take on something you've never tried before</mark>, but nobody else is going to do it, so it's up to you this time.
-* You see a <mark>problem in the way your team works</mark> and you need to have that changed.
-* It's important that you <mark>get a client to see things from a new perspective</mark>.
+* Par le passé, vous aviez tendence à avoir réponse à tout. Maintenant, c'est devenu important pour vous de <mark>faire de la place pour que les autres puissent apprendre eux-mêmes</mark> et vous voulez adopter de nouveaux comportements.
+* Vous hésitez quand vient le temps <mark>d’essayer quelque chose pour la première fois,</mark> mais puisque personne d'autre ne va se donner la peine, c'est à vous de tenter le coup.
+* Vous constatez un <mark>problème dans le fonctionnement de l'équipe</mark> et vous exigez que ça change.
+* Il sera important que vous <mark>ameniez un client à voir la situation d'une nouvelle perspective.</mark>
 
-Am I the right person to make these changes? Questions like these expose that you've got beliefs that are taking hostage of your options. To help expose those beliefs (and re-write them), I ask myself the question: "What am I so convinced of", and I make a list of what comes out. This is called tending to your mental models.
+Suis-je la bonne personne pour influencer ces changements? Ce genre de question vous indique que vous avez peut-être des croyances qui prennent le dessus, qui prennent en hôtage la perception de vos options. Pour mettre en lumière ces croyances (et pour les ré-écrire), je me demande la question: "De quoi est-ce que je suis tellement convaincu?", après quoi je rédige la liste de ce qui en ressort. Cette technique je la nomme _veiller à ses modèles mentaux_.
 {: .highlight }
 
-* <mark>There's an injustice</mark> at work, and you're feeling the urge to step up.
-* There's a deadline coming up and <mark>you're paralyzed by analysis</mark>.
-* You see everything that's wrong everywhere, and <mark>you're overwhelmed. Something's got to change</mark>.
+* <mark>Une injustice se produit</mark> actuellement au travail, et vous ressentez l'urgence d'en faire quelque chose.
+* Une échéance arrive à grands pas et <mark>votre obsession à tout analyser vous paralyse.</mark>
+* Vous êtes tracassé par tout ce qui doit être réparé dans votre entourage, et <mark>vous vous sentez débordé. C'en est trop.</mark>
 
-Seeing everything that's wrong is debilitating, but there's two benefits for you: 1) you've got a knack for caring for things people don't care about and 2) you can use your tendency to inventory everything to be the person who will change the way things are managed so that all that is important is taken care of. When it's about changing the overall approach, the situation needs someone who cares about the very big and the very small at the same time.
+Avoir tendence à constamment voir tout ce qui a besoin d'être changé, c'est désarmant. Par contre, ça peut avoir pour vous les bénéfices suivants: 1) vous avez le don de vous préoccuper de choses pour lesquelles peu de gens se préoccupent, et 2) vous pouvez employer votre tendence à tout répertorier pour prendre en charge les changements complexes qui nécessitent simultanément une vue d'ensemble et une vue profonde des détails.
 {: .highlight }
 
-* Suddenly, all your priorities no longer matter. <mark>That big event changed everything</mark>, and you need to take it slow, do it right.
-* There's an urgent need to help a friend, <mark>but your relationship had some difficulties</mark>. It's time to let those bad feelings aside and be helpful.
-* You need to prepare for a <mark>difficult but important conversation with your boss</mark>.
+* Tout d'un coup, toutes vos priorités doivent être ré-évaluées. <mark>Cette nouvelle vient tout chambarder vos plans.</mark> Vous devez mieux penser vos actions, et désormais bien faire les choses.
+* Un ami a besoin d'aide, et c'est plutôt urgent, <mark>mais votre relation ne va pas trop bien ces derniers temps.</mark> Il faudra que vous mettiez vos sentiments de côté pour lui venir en aide.
+* Vous devez vous préparer pour une <mark>conversation difficile mais importante  avec votre superviseure.</mark>
 
-Relationships, trust, communication. Getting good at those takes practice, and thankfully, you can prepare your mind to help nail those important interactions ahead of time. Let me show you how.
+Les relations, la confiance, la communication. Maîtriser ces domaines, ça demande de la pratique. Heureusement, vous pouvez préparer vos pensées à l'avance pour que vous ressortiez profondément satisfaits de ces interactions importantes. Laissez-moi vous montrer comment.
 {: .highlight }
 
-* You discovered <mark>something about your son</mark> that needs addressing.
-* You see something new that needs to be created, but you're <mark>paralyzed with doubt</mark>.
-* You're <mark>starting a new consultancy</mark>, and you want to have a good first day.
-* You're <mark>furious about a team member's performance</mark>, and you need to prepare your conversation so there's a good outcome for the both of you and the rest of the team.
-* You find it <mark>difficult to be authentic and vulnerable</mark>, but this time it'll be important that you put on those traits, and you want to be ready.
+* Vous découvrez <mark>quelque chose au sujet de votre fils</mark> qui devra être adressé.
+* Vous venez d'avoir une bonne idée pour inventer quelque chose de nouveau, mais <mark>vous êtes paralysé par le doute.</mark>
+* Vous <mark>planifiez devenir consultant,</mark> et vous voulez préparer votre transition.
+* <mark>La mauvaise performance d'un membre de votre équipe</mark> vous rend furieuse et vous devez prendre le temps de bien préparer votre interaction avec cette personne pour que ça tourne bien pour vous deux, et pour que ça serve comme exemple pour le reste de l'équipe.
+* C'est difficile pour vous de <mark>vous montrer authentique et vulnérable,</mark> mais cette fois-ci, ce sera important que vous démontriez ces qualités. Vous êtes déterminé à relever le défi.
 
 </div>
 
 ## Qui suis-je
 {: #apropos }
 
-Bonjour, je m'appelle [Pascal](/). Ces situations énumérées ci-haut, j'ai eu l'expérience pour plusieurs d'entres-elles de les changer pour le meilleur, et je crois pouvoir vous aider vous aussi avec une situation que vous voulez réformer. Les deux options que je propose: [découvrir les deux techniques de reprogrammation mentale][decouvrir] que j'emploie, ou d'[opter pour une consultation téléphonique][coaching]. Je serais heureux de pouvoir vous aider.
+Bonjour, je m'appelle [Pascal](/). Ces situations énumérées ci-haut, pour plusieurs d'entres-elles j'ai eu l'expérience de les changer pour le mieux. Je peux vous aider vous aussi avec une situation que vous voulez réformer. Les deux options que je propose: [découvrir les deux techniques de reprogrammation mentale][decouvrir] que j'emploie, ou [opter pour une consultation téléphonique][coaching]. Je serai heureux de pouvoir vous aider.

@@ -28,7 +28,7 @@ og:
 <div class="left" markdown="1">
 ### 1. Les listes _have-done_
 
-Projetez-vous dans le futur (mentalement) et <mark>faites la liste de ce que vous allez célébrer</mark>. Ré-écrivez et modifiez l'ordre de la liste jusqu'à ce qu'elle vous paraîtra vraie.
+Projetez-vous dans le futur (mentalement) et <mark>faites la liste de ce que vous allez célébrer.</mark> Ré-écrivez et modifiez l'ordre de la liste jusqu'à ce qu'elle vous paraîtra vraie.
 
 <div class="taskpaper" markdown="1">
 ### Avant la fin de ma conversation avec ma superviseure
@@ -85,7 +85,7 @@ Les modèles mentaux, c'est comme des lentilles teintées
 
 ## Pour aller en profondeur, j'offre aussi un cours
 
-[The Language of Objectives][course] est un cours de 10 semaines (offert en anglais pour le moment) portant sur les listes _have-done_. À chaque semaine, recevez un courriel avec un exemple d'une situation améliorée par l'utilisation des listes _have-done_. Obtenez également du coaching via courriel sur les listes que vous composerez. **Avant la moitié du cours, en y mettant l'effort, vous obtiendrez un progrès surprenant dans un de vos centres d'intérêt.** Le cours s'offrira à nouveau le [{{ site.course.starts_fr }}][course].
+[The Language of Objectives][course] est un cours d'une durée de 10 semaines (offert en anglais pour le moment) portant sur les listes _have-done_. À chaque semaine, vous recevrez un courriel avec un exemple d'une situation améliorée par l'utilisation des listes _have-done_. Obtenez également du coaching via courriel sur les listes que vous composez. **Avant la moitié du cours, en y mettant l'effort, vous obtiendrez un progrès surprenant dans un de vos centres d'intérêt.** Le cours débutera le [{{ site.course.starts_fr }}][course].
 
 ## Ou commencez avec ce que vous savez déjà
 
@@ -98,4 +98,4 @@ Les modèles mentaux, c'est comme des lentilles teintées
 ## Qui suis-je
 {: #apropos }
 
-Je m'appelle [Pascal](/). J'ai développé ces techniques pour que je puisse exercer mes préférences naturelles de <mark>voir gros et voir en détail en même temps</mark>, de faire la bonne chose et de penser à toutes les variables. Depuis, et avec ces techniques, plusieurs situations dans ma vie ce sont améliorées, à ma surprise. Parfois, tout ce qu'on a besoin c'est d'adopter la bonne posture, trouver l'essentiel de ce qu'on doit faire pour le plus gros impact, et de changer nos modes de pensée. J'espère pouvoir aider avec votre situations également.
+Je m'appelle [Pascal](/). J'ai développé ces techniques pour que je puisse exercer mes préférences naturelles de <mark>voir gros et voir en détail en même temps,</mark> de faire la bonne chose et de penser à toutes les variables. Depuis, et avec ces techniques, plusieurs situations dans ma vie ce sont améliorées, à ma surprise. Parfois, tout ce qu'on a besoin c'est d'adopter la bonne posture, trouver l'essentiel de ce qu'on doit faire pour le plus gros impact, et de changer nos modes de pensée. J'espère pouvoir aider avec votre situations également.

@@ -58,15 +58,15 @@ More [about me](#about) below.
 
 * There's a <mark>big opportunity coming up</mark> that you don't want to miss on.
 * There's a <mark>deadline coming up</mark> and you're paralyzed by analysis.
-* There's an urgent need to help a friend, but <mark>your relationship had some difficulties</mark>. It's time to let those bad feelings aside and be helpful.
+* There's an urgent need to help a friend, but <mark>your relationship had some difficulties.</mark> It's time to let those bad feelings aside and be helpful.
 * You <mark>discovered something about your son</mark> that needs addressing.
-* You're <mark>furious about a team member's performance</mark>, and you need to prepare your conversation so there's a good outcome for the both of you and the rest of the team.
-* You need to prepare for a <mark>difficult but important conversation with your boss</mark>.
+* You're <mark>furious about a team member's performance,</mark> and you need to prepare your conversation so there's a good outcome for the both of you and the rest of the team.
+* You need to prepare for a <mark>difficult but important conversation with your boss.</mark>
 * You find it <mark>difficult to be authentic and vulnerable,</mark> but this time it'll be important that you put on those traits, and you want to be ready.
-* You see a problem in the way your team works and <mark>you need to have that changed</mark>.
-* You see something new that needs to be created, but <mark>you're paralyzed with doubt</mark>.
+* You see a problem in the way your team works and <mark>you need to have that changed.</mark>
+* You see something new that needs to be created, but <mark>you're paralyzed with doubt.</mark>
 * In your family, you see a <mark>bad relationship trend</mark> and you sense that it needs to be broached.
-* You're hesitant how to <mark>take on something you've never tried before</mark>, but nobody else is going to do it, so it's up to you this time.
+* You're hesitant how to <mark>take on something you've never tried before,</mark> but nobody else is going to do it, so it's up to you this time.
 
 </div>
 

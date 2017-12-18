@@ -52,21 +52,21 @@ Si ça peut vous être utile, voici ma propre approche pour aborder des situatio
 
 [En connaître plus à mon sujet](#apropos) ci-bas.
 
-## To help you with <mark>more timely situations</mark> like these:
+## Pour vous aider avec des <mark>situations urgentes</mark> comme celles-ci:
 
 <div markdown="1" class="examples">
 
-* There's a <mark>big opportunity coming up</mark> that you don't want to miss on.
-* There's a <mark>deadline coming up</mark> and you're paralyzed by analysis.
-* There's an urgent need to help a friend, but <mark>your relationship had some difficulties</mark>. It's time to let those bad feelings aside and be helpful.
-* You <mark>discovered something about your son</mark> that needs addressing.
-* You're <mark>furious about a team member's performance</mark>, and you need to prepare your conversation so there's a good outcome for the both of you and the rest of the team.
-* You need to prepare for a <mark>difficult but important conversation with your boss</mark>.
-* You find it <mark>difficult to be authentic and vulnerable,</mark> but this time it'll be important that you put on those traits, and you want to be ready.
-* You see a problem in the way your team works and <mark>you need to have that changed</mark>.
-* You see something new that needs to be created, but <mark>you're paralyzed with doubt</mark>.
-* In your family, you see a <mark>bad relationship trend</mark> and you sense that it needs to be broached.
-* You're hesitant how to <mark>take on something you've never tried before</mark>, but nobody else is going to do it, so it's up to you this time.
+* <mark>Une grande opportunité se présente à vous</mark> et vous ne voulez pas la manquer.
+* <mark>Une échéance arrive à grands pas</mark> et votre obsession à tout analyser vous paralyse.
+* Un ami a besoin d'aide, et c'est plutôt urgent, <mark>mais votre relation ne va pas trop bien ces derniers temps.</mark> Il faudra que vous mettiez vos sentiments de côté pour lui venir en aide.
+* Vous <mark>découvrez quelque chose au sujet de votre fils</mark> qui devra être adressé.
+* <mark>La mauvaise performance d'un membre de votre équipe</mark> vous rend furieuse et vous devez prendre le temps de bien préparer votre interaction avec cette personne pour que ça tourne bien pour vous deux, et pour que ça serve comme exemple pour le reste de l'équipe.
+* Vous devez vous préparer pour une <mark>conversation difficile mais importante  avec votre superviseure.</mark>
+* C'est <mark>difficile pour vous de vous montrer authentique et vulnérable,</mark> mais cette fois-ci, ce sera important que vous démontriez ces qualités. Vous êtes déterminé à relever le défi.
+* Vous constatez un problème dans le fonctionnement de l'équipe et <mark>vous exigez que ça change.</mark>
+* Vous venez d'avoir une bonne idée pour inventer quelque chose de nouveau, mais <mark>vous êtes paralysé par le doute.</mark>
+* Dans votre famille, vous sentez une <mark>mauvaise tendance dans les relations</mark> et  décidez qu’il faudra l’aborder.
+* Vous hésitez quand vient le temps <mark>d’essayer quelque chose pour la première fois,</mark> mais puisque personne d'autre ne va se donner la peine, c'est à vous de tenter le coup.
 
 </div>
 
@@ -104,6 +104,6 @@ Je m'appelle [Pascal](/). J'ai toujours été du type à faire l'inventaire de t
 
 Souvent, ça m'a paralysé, et je voyais ces tendences comme un défaut. À mesure que j'ai trouvé mes propres façon d'organiser mes tâches et leurs prochaines étapes, je réalisais que ces tendences de vouloir tout répertorier et de vouloir aller au fond des choses dans tout, c'était en fait un atout. C'est cette réalisation qui a motivé la création des listes _have-done_.
 
-C'est plus tard, lors d'un cours sur le leadership, que j'ai appris au sujet des modèles mentaux. Ça m'a aidé à séparer mon égo de mes choix, que dans des situation contraignates je pourrais convertir mon propre élant réactionnaire en une contribution constructive.
+C'est plus tard, lors d'un cours sur le leadership, que j'ai appris au sujet des modèles mentaux. Ça m'a aidé à séparer mon égo de mes choix, que dans des situations contraignates je pourrais convertir mon propre élan réactionnaire en une contribution constructive.
 
-J'ai également développé l'aptitude de l'écoute empathique, ce qui me permettra d'être à votre service dans le contexte d'une [consultation téléphonique][coaching] (ci-haut) ou [via les techniques que j'ai développées][decouvrir]. Je serais heureux de pouvoir vous aider.
+J'ai également développé une écoute, ce qui me permettra d'être à votre service dans le contexte d'une [consultation téléphonique][coaching] (ci-haut) ou [via les techniques que j'ai développées][decouvrir]. Je serai heureux de pouvoir vous aider.

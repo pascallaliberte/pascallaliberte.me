@@ -28,7 +28,7 @@ og:
 <div class="left" markdown="1">
 ### 1. Have-done lists
 
-Pretend you're in the future, and <mark>write what you'll be celebrating</mark>. Re-write and re-order until the list rings true.
+Pretend you're in the future, and <mark>write what you'll be celebrating.</mark> Re-write and re-order until the list rings true.
 
 <div class="taskpaper" markdown="1">
 ### Before the end of the my conversation with my boss:
@@ -73,7 +73,7 @@ Detect the mental models that warp how you see reality, and <mark>catch them bef
 <div markdown="1" class="examples">
 * Sarah works on her consulting business today, and <mark>she’s got a full plate</mark> (too much to do!).
 * Dan <mark>is sure his supervisor won’t agree</mark> to his idea.
-* Sylvie’s <mark>meeting with partners on an important project is going nowhere</mark>.
+* Sylvie’s <mark>meeting with partners on an important project is going nowhere.</mark>
 </div>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mZIE4sj1HHM" frameborder="0" allowfullscreen></iframe>
@@ -107,4 +107,4 @@ By Re-Wiring Your Brain Using Have-Done Lists
 ## About me
 {: #about }
 
-My name is [Pascal](/). I've developed these techniques so that I could use my natural preferences <mark>to go big-picture and small-picture at the same</mark>, to strive for doing the right thing, and to think of every variable. Since then, I've improved situations in my life that left me surprised. Sometimes, all that is needed is to adopt the right posture, finding the smallest thing that'll do the biggest impact, and changing our mindsets. I hope I can help you with your situations too.
+My name is [Pascal](/). I've developed these techniques so that I could use my natural preferences <mark>to go big-picture and small-picture at the same,</mark> to strive for doing the right thing, and to think of every variable. Since then, I've improved situations in my life that left me surprised. Sometimes, all that is needed is to adopt the right posture, finding the smallest thing that'll do the biggest impact, and changing our mindsets. I hope I can help you with your situations too.
