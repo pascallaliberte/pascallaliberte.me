@@ -81,9 +81,9 @@ My main areas of interest are:
 <div class="scroll-reveal" markdown="1" id="values">
 ## What I value most
 
-* I value being <mark>intentional and thorough</mark>, getting to the bottom of things and doing the right thing.
-* I value <mark>starting small, iterating</mark>, doing what matters, betting on the long-haul and respecting the natural rhythm of things.
-* In relationships, I value <mark>authenticity, complicity</mark>, openness and truth.
+* I value being <mark>intentional and thorough,</mark> getting to the bottom of things and doing the right thing.
+* I value <mark>starting small, iterating,</mark> doing what matters, betting on the long-haul and respecting the natural rhythm of things.
+* In relationships, I value <mark>authenticity, complicity,</mark> openness and truth.
 * And I value <mark>improving myself</mark> and making a good environment for others to grow in.
 {: .home-values }
 </div>

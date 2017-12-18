@@ -1,6 +1,14 @@
 {% include head.html %}
   <body{% if page.class %} class="{{ page.class }}"{% endif %}>
-
+    {% if page.link_alt_lang %}
+    <a class="link-alt-lang" href="{{ page.link_alt_lang }}">
+      {% if page.lang == "fr" %}
+        English
+      {% else %}
+        Français
+      {% endif %}
+    </a>
+    {% endif %}
     <div class="content">
       {{ content }}
     </div>
