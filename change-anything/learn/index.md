@@ -67,9 +67,14 @@ Detect the mental models that warp how you see reality, and <mark>catch them bef
 
 </div>
 
-## Video with Examples
+## Quick Intro Video
 
-**In the video below**, see how the following three situations are changed using have-done lists and mental models
+(Length: 5 min)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9juE2GI6gwo" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+
+## Video With More In-Depth Examples
+
+**In the video below (38 min)**, see how the following three situations are changed using have-done lists and mental models
 {: .text-center}
 
 <div markdown="1" class="examples">
