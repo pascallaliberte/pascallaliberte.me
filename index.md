@@ -9,7 +9,7 @@ layout: default
 [LinkedIn][linkedin], [Medium][medium], [Twitter][twitter], [Instagram][instagram], [YouTube][youtube]
 {: .home-intro }
 
-<div class="scroll-reveal" markdown="1" id="">
+<div class="scroll-reveal" markdown="1" id="change-anything">
 ## [The Change Anything Kit][change-anything] <span class="sub-title">Learn two mental reprogramming techniques I use, or let's have a call</span>
 
 If it's up to you to make that important change happen, I offer coaching and learning material to help you prepare to make that change happen. [Learn more][change-anything]
