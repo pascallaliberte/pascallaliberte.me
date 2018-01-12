@@ -17,14 +17,6 @@ If it's up to you to make that important change happen, I offer coaching and lea
 
 [change-anything]: /change-anything/
 
-<div class="scroll-reveal" markdown="1" id="breather-planner">
-## [Breather Planner][breather-planner] <span class="sub-title">2018 Monthly Planner with Extra Room for Notes</span>
-
-For you or your loved one who looks at life a month at a time and can't seem to find a planner that does the basics right. No holidays, no fluff, and extra space to the right for notes. [Check it out][breather-planner]
-</div>
-
-[breather-planner]: https://breatherplanner.com/
-
 <div class="scroll-reveal" markdown="1" id="bleep-bloop-shop">
 ## [Bleep, Bloop, Shop!](/bleep-bloop-shop/) <span class="sub-title">A tweaking service for your Shopify Store.</span>
 
