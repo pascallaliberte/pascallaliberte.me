@@ -17,7 +17,7 @@ course:
   deadline_fr: "12 février" # has to be a Monday
   limit: 5
   price: 400
-  allow_signups: false
+  allow_signups: true
 defaults:
   -
     scope:
