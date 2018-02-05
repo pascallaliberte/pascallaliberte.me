@@ -6,12 +6,9 @@ og:
   title: "The Language of Objectives"
   description: "A 10-week course on writing _have-done lists_, an approach for Catch-up on the small so you can get to your bigger priorities."
   images:
-    - url: "/language-of-objectives/preview-1200x630.png"
+    - url: "/language-of-objectives/language-of-objectives-01-1200x630.jpg"
       width: 1200
       height: 630
-    - url: "/language-of-objectives/preview-180x110.png"
-      width: 180
-      height: 110
 ---
 
 <div class="course-title-label" markdown="1">
