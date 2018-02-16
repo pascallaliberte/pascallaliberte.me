@@ -34,9 +34,9 @@ I'm currently preparing a way to help product owners improve their sales by twea
 <div class="scroll-reveal" markdown="1" id="previous-work">
 ## Previous work
 
-Up until February, I was at [FarmLead][farmlead], a marketplace for farmers to sell their grain. My role was in leading the design (Web, Android, iOS) and in building the web app.
+Before my move to freelancing I was at the startup called [FarmLead][farmlead], a marketplace for farmers to sell their grain. My role was in leading a re-design of the application (Web, Android, iOS) and in re-writing the web app.
 
-Previously, it's at the University of Ottawa that I helped bring user-centered design thinking, working on the web templates, and designing apps and web sites. At its Faculty of Medicine, I helped direct the creation of [Learn.med][learnmed], an online learning platform.
+Before that, I worked at the University of Ottawa. I helped bring user-centered design thinking. I did that by supporting the web development community by giving talks, by building tools like the central web templates and by writing documentation. I also built apps and web sites there too. In the last years, I was at the Faculty of Medicine where I directed the creation of [Learn.med][learnmed], an online learning platform.
 </div>
 
 <div class="scroll-reveal" markdown="1" id="beliefs">
@@ -47,7 +47,7 @@ Previously, it's at the University of Ottawa that I helped bring user-centered d
 * Most times when we hit an either/or mindset, there's usually a third way.
 * We're complicated people, and we're full of paradoxes. Learning to [bridge those paradoxes helps us be better with others][bridgeparadoxes].
 * There's a way to [achieve multiple things at once][godeepineverything], so long as you ruthlessly put things in the right order. That way, the first thing will feed into the second one and into the third, and all the way down, letting you achieve them all.
-* To-do lists are only a little helpful, because they're usually written as wish-for lists. I found that [writing will-have-done lists][willhavedone] to be the most helpful kind of list to write.
+* To-do lists are only a little helpful, because they're usually written as wish-for lists. I found that [writing have-done lists][havedone] to be the most helpful kind of list to write.
 {: .home-beliefs }
 
 </div>
@@ -55,7 +55,7 @@ Previously, it's at the University of Ottawa that I helped bring user-centered d
 [postheroism]: https://medium.com/@pascallaliberte/the-urgency-of-post-heroism-11e7d920bf49
 [bridgeparadoxes]: http://by.pascallaliberte.me/2014-04-surviving-a-crisis-of-faith/
 [godeepineverything]: http://by.pascallaliberte.me/2014-12-go-deep-in-everything/
-[willhavedone]: http://by.pascallaliberte.me/2013-12-writing-objectives-you-will-accomplish/
+[havedone]: http://by.pascallaliberte.me/2013-12-writing-objectives-you-will-accomplish/
 
 <div class="scroll-reveal" markdown="1" id="interests">
 ## Areas of interest
