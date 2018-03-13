@@ -8,9 +8,16 @@ class: jtbd
 
 Given Nov. 18, 2017 at [ProductCamp Ottawa](http://productcampottawa.wordpress.com), by [Pascal Laliberté](/).
 
-Here are some shareable slides (with more explanation):
+## Video of the presentation
 
-<script async class="speakerdeck-embed" data-id="5a6dbf3dbcad4737a3589c7afb1a9e0f" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHyNmq2-tU4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+
+### Just the slides?
+
+Want to skip ahead or speed through the slides? There's a version of the [slides of the presentation that's adapted with extra narrative text][slides], so you can share it or read through it without watching the video.
+
+[slides]: https://speakerdeck.com/pascallaliberte/create-a-striking-product-using-jobs-to-be-done
 
 ## Milkshake video
 
