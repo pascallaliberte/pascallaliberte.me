@@ -891,6 +891,8 @@ html[data-section-in-view="interests"] #interests h2 {
     margin-top: 0.8em;
     display: block;
     font-weight: normal; }
+  .change-anything #page-title a {
+    text-decoration: none; }
 .change-anything blockquote {
   border: 1px solid rgba(100, 84, 48, 0.1);
   padding: 2em;

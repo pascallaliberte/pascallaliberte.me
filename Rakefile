@@ -19,7 +19,7 @@ end
 desc "Design, write, and edit live."
 task :default => [:clean] do
   pids = [
-    spawn("jekyll build --watch"),
+    spawn("bundle exec jekyll serve"),
     spawn("sass --watch _assets/sass:assets/stylesheets"),
     #spawn("coffee --bare --watch --join assets/javascript/scripts.js --compile _assets/coffeescript/*.coffee")
   ]
@@ -42,7 +42,7 @@ end
 
 desc "Generate a copy of the most current site."
 task :compile do
-  system "jekyll build"
+  system "bundle exec jekyll build"
   system "sass --style compressed _assets/sass/style.scss:public/assets/stylesheets/style.css"
   system "coffee --bare --join public/assets/javascript/scripts.js --compile _assets/coffeescript/*.coffee"
 end
