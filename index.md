@@ -24,11 +24,12 @@ I'm offering [a tweaking service to make your Shopify Store faster to load and m
 </div>
 
 <div class="scroll-reveal" markdown="1" id="my-work">
-## My work <span class="sub-title">Personal Development, Product Marketing and Web UIs</span>
+## My work
 
-I'm currently preparing a way to help product owners improve their sales by tweaking how they present their product. By understanding the _reason_ why someone bought your product (they wanted progress in that area of their life), you can craft your messaging. To be notified when I announce that service, here's where to sign-up:
+* [Product Development](/jtbd/productcamp/) - focusing a product or service using Jobs-To-Be-Done
+* [Coaching](/change-anything/) - preparing your impact on changing a situation
+* [Web Development](/bleep-bloop-shop/) - improving the performance of e-commerce sites
 
-{% include signup-services-announcement.html %}
 </div>
 
 <div class="scroll-reveal" markdown="1" id="previous-work">
