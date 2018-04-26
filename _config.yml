@@ -11,13 +11,13 @@ gems:
 destination: public
 exclude: [public, Gemfile, Gemfile.lock, Rakefile, README.md]
 course:
-  starts: "April 29th" # has to be a Sunday
-  starts_fr: "29 avril"
-  deadline: "April 23rd" # has to be a Monday
-  deadline_fr: "23 avril" # has to be a Monday
+  starts: "June 3rd" # has to be a Sunday
+  starts_fr: "3 juin"
+  deadline: "May 28th" # has to be a Monday
+  deadline_fr: "28 mai" # has to be a Monday
   limit: 5
   price: 400
-  allow_signups: true
+  allow_signups: false
 defaults:
   -
     scope:
