@@ -68,13 +68,14 @@ My main areas of interest are:
 
 [jtbd-presentation]: /jtbd/hub/
 
-**When building products, I use these technologies:** I've been doing work with [Vue.js][vuejs] for crafting web interfaces. When using Wordpress, I use the [Roots][rootsio] kits (see my [presentation on Roots at Wordpress Ottawa][roots-presentation]). When the site I'm building is small or if I'm doing prototyping work, [Jekyll][jekyllrb] is my go-to static-site generator. When designing, I prefer building real UIs through code, and I use [Sketch][sketchapp] for mocking them up.
+**When building products, I use these technologies:** For crafting web interfaces, I've been really liking [Stimulus (see a presentation I gave)][stimulusjs-presentation] and [Vue.js (see presentation about that one too)][vuejs-presentation]. When using Wordpress, I use the lovely [Roots kit (see presentation)][roots-presentation] kit. When the site I'm building is small or if I'm doing prototyping work, [Jekyll][jekyllrb] is my go-to static-site generator. When designing, I prefer building real UIs through code, and I use [Sketch][sketchapp] for mocking them up.
 </div>
 
 [roots-presentation]: https://www.youtube.com/watch?v=c25nvDkblSQ&lc=z123zx3xcozsehkwc04cg1ujxxroyrgp5q40k
 [farmlead]: https://farmlead.com/
 [learnmed]: https://learn.med.uottawa.ca/
-[vuejs]: https://vuejs.org/
+[stimulusjs-presentation]: https://www.youtube.com/watch?v=UucTtozapTE
+[vuejs-presentation]: https://speakerdeck.com/pascallaliberte/making-turbolinks-work-with-vue-dot-js-fast-server-generated-pages-with-reactive-front-end-components
 [rootsio]: https://roots.io/
 [jekyllrb]: https://jekyllrb.com/
 [sketchapp]: https://sketchapp.com/
@@ -82,10 +83,10 @@ My main areas of interest are:
 <div class="scroll-reveal" markdown="1" id="values">
 ## What I value most
 
-* I value being <mark>intentional and thorough,</mark> getting to the bottom of things and doing the right thing.
-* I value <mark>starting small, iterating,</mark> doing what matters, betting on the long-haul and respecting the natural rhythm of things.
-* In relationships, I value <mark>authenticity, complicity,</mark> openness and truth.
-* And I value <mark>improving myself</mark> and making a good environment for others to grow in.
+* **I value being <mark>intentional and thorough,</mark> getting to the bottom of things and doing the right thing.** If you're into following trends, we won't be friends.
+* **I value <mark>starting small, iterating,</mark> doing what matters, betting on the long-haul and respecting the natural rhythm of things.** Instead of taking a big ambitious bite out of life, why not bet on what will always be true, like the power of compound interest and doing stuff that's a little scary but at your level?
+* **In relationships, I value <mark>authenticity, complicity,</mark> openness and truth.** Open up. It's scary but it matters. 
+* **And I value <mark>improving myself</mark> and making a good environment for others to grow in.** Stepping on some toes? Better to step on your own first.
 {: .home-values }
 </div>
 
