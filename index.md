@@ -68,7 +68,7 @@ My main areas of interest are:
 
 [jtbd-presentation]: /jtbd/hub/
 
-**When building products, I use these technologies:** For crafting web interfaces, I've been really liking [Stimulus (see a presentation I gave)][stimulusjs-presentation] and [Vue.js (see presentation about that one too)][vuejs-presentation]. When using Wordpress, I use the lovely [Roots kit (see presentation)][roots-presentation] kit. When the site I'm building is small or if I'm doing prototyping work, [Jekyll][jekyllrb] is my go-to static-site generator. When designing, I prefer building real UIs through code, and I use [Sketch][sketchapp] for mocking them up.
+**When building products, I use these technologies:** For crafting web interfaces, I've been really liking [Stimulus (see a presentation I gave)][stimulusjs-presentation] and [Vue.js (see presentation about that one too)][vuejs-presentation]. When using Wordpress, I use the lovely [Roots kit (see presentation)][roots-presentation]. When the site I'm building is small or if I'm doing prototyping work, [Jekyll][jekyllrb] is my go-to static-site generator. When designing, I prefer building real UIs through code, and I use [Sketch][sketchapp] for mocking them up.
 </div>
 
 [roots-presentation]: https://www.youtube.com/watch?v=c25nvDkblSQ&lc=z123zx3xcozsehkwc04cg1ujxxroyrgp5q40k
