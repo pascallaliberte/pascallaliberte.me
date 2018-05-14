@@ -148,12 +148,13 @@ html[data-section-in-view="interests"] #interests h2 {
     line-height: 1.2em;
   }
   mark {
-    font-weight: normal;
+    font-weight: bold;
     font-style: normal;
-    background: transparentize($color-highlight, 0.7);
+    background: rgba(166, 201, 253, 0.3);
     display: inline-block;
     padding: 0.1em 0.2em;
     margin: -0.1em 0;
+    color: $color-headings-home;
   }
 }
 
