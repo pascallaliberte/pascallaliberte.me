@@ -7,7 +7,7 @@ layout: default
 
 Hi. [Pascal](/) here, thanks for dropping by.
 
-I'm interested in hearing people's stories of how they made a recent purchase. Can you help?
+I'm interested in hearing people's stories of how they made a recent purchase. Can you help? For an hour of your time, you'll receive a $50 Amazon gift card after the interview.
 
 ## **Do these match your experience?**
 
@@ -18,7 +18,7 @@ I'm interested in hearing people's stories of how they made a recent purchase. C
 - It was a **sizable price**, like $100 or more, roughly.
 {: .get-started-checklist }
 
-Does your purchase match every point in the checklist? Can I call you to ask you about the purchase? It'll be a **one-hour call**.
+Does your purchase match every point in the checklist? Can I call you to ask you about the purchase? It'll be a **one-hour call**, and you'll get a $50 Amazon gift card after the interview.
 
 ---
 
