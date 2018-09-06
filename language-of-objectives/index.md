@@ -1,10 +1,10 @@
 ---
 layout: default
 class: objectives-course
-title: "The Language of Objectives: Catch-up on the small so you can get to your bigger priorities"
+title: "The Language of Objectives: Be an ace at dealing with complex situations"
 og:
   title: "The Language of Objectives"
-  description: "A 10-week course on writing _have-done lists_, an approach for Catch-up on the small so you can get to your bigger priorities."
+  description: "A 10-week course on writing _have-done lists_, an approach to become good at dealing with complex situations."
   images:
     - url: "/language-of-objectives/language-of-objectives-01-1200x630.jpg"
       width: 1200
@@ -15,7 +15,7 @@ og:
   A course on
 </div>
 
-# The Language of Objectives <span class="part-of">Part of [The Change Anything Kit](/change-anything/)</span><span class="tagline">Catch-up on the small so you can get to your bigger priorities</span>
+# The Language of Objectives <span class="part-of">Part of [The Change Anything Kit](/change-anything/)</span><span class="tagline">Be an ace at dealing with complex situations</span>
 {: #course-title }
 
 
