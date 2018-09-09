@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/pascallaliberte
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://pascallaliberte.me
+  * I am pascallaliberte (https://keybase.io/pascallaliberte) on keybase.
+  * I have a public key ASBy6sjlnZ3uYXJD2X1JT2Tqa6rRgwkKAv-uuEKvv_jHmgo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012059859a2b1ca9da798dc6c1d1bc1284594b7b94b5400f651618a074c387e5bbf60a",
+      "host": "keybase.io",
+      "kid": "012072eac8e59d9dee617243d97d494f64ea6baad183090a02ffaeb842afbff8c79a0a",
+      "uid": "b8ae66b7f6dce5c6cadf569095dfcc19",
+      "username": "pascallaliberte"
+    },
+    "merkle_root": {
+      "ctime": 1536455513,
+      "hash": "d25d9a5ea51dd6dc3e9458a8640c46c320f2e5072438e4c449d34c0fff0a27ae107b55a2f2532356fab8cc52aac804801dbcae22b962698c9e30db8706974e1e",
+      "hash_meta": "ca1ba00cf4262e0762560ff24afe28ef6eb62d3f6a74761959e637a8d262d179",
+      "seqno": 3583756
+    },
+    "service": {
+      "entropy": "1EL7pGFNuGOLaxEcbiDmyPYE",
+      "hostname": "pascallaliberte.me",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "2.5.2"
+  },
+  "ctime": 1536455574,
+  "expire_in": 504576000,
+  "prev": "f0fc9de2836ef9b27e7103fa731ffbf87cf0515da0b4181fa6ae1260201d44ef",
+  "seqno": 12,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgcurI5Z2d7mFyQ9l9SU9k6muq0YMJCgL/rrhCr7/4x5oKp3BheWxvYWTESpcCDMQg8Pyd4oNu+bJ+cQP6cx/7+HzwUV2gtBgfpq4SYCAdRO/EICseE9Gfr07UNiHF2l3AFi3bNuPvmtM0OBEOSi1HmrVlAgHCo3NpZ8RAxZ7WGdhbzIuLSwopqh0WTSRqs/oBeRtw9B8GjO+3zCY8hzHiQueR71ILlYjxghyg3cXi1Dd9sS0s05lvG4GpCqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIFt4Vh/QTNLYInD32QWcNjVwRiCnNZWaNX68FcBLLpcqo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/pascallaliberte
+
+==================================================================
