@@ -11,7 +11,7 @@ gems:
 destination: public
 exclude: [public, Gemfile, Gemfile.lock, Rakefile, README.md]
 course:
-  starts: "October 21th" # has to be a Sunday
+  starts: "October 21st" # has to be a Sunday
   starts_fr: "21 octobre"
   deadline: "October 15th" # has to be a Monday
   deadline_fr: "15 octobre" # has to be a Monday
