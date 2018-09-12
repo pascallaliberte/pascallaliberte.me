@@ -25,3 +25,4 @@ defaults:
     values:
       lang: en
 include: [".well-known"]
+
