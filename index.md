@@ -10,6 +10,15 @@ layout: default
 {: .home-intro }
 
 <div class="scroll-reveal" markdown="1" id="change-anything">
+## [Breather Planner][breather-planner] <span class="sub-title">A monthly planner with space for notes</span>
+
+The [2019 edition of the Breather Planner][breather-planner] is ready in both English and French. Get a month's view on an aspect of your life, or on all of it. 
+</div>
+
+[breather-planner]: https://breatherplanner.com
+
+
+<div class="scroll-reveal" markdown="1" id="change-anything">
 ## [The Change Anything Kit][change-anything] <span class="sub-title">Learn two mental reprogramming techniques I use, or let's have a call</span>
 
 If it's up to you to make that important change happen, I offer coaching and learning material to help you prepare to make that change happen. [Learn more][change-anything]
