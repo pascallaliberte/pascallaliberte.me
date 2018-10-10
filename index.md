@@ -6,7 +6,7 @@ layout: default
 
 *Hi, this is the site of*  
 **Pascal Laliberté**, Ottawa, ON  
-[LinkedIn][linkedin], [Medium][medium], [Twitter][twitter], [Instagram][instagram], [YouTube][youtube]
+[LinkedIn][linkedin], [Medium][medium], [Twitter][twitter], [Instagram][instagram], [YouTube][youtube], [Keybase][keybase]
 {: .home-intro }
 
 <div class="scroll-reveal" markdown="1" id="change-anything">
@@ -115,6 +115,8 @@ Here are a few articles from the blog:
 [faithblog]: http://by.pascallaliberte.me/
 
 *[Subscribe to get notified of new articles](http://by.pascallaliberte.me/subscribe-follow/)*
+
+*Lecteurs français: le blogue est également disponible en français. De plus, j'ai créé le site **[lectures.page][lectures]**, offrant les lectures du dimanche qui vient du missel romain (textes de l'[AELF][aelf]), utile pour une lecture personnelle ou pour des partages bibliques de groupe.*
 </div>
 
 <div class="scroll-reveal" markdown="1" id="questions">
@@ -145,4 +147,7 @@ Hope they help.
 [twitter]: https://twitter.com/pascallaliberte
 [instagram]: https://www.instagram.com/pascallaliberte/
 [youtube]: https://www.youtube.com/channel/UCo2CttXwSgcaEmrTsALqS-A
+[keybase]: https://keybase.io/pascallaliberte
+[lectures]: https://lectures.page
+[aelf]: https://www.aelf.org
 </div>
