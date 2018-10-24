@@ -1,10 +1,10 @@
 ---
-title: "Bleep, Bloop, Shop! A tweaking service for your Shopify Store"
+title: "Bloop, Bloop, Shop! A tweaking service for your Shopify Store"
 layout: default
-class: bleep-bloop-shop
+class: bloop-bloop-shop
 ---
 
-# Bleep, Bloop, Shop! <span class="tagline">A tweaking service <br class="hide-mobile">for your Shopify Store</span>
+# Bloop, Bloop, Shop! <span class="tagline">A tweaking service <br class="hide-mobile">for your Shopify Store</span>
 {: #main-title }
 
 by [Pascal Laliberté](/)

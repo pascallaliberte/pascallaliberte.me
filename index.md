@@ -18,6 +18,12 @@ The [2019 edition of the Breather Planner][breather-planner] is ready in both En
 [breather-planner]: https://breatherplanner.com
 
 
+<div class="scroll-reveal" markdown="1" id="bloop-bloop-shop">
+## [Bloop, Bloop, Shop!](/bloop-bloop-shop/) <span class="sub-title">A tweaking service for your Shopify Store.</span>
+
+I'm offering [a tweaking service to make your Shopify Store faster to load](/bloop-bloop-shop/).
+</div>
+
 <div class="scroll-reveal" markdown="1" id="change-anything">
 ## [The Change Anything Kit][change-anything] <span class="sub-title">Learn two mental reprogramming techniques I use, or let's have a call</span>
 
@@ -26,18 +32,12 @@ If it's up to you to make that important change happen, I offer coaching and lea
 
 [change-anything]: /change-anything/
 
-<div class="scroll-reveal" markdown="1" id="bleep-bloop-shop">
-## [Bleep, Bloop, Shop!](/bleep-bloop-shop/) <span class="sub-title">A tweaking service for your Shopify Store.</span>
-
-I'm offering [a tweaking service to make your Shopify Store faster to load and more up to date](/bleep-bloop-shop/). (Why Bleep, Bloop? That's the sounds our internet connections make here in Canada. jk, jk)
-</div>
-
 <div class="scroll-reveal" markdown="1" id="my-work">
 ## My work
 
 * [Product Development](/jtbd/productcamp/) - focusing a product or service using Jobs-To-Be-Done
 * [Coaching](/change-anything/) - preparing your impact on changing a situation
-* [Web Development](/bleep-bloop-shop/) - improving the performance of e-commerce sites
+* [Web Development](/bloop-bloop-shop/) - improving the performance of e-commerce sites
 
 </div>
 
