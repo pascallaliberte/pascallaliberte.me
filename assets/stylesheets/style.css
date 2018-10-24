@@ -277,8 +277,22 @@ body #mc_embed_signup {
   body #mc_embed_signup div.response {
     margin: 0 0 1em;
     padding: 0; }
-  body #mc_embed_signup input.email {
-    padding: 0.88em 0.7em; }
+  body #mc_embed_signup .mc-field-group input[type="text"] {
+    box-sizing: border-box;
+    font-family: inherit;
+    font-size: inherit;
+    padding: 0.3em 0.5em; }
+  body #mc_embed_signup .mc-field-group input.email {
+    padding: 0.88em 0.5em; }
+  @media only screen and (min-width: 480px) {
+    body #mc_embed_signup .mc-field-group.left {
+      float: left;
+      width: 48%; }
+    body #mc_embed_signup .mc-field-group.right {
+      clear: none;
+      float: right;
+      width: 50%;
+      margin-left: 2%; } }
 
 html {
   transition: background-color 0.5s ease; }

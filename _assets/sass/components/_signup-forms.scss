@@ -22,9 +22,34 @@ body #mc_embed_signup {
     margin: 0 0 1em;
     padding: 0;
   }
-  input.email {
-    padding: 0.88em 0.7em;
+  
+  .mc-field-group {
+    
+    input[type="text"] {
+      box-sizing: border-box;
+      font-family: inherit;
+      font-size: inherit;
+      padding: 0.3em 0.5em;
+    }
+    
+    input.email {
+      padding: 0.88em 0.5em;
+    }
+    
+    @include responsive-break-point(480px) {
+      &.left {
+        float: left;
+        width: 48%;
+      }
+      &.right {
+        clear: none;
+        float: right;
+        width: 50%;
+        margin-left: 2%;
+      }
+    }
   }
+  
   padding: 1em;
   background: transparentize($color-highlight, 0.7);
   border-radius: 0.3em;

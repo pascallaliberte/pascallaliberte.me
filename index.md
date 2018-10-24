@@ -138,9 +138,12 @@ Hope they help.
 </div>
 
 <div class="scroll-reveal" markdown="1">
+
 ## Thanks for reading
 
 *What about you? What do you care about? What are you working on? What are your tricks? [Let me know: I'm @pascallaliberte on Twitter][twitter].*
+
+{% include signup-services-announcement.html %}
 
 [linkedin]: https://www.linkedin.com/in/pascallaliberte/
 [medium]: https://medium.com/@pascallaliberte
