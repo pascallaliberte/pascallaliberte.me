@@ -19,9 +19,9 @@ The [2019 edition of the Breather Planner][breather-planner] is ready in both En
 
 
 <div class="scroll-reveal" markdown="1" id="bloop-bloop-shop">
-## [Bloop, Bloop, Shop!](/bloop-bloop-shop/) <span class="sub-title">A tweaking service for your Shopify Store.</span>
+## [Bloop, Bloop, Shop!][bloopbloopshop] <span class="sub-title">A tweaking service for your Shopify Store.</span>
 
-I'm offering [a tweaking service to make your Shopify Store faster to load](/bloop-bloop-shop/).
+I'm offering [a tweaking service to make your Shopify Store faster to load][bloopbloopshop].
 </div>
 
 <div class="scroll-reveal" markdown="1" id="change-anything">
@@ -37,7 +37,7 @@ If it's up to you to make that important change happen, I offer coaching and lea
 
 * [Product Development](/jtbd/productcamp/) - focusing a product or service using Jobs-To-Be-Done
 * [Coaching](/change-anything/) - preparing your impact on changing a situation
-* [Web Development](/bloop-bloop-shop/) - improving the performance of e-commerce sites
+* [Web Development][bloopbloopshop] - improving the performance of e-commerce sites
 
 </div>
 
@@ -152,5 +152,6 @@ Hope they help.
 [youtube]: https://www.youtube.com/channel/UCo2CttXwSgcaEmrTsALqS-A
 [keybase]: https://keybase.io/pascallaliberte
 [lectures]: https://lectures.page
+[bloopbloopshop]: https://bloopbloop.shop
 [aelf]: https://www.aelf.org
 </div>
