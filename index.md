@@ -6,7 +6,7 @@ layout: default
 
 *Hi, this is the site of*  
 **Pascal Laliberté**, Ottawa, ON  
-[LinkedIn][linkedin], [Medium][medium], [Twitter][twitter], [Instagram][instagram], [YouTube][youtube], [Keybase][keybase]
+[LinkedIn][linkedin], [Medium][medium], [Twitter][twitter], [Instagram][instagram], [YouTube][youtube], [Keybase][keybase], or [get notified&hellip;](#get-notified)
 {: .home-intro }
 
 <div class="scroll-reveal" markdown="1" id="change-anything">
@@ -143,7 +143,7 @@ Hope they help.
 
 *What about you? What do you care about? What are you working on? What are your tricks? [Let me know: I'm @pascallaliberte on Twitter][twitter].*
 
-{% include signup-services-announcement.html %}
+{% include signup-services-announcement.html id="get-notified" %}
 
 [linkedin]: https://www.linkedin.com/in/pascallaliberte/
 [medium]: https://medium.com/@pascallaliberte

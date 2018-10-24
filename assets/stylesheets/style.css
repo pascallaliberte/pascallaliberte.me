@@ -277,13 +277,26 @@ body #mc_embed_signup {
   body #mc_embed_signup div.response {
     margin: 0 0 1em;
     padding: 0; }
-  body #mc_embed_signup .mc-field-group input[type="text"] {
+  body #mc_embed_signup .mc-field-group label {
+    font-size: 0.7em;
+    text-transform: uppercase;
+    font-weight: 500;
+    color: #666666;
+    margin-bottom: -2.4em;
+    margin-left: 23px; }
+    body #mc_embed_signup .mc-field-group label .quiet {
+      text-transform: none;
+      color: #999999; }
+  body #mc_embed_signup .mc-field-group input[type="text"], body #mc_embed_signup .mc-field-group input[type="email"] {
     box-sizing: border-box;
     font-family: inherit;
     font-size: inherit;
-    padding: 0.3em 0.5em; }
+    padding: 1.4em 20px 0.7em;
+    text-indent: 0px;
+    border: 2px solid #dcd1b7; }
   body #mc_embed_signup .mc-field-group input.email {
-    padding: 0.88em 0.5em; }
+    padding: 1.4em 20px 0.7em;
+    border: 2px solid #dcd1b7; }
   @media only screen and (min-width: 480px) {
     body #mc_embed_signup .mc-field-group.left {
       float: left;
@@ -293,6 +306,15 @@ body #mc_embed_signup {
       float: right;
       width: 50%;
       margin-left: 2%; } }
+  body #mc_embed_signup .mc-field-group-email {
+    margin-top: 1em;
+    width: 100%; }
+
+#mc_embed_signup #mc-embedded-subscribe-form .mc-field-group input.mce_inline_error {
+  border-color: #708A9F; }
+
+#mc_embed_signup #mc-embedded-subscribe-form .mc-field-group div.mce_inline_error {
+  color: #708A9F; }
 
 html {
   transition: background-color 0.5s ease; }
