@@ -1,6 +1,6 @@
 name: Pascal Laliberté
 author: Pascal Laliberté
-url: http://pascallaliberte.me
+url: https://pascallaliberte.me
 markdown: kramdown
 highlighter: rouge
 permalink: /:categories/:title/
