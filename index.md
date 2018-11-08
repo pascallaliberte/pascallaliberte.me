@@ -9,13 +9,21 @@ layout: default
 [LinkedIn][linkedin], [Medium][medium], [Twitter][twitter], [Instagram][instagram], [YouTube][youtube], [Keybase][keybase], or [get notified&hellip;](#get-notified)
 {: .home-intro }
 
-<div class="scroll-reveal" markdown="1" id="change-anything">
+<div class="scroll-reveal" markdown="1" id="breather-planner">
 ## [Breather Planner][breather-planner] <span class="sub-title">A monthly planner with space for notes</span>
 
 The [2019 edition of the Breather Planner][breather-planner] is ready in both English and French. Get a month's view on an aspect of your life, or on all of it. 
 </div>
 
 [breather-planner]: https://breatherplanner.com
+
+<div class="scroll-reveal" markdown="1" id="breather-planner">
+## [Sharpen.page][sharpen-page] <span class="sub-title">A Product Sharpening Service, based on the Jobs-To-Be-Done Toolkit</span>
+
+Coming soon, [be notified when it's announced][sharpen-page]
+</div>
+
+[sharpen-page]: https://sharpen.page
 
 
 <div class="scroll-reveal" markdown="1" id="bloop-bloop-shop">
