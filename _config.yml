@@ -16,8 +16,8 @@ course:
   deadline: "November 26th" # has to be a Monday
   deadline_fr: "26 novembre" # has to be a Monday
   limit: 5
-  price: 400
-  allow_signups: false
+  price: 379
+  allow_signups: true
 defaults:
   -
     scope:
