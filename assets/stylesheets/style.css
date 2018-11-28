@@ -328,8 +328,6 @@ html {
     background-color: #B55E19; }
   html[data-section-in-view="questions"] {
     background-color: #9DB0A3; }
-  html[data-section-in-view="breather-planner"] {
-    background-color: #87B975; }
 
 @keyframes brush-01-blue {
   100% {
