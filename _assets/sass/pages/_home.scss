@@ -103,13 +103,6 @@ html[data-section-in-view="values"] #values h2 {
     margin-top: 1em;
     margin-bottom: 0;
     padding-bottom: 1em;
-    strong {
-      font-family: $font-headings-home;
-      font-weight: 900;
-      text-transform: uppercase;
-      color: $color-headings-home;
-      font-size: 1.2em;
-    }
     position: relative;
     &:after {
       content: "";

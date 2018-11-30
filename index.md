@@ -5,18 +5,19 @@ layout: default
 ---
 
 *Hi, this is the site of*  
-**Pascal Laliberté**, Ottawa, ON  
-Find me on [LinkedIn][linkedin], [Medium][medium], [Twitter][twitter], [Instagram][instagram], [YouTube][youtube], [Keybase][keybase] or [Github][github]
+**Pascal Laliberté**, a freelancer in Ottawa, ON  
+Here's a link to [send me an email](mailto:pascal@pascallaliberte.me), or find me on [LinkedIn][linkedin], [Medium][medium], [Twitter][twitter], [Instagram][instagram], [YouTube][youtube], [Keybase][keybase] or [Github][github].  
+Be sure to also [sign-up to get notified on new stuff I'm working on](#get-notified).
 {: .home-intro }
 
 <div class="scroll-reveal" markdown="1" id="my-work">
 ## My work
 
-As a freelancer, I offer services in:
+I offer services in:
 
 * **Product Strategy** - Removing product hesitations using the Jobs-To-Be-Done Theory. Head on over to [Sharpen.page - A Product Sharpening Service][sharpen-page] to learn more.
-* **Software Development** - User Research, Software Writing, Interaction Design. Find me on [Github][github]. I can also help if [you've got an online store and you want to make it faster][bloopbloopshop].
-* **Personal Development** - Preparing your impact on changing a situation. Find out more at the [Change Anything Kit](/change-anything/) and [The Language of Objectives Course](/language-of-objectives)
+* **Software Development** - User Research, Software Writing and Interaction Design. Find me on [Github][github]. I can also help if [you've got an online store and you want to make it faster][bloopbloopshop].
+* **Personal Development** - Preparing your impact on changing a situation. Find out more at the [Change Anything Kit](/change-anything/) and [The Language of Objectives Course](/language-of-objectives).
 
 [Drop me a note](mailto:pascal@pascallaliberte.me) if you'd like to chat about what you're working on, or [get notified](#get-notified) when I have other products or services to announce.
 

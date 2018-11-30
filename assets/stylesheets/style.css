@@ -400,12 +400,6 @@ html[data-section-in-view="values"] #values h2 {
   margin-bottom: 0;
   padding-bottom: 1em;
   position: relative; }
-  .home .home-intro strong {
-    font-family: "freight-sans-condensed-pro", Helvetica, Arial, sans-serif;
-    font-weight: 900;
-    text-transform: uppercase;
-    color: #708A9F;
-    font-size: 1.2em; }
   .home .home-intro:after {
     content: "";
     width: 2rem;
