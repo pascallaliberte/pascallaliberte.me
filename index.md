@@ -6,46 +6,25 @@ layout: default
 
 *Hi, this is the site of*  
 **Pascal Laliberté**, Ottawa, ON  
-[LinkedIn][linkedin], [Medium][medium], [Twitter][twitter], [Instagram][instagram], [YouTube][youtube], [Keybase][keybase], or [get notified&hellip;](#get-notified)
+[LinkedIn][linkedin], [Medium][medium], [Twitter][twitter], [Instagram][instagram], [YouTube][youtube], [Keybase][keybase], [Github][github], or [get notified&hellip;](#get-notified)
 {: .home-intro }
-
-<div class="scroll-reveal" markdown="1" id="breather-planner">
-## [Breather Planner][breather-planner] <span class="sub-title">A monthly planner with space for notes</span>
-
-The [2019 edition of the Breather Planner][breather-planner] is ready in both English and French. Get a month's view on an aspect of your life, or on all of it. 
-</div>
-
-[breather-planner]: https://breatherplanner.com
-
-<div class="scroll-reveal" markdown="1" id="breather-planner">
-## [Sharpen.page][sharpen-page] <span class="sub-title">A Product Sharpening Service, based on the Jobs-To-Be-Done Toolkit</span>
-
-Coming soon, [be notified when it's announced][sharpen-page]
-</div>
-
-[sharpen-page]: https://sharpen.page
-
-
-<div class="scroll-reveal" markdown="1" id="bloop-bloop-shop">
-## [Bloop, Bloop, Shop!][bloopbloopshop] <span class="sub-title">A tweaking service for your Shopify Store.</span>
-
-I'm offering [a tweaking service to make your Shopify Store faster to load][bloopbloopshop].
-</div>
-
-<div class="scroll-reveal" markdown="1" id="change-anything">
-## [The Change Anything Kit][change-anything] <span class="sub-title">Learn two mental reprogramming techniques I use, or let's have a call</span>
-
-If it's up to you to make that important change happen, I offer coaching and learning material to help you prepare to make that change happen. [Learn more][change-anything]
-</div>
-
-[change-anything]: /change-anything/
 
 <div class="scroll-reveal" markdown="1" id="my-work">
 ## My work
 
-* [Product Development](/jtbd/productcamp/) - focusing a product or service using Jobs-To-Be-Done
-* [Coaching](/change-anything/) - preparing your impact on changing a situation
-* [Web Development][bloopbloopshop] - improving the performance of e-commerce sites
+I offer my services in:
+
+* **Product Strategy** - Removing product hesitations using the Jobs-To-Be-Done Theory. Head on over to [Sharpen.page - A Product Sharpening Service][sharpen-page]
+* **Software Development** - User Research, Software Writing, Interaction Design. Find me on [Github][github]. I can also help if [you've got an online store and you want to make it faster][bloopbloopshop].
+* **Personal Development** - Preparing your impact on changing a situation. Find out more at the [Change Anything Kit](/change-anything/) and [The Language of Objectives Course](/language-of-objectives)
+
+</div>
+
+<div class="scroll-reveal" markdown="1" id="my-work">
+## Products
+
+* **[Breather Planner][breather-planner]** - A monthly planner with space for notes. Way more monthly than your phone.
+* **[The Language of Objectives Course](/language-of-objectives)** - Be an ace at dealing with complex situations.
 
 </div>
 
@@ -157,9 +136,13 @@ Hope they help.
 [medium]: https://medium.com/@pascallaliberte
 [twitter]: https://twitter.com/pascallaliberte
 [instagram]: https://www.instagram.com/pascallaliberte/
+[github]: https://github.com/pascallaliberte/
 [youtube]: https://www.youtube.com/channel/UCo2CttXwSgcaEmrTsALqS-A
 [keybase]: https://keybase.io/pascallaliberte
 [lectures]: https://lectures.page
 [bloopbloopshop]: https://bloopbloop.shop
+[breather-planner]: https://breatherplanner.com
+[change-anything]: /change-anything/
+[sharpen-page]: https://sharpen.page
 [aelf]: https://www.aelf.org
 </div>
