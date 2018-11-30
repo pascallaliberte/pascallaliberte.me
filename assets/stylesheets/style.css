@@ -320,10 +320,8 @@ html {
   transition: background-color 0.5s ease; }
   html[data-section-in-view="interests"] {
     background-color: #C2BCAF; }
-  html[data-section-in-view="my-work"] {
-    background-color: #894B1C; }
-  html[data-section-in-view="previous-work"] {
-    background-color: #B7B7AD; }
+  html[data-section-in-view="values"] {
+    background-color: #DBE2EA; }
   html[data-section-in-view="christianity"] {
     background-color: #B55E19; }
   html[data-section-in-view="questions"] {
@@ -332,9 +330,9 @@ html {
 @keyframes brush-01-blue {
   100% {
     background-position: 0 -1447px; } }
-html[data-section-in-view="interests"] #interests h2 {
+html[data-section-in-view="values"] #values h2 {
   position: relative; }
-  html[data-section-in-view="interests"] #interests h2:before {
+  html[data-section-in-view="values"] #values h2:before {
     top: -30px;
     left: -20px;
     width: 390px;
@@ -431,7 +429,8 @@ html[data-section-in-view="interests"] #interests h2 {
 
 .home .home-values {
   margin-left: 0;
-  padding-left: 0; }
+  padding-left: 0;
+  margin-top: 2rem; }
   .home .home-values li {
     padding-left: 0;
     margin-bottom: 0.5em;

@@ -6,10 +6,9 @@ $font-headings-home: "freight-sans-condensed-pro", Helvetica, Arial, sans-serif;
 html {
   transition: background-color 0.5s ease;
   &[data-section-in-view="interests"]      { background-color: #C2BCAF; }
-  &[data-section-in-view="my-work"]        { background-color: #894B1C; }
-  &[data-section-in-view="previous-work"]  { background-color: #B7B7AD; }
+  // &[data-section-in-view="my-work"]        { background-color: #894B1C; }
   // &[data-section-in-view="beliefs"]        { background-color: #B55E19; }
-  // &[data-section-in-view="values"]         { background-color: #DBE2EA; }
+  &[data-section-in-view="values"]         { background-color: #DBE2EA; }
   &[data-section-in-view="christianity"]   { background-color: #B55E19; }
   &[data-section-in-view="questions"]      { background-color: #9DB0A3; }
   // &[data-section-in-view="breather-planner"]      { background-color: #C2BCAF; }
@@ -18,7 +17,7 @@ html {
 @keyframes brush-01-blue {
 	100% { background-position: 0 -1447px; }
 }
-html[data-section-in-view="interests"] #interests h2 {
+html[data-section-in-view="values"] #values h2 {
   position: relative;
   &:before {
     top: -30px;
@@ -141,6 +140,7 @@ html[data-section-in-view="interests"] #interests h2 {
 .home .home-values {
   margin-left: 0;
   padding-left: 0;
+  margin-top: 2rem;
   li {
     padding-left: 0;
     margin-bottom: 0.5em;

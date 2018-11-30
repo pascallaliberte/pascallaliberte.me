@@ -53,17 +53,13 @@ As a freelancer, I offer services in:
 
 My main areas of interest are:
 
-* The *Jobs-To-Be-Done* theory, which is on what causes people to purchase a product. [I gave a talk on May 25 on the Jobs-To-Be-Done theory][jtbd-presentation];
-* Personal development coaching
-
-[jtbd-presentation]: /jtbd/hub/
+* **The *Jobs-To-Be-Done* theory**, which is on what causes people to purchase a product; Find out more at [Sharpen.page - A Product Sharpening Service][sharpen-page]
+* **Maturity in Leadership and _post-heroism_.** Great managers are rare, and the way to get there is to develop the ability to tame our ego and by detecting when we mental models affecting our judgement. Find out more at [The Change Anything Kit](/change-anything/)
 
 **When building products, I use these technologies:** For crafting web interfaces, I've been really liking [Stimulus (see a presentation I gave)][stimulusjs-presentation] and [Vue.js (see presentation about that one too)][vuejs-presentation]. When using Wordpress, I use the lovely [Roots kit (see presentation)][roots-presentation]. When the site I'm building is small or if I'm doing prototyping work, [Jekyll][jekyllrb] is my go-to static-site generator. When designing, I prefer building real UIs through code, and I use [Sketch][sketchapp] for mocking them up.
 </div>
 
 [roots-presentation]: https://www.youtube.com/watch?v=c25nvDkblSQ&lc=z123zx3xcozsehkwc04cg1ujxxroyrgp5q40k
-[farmlead]: https://farmlead.com/
-[learnmed]: https://learn.med.uottawa.ca/
 [stimulusjs-presentation]: https://www.youtube.com/watch?v=UucTtozapTE
 [vuejs-presentation]: https://speakerdeck.com/pascallaliberte/making-turbolinks-work-with-vue-dot-js-fast-server-generated-pages-with-reactive-front-end-components
 [rootsio]: https://roots.io/
