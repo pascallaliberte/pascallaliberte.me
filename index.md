@@ -5,10 +5,16 @@ layout: default
 ---
 
 *Hi, this is the site of*  
-**Pascal Laliberté**, a freelancer in Ottawa, ON  
-Here's a link to [send me an email](mailto:pascal@pascallaliberte.me), or find me on [LinkedIn][linkedin], [Medium][medium], [Twitter][twitter], [Instagram][instagram], [YouTube][youtube], [Keybase][keybase] or [Github][github].  
-Be sure to also [sign-up to get notified on new stuff I'm working on](#get-notified).
+**Pascal Laliberté**, a freelancer with some products, in Ottawa, ON
+  
+Here's a link to [send me an email](mailto:pascal@pascallaliberte.me), or be sure to also [sign-up to get notified on new stuff I'm working on](#get-notified).
 {: .home-intro }
+
+<div class="scroll-reveal" markdown="1" id="elsewhere">
+## Elsewhere on the web
+
+Find me on [LinkedIn][linkedin], [Medium][medium], [Twitter][twitter], [Instagram][instagram], [YouTube][youtube], [Keybase][keybase] or [Github][github].
+</div>
 
 <div class="scroll-reveal" markdown="1" id="my-work">
 ## Services
