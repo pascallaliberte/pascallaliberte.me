@@ -6,17 +6,19 @@ layout: default
 
 *Hi, this is the site of*  
 **Pascal Laliberté**, Ottawa, ON  
-[LinkedIn][linkedin], [Medium][medium], [Twitter][twitter], [Instagram][instagram], [YouTube][youtube], [Keybase][keybase], [Github][github], or [get notified&hellip;](#get-notified)
+Find me on [LinkedIn][linkedin], [Medium][medium], [Twitter][twitter], [Instagram][instagram], [YouTube][youtube], [Keybase][keybase] or [Github][github]
 {: .home-intro }
 
 <div class="scroll-reveal" markdown="1" id="my-work">
 ## My work
 
-I offer my services in:
+As a freelancer, I offer services in:
 
-* **Product Strategy** - Removing product hesitations using the Jobs-To-Be-Done Theory. Head on over to [Sharpen.page - A Product Sharpening Service][sharpen-page]
+* **Product Strategy** - Removing product hesitations using the Jobs-To-Be-Done Theory. Head on over to [Sharpen.page - A Product Sharpening Service][sharpen-page] to learn more.
 * **Software Development** - User Research, Software Writing, Interaction Design. Find me on [Github][github]. I can also help if [you've got an online store and you want to make it faster][bloopbloopshop].
 * **Personal Development** - Preparing your impact on changing a situation. Find out more at the [Change Anything Kit](/change-anything/) and [The Language of Objectives Course](/language-of-objectives)
+
+[Drop me a note](mailto:pascal@pascallaliberte.me) if you'd like to chat about what you're working on, or [get notified](#get-notified) when I have other products or services to announce.
 
 </div>
 
@@ -28,16 +30,8 @@ I offer my services in:
 
 </div>
 
-<div class="scroll-reveal" markdown="1" id="previous-work">
-## Previous work
-
-Before my move to freelancing I was at the startup called [FarmLead][farmlead], a marketplace for farmers to sell their grain. My role was in leading a re-design of the application (Web, Android, iOS) and in re-writing the web app.
-
-Before that, I worked at the University of Ottawa. I helped bring user-centered design thinking. I did that by supporting the web development community by giving talks, by building tools like the central web templates and by writing documentation. I also built apps and web sites there too. In the last years, I was at the Faculty of Medicine where I directed the creation of [Learn.med][learnmed], an online learning platform.
-</div>
-
 <div class="scroll-reveal" markdown="1" id="beliefs">
-## Some of my beliefs
+## Ideas
 
 * Design is best when done in tandem with the implementation. Knowing the limits of the material you work with makes for a better design.
 * There's a particular urgency to [surpass ourselves and to become mature about our choices][postheroism], so that we know how to handle the fast pace of life.
