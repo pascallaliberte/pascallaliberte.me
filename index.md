@@ -11,7 +11,7 @@ Be sure to also [sign-up to get notified on new stuff I'm working on](#get-notif
 {: .home-intro }
 
 <div class="scroll-reveal" markdown="1" id="my-work">
-## My work
+## Services
 
 I offer services in:
 
