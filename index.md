@@ -16,10 +16,10 @@ Find me on [LinkedIn][linkedin], [Medium][medium], [Twitter][twitter], [Instagra
 
 ## My work: <span class="sub-title">Custom Wordpress Component Developer for Web Agencies</span>
 
-**If you're a web agency** looking to win a design, and there's a **custom page component you'd like to have built**, I can help you plan it and I can take charge of building a really nice one for your project.
+**If you're a web agency** looking to win a design, and there's a **custom page component you'd like to have built for a WordPress site**, I can help you plan it and I can take charge of building a really nice one for your project.
 
 <div class="home-component-examples" markdown="1">
-**Example components** you might be looking to have built:
+### Example components you might be looking to have built for your WordPress site:
 
 * A custom-designed map, fed by custom locations;
 * A nice, fast filtered list, that updates without the whole page reloading. Like a staff directory, a long list of projects, or any type of directory;

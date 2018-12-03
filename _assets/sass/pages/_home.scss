@@ -3,38 +3,6 @@
 
 $font-headings-home: "freight-sans-condensed-pro", Helvetica, Arial, sans-serif;
 
-html {
-  transition: background-color 0.5s ease;
-  &[data-section-in-view="interests"]      { background-color: #C2BCAF; }
-  // &[data-section-in-view="my-work"]        { background-color: #894B1C; }
-  // &[data-section-in-view="beliefs"]        { background-color: #B55E19; }
-  &[data-section-in-view="values"]         { background-color: #DBE2EA; }
-  &[data-section-in-view="christianity"]   { background-color: #B55E19; }
-  &[data-section-in-view="questions"]      { background-color: #9DB0A3; }
-  // &[data-section-in-view="breather-planner"]      { background-color: #C2BCAF; }
-}
-
-@keyframes brush-01-blue {
-	100% { background-position: 0 -1447px; }
-}
-html[data-section-in-view="values"] #values h2 {
-  position: relative;
-  &:before {
-    top: -30px;
-    left: -20px;
-    width: 390px;
-    height: 100px;
-    content: '';
-    position: absolute;
-    z-index: -1;
-  	background: url('../images/brush-01-blue.svg');
-    background-repeat: no-repeat;
-    background-size: cover;
-  	animation: brush-01-blue .3s steps(14);
-    animation-fill-mode: forwards;
-  }
-}
-
 .home {
   h2 {
     font-family: $font-headings-home;
@@ -63,6 +31,12 @@ html[data-section-in-view="values"] #values h2 {
         border-bottom-color: transparentize($color-link, 0.4);
       }
     }
+  }
+  
+  h3 {
+    line-height: 1.2;
+    font-size: 1.4rem;
+    margin-bottom: 0.7rem;
   }
 
   .coming-soon {
