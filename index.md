@@ -24,10 +24,10 @@ Find me on [LinkedIn][linkedin], [Medium][medium], [Twitter][twitter], [Instagra
 * A custom-designed map, fed by custom locations;
 * A nice, fast filtered list, that updates without the whole page reloading. Like a staff directory, a long list of projects, or any type of directory;
 * Animations and some nice custom transitions when you get to a point in the page;
-* A custom audio player for a podcast, for some sample tunes or for sound bytes;
+* A custom audio player for a podcast, or for some sample tunes;
 * A data-backed infographic, pulling data from your a back-end;
 * A custom multi-step registration process, or;
-* A hand-styled form that prefills based on interactions on the page.
+* A hand-styled form that pre-fills based on interactions on the page.
 </div>
 
 I can make your component **work with your page builder of choice**, make it load via adding a custom shortcode, **built as an ACF Pro Flex module** or made to work as a block for the Gutenberg editor.
