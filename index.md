@@ -19,27 +19,28 @@ Find me on [LinkedIn][linkedin], [Medium][medium], [Twitter][twitter], [Instagra
 <div class="scroll-reveal" markdown="1" id="my-work">
 ## My work: <span class="sub-title">Custom Wordpress Component Developer for Web Agencies</span>
 
-**If you're a web agency** looking to win a design, and there's a **custom page component you'd like to have built**, I can help plan and build it.
+**If you're a web agency** looking to win a design, and there's a **custom page component you'd like to have built**, I can help you plan it and I can take charge of building a really nice one for your project.
 
-Example components you might be looking to have built:
+**Example components** you might be looking to have built:
 
-* A custom-designed map, fed by custom locations
-* A nice, fast filtered list, that updates without the whole page reloading. Like a staff directory, a long list of projects, or any type of directory.
-* Animations and some nice custom transitions when you get to a point in the page
-* A custom audio player to your site
-* A data-backed infographic, pulling data from your a backend
-* A custom multi-step process or a hand-styled form
+* A custom-designed map, fed by custom locations;
+* A nice, fast filtered list, that updates without the whole page reloading. Like a staff directory, a long list of projects, or any type of directory;
+* Animations and some nice custom transitions when you get to a point in the page;
+* A custom audio player for a podcast, for some sample tunes or for sound bytes;
+* A data-backed infographic, pulling data from your a back-end;
+* A custom multi-step registration process, or;
+* A hand-styled form that prefills based on interactions on the page.
 
-I can make your component work with your page builder of choice, implement shortcodes for inclusion, work as an ACF Pro Flex module, included as a block for the Gutenberg editor.
+I can make your component **work with your page builder of choice**, make it load via adding a custom shortcode, **built as an ACF Pro Flex module** or made to work as a block for the Gutenberg editor.
 
-I'll build you a fast-loading, responsive and adaptable component either using custom Vue.js, vanilla javascript when it does the job, or on top of existing Wordpress tools if that's more appropriate.
+I'll build you a **fast-loading, responsive and adaptable component** either using custom Vue.js, vanilla javascript when it does the job, or styling existing Wordpress plugins if that's more appropriate. It'll work with the right browsers and devices and for different connection speeds.
 
 **For a look into my work**, check out this [video on using Roots for Wordpress Development][roots-presentation], this [demo of using Vue.js with Turbolinks][vue-turbolinks-demo] or this [demo of using Stimulus with Turbolinks][stimulus-turbolinks-demo].
 
 [vue-turbolinks-demo]: https://pascallaliberte.github.io/vue-turbolinks-demo/
 [stimulus-turbolinks-demo]: https://pascallaliberte.github.io/stimulus-turbolinks-demo/
 
-[Drop me a note](mailto:pascal@pascallaliberte.me) if you'd like to chat about the nice design you'd like to get to.
+**[Drop me a note](mailto:pascal@pascallaliberte.me)** if you'd like to chat about the nice design you'd like to get to. Please include some details on the project, the type of component you're looking to have built, and some constraints like a rough deadline and the WordPress tools you plan on using. I'll reply with more questions and a link to my schedule for a first call.
 
 </div>
 
