@@ -5,7 +5,7 @@ layout: default
 ---
 
 *Hi, this is the site of*  
-**Pascal Laliberté**, a freelancer with some products, in Ottawa, ON
+**Pascal Laliberté**, Ottawa, ON
   
 Here's a link to [send me an email](mailto:pascal@pascallaliberte.me), or be sure to also [sign-up to get notified on new stuff I'm working on](#get-notified).
 {: .home-intro }
@@ -17,23 +17,40 @@ Find me on [LinkedIn][linkedin], [Medium][medium], [Twitter][twitter], [Instagra
 </div>
 
 <div class="scroll-reveal" markdown="1" id="my-work">
-## Services
+## My work: <span class="sub-title">Custom Wordpress Component Developer for Web Agencies</span>
 
-I offer services in:
+**If you're a web agency** looking to win a design, and there's a **custom page component you'd like to have built**, I can help plan and build it.
 
-* **Product Strategy** - Removing product hesitations using the Jobs-To-Be-Done Theory. Head on over to [Sharpen.page - A Product Sharpening Service][sharpen-page] to learn more.
-* **Software Development** - User Research, Software Writing and Interaction Design. Find me on [Github][github]. I can also help if [you've got an online store and you want to make it faster][bloopbloopshop].
-* **Personal Development** - Preparing your impact on changing a situation. Find out more at the [Change Anything Kit](/change-anything/) and [The Language of Objectives Course](/language-of-objectives).
+Example components you might be looking to have built:
 
-[Drop me a note](mailto:pascal@pascallaliberte.me) if you'd like to chat about what you're working on, or [get notified](#get-notified) when I have other products or services to announce.
+* A custom-designed map, fed by custom locations
+* A nice, fast filtered list, that updates without the whole page reloading. Like a staff directory, a long list of projects, or any type of directory.
+* Animations and some nice custom transitions when you get to a point in the page
+* A custom audio player to your site
+* A data-backed infographic, pulling data from your a backend
+* A custom multi-step process or a hand-styled form
+
+I can make your component work with your page builder of choice, implement shortcodes for inclusion, work as an ACF Pro Flex module, included as a block for the Gutenberg editor.
+
+I'll build you a fast-loading, responsive and adaptable component either using custom Vue.js, vanilla javascript when it does the job, or on top of existing Wordpress tools if that's more appropriate.
+
+**For a look into my work**, check out this [video on using Roots for Wordpress Development][roots-presentation], this [demo of using Vue.js with Turbolinks][vue-turbolinks-demo] or this [demo of using Stimulus with Turbolinks][stimulus-turbolinks-demo].
+
+[vue-turbolinks-demo]: https://pascallaliberte.github.io/vue-turbolinks-demo/
+[stimulus-turbolinks-demo]: https://pascallaliberte.github.io/stimulus-turbolinks-demo/
+
+[Drop me a note](mailto:pascal@pascallaliberte.me) if you'd like to chat about the nice design you'd like to get to.
 
 </div>
 
-<div class="scroll-reveal" markdown="1" id="my-work">
-## Products
+<div class="scroll-reveal" markdown="1" id="side-projects">
+## Products and Side Projects
 
 * **[Breather Planner][breather-planner]** - A monthly planner with space for notes. Way more monthly than your phone.
 * **[The Language of Objectives Course](/language-of-objectives)** - Be an ace at dealing with complex situations.
+* **[Sharpen.page - A Product Sharpening Service][sharpen-page]** - Removing product hesitations using the Jobs-To-Be-Done Theory.
+
+[Get notified](#get-notified) when I have other products or services to announce.
 
 </div>
 
