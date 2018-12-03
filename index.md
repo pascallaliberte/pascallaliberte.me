@@ -47,9 +47,9 @@ I'll build you a **fast-loading, responsive and adaptable component** either usi
 <div class="scroll-reveal" markdown="1" id="side-projects">
 ## Products and Side Projects
 
-* **[Breather Planner][breather-planner]** - A monthly planner with space for notes. Way more monthly than your phone.
+* **[Breather Planner][breather-planner]** - A 2019 monthly planner with space for notes. Way more monthly than your phone.
+* **[Sharpen.page - A Product Sharpening Service][sharpen-page]** - Removing product hesitations using the Jobs-To-Be-Done Theory. Currently writing articles and accepting small engagements.
 * **[The Language of Objectives Course](/language-of-objectives)** - Be an ace at dealing with complex situations.
-* **[Sharpen.page - A Product Sharpening Service][sharpen-page]** - Removing product hesitations using the Jobs-To-Be-Done Theory.
 
 [Get notified](#get-notified) when I have other products or services to announce.
 
@@ -80,6 +80,7 @@ My main areas of interest are:
 
 * **The *Jobs-To-Be-Done* theory**, which is on what causes people to purchase a product; Find out more at [Sharpen.page - A Product Sharpening Service][sharpen-page]
 * **Maturity in Leadership and _post-heroism_.** Great managers are rare, and the way to get there is to develop the ability to tame our ego and by detecting when we mental models affecting our judgement. Find out more at [The Change Anything Kit](/change-anything/)
+* **Writing software in a modest way.** By starting small and using the best of the modern approaches, we can write good software without playing the game every one else plays in the software industry.
 
 **When building products, I use these technologies:** For crafting web interfaces, I've been really liking [Stimulus (see a presentation I gave)][stimulusjs-presentation] and [Vue.js (see presentation about that one too)][vuejs-presentation]. When using Wordpress, I use the lovely [Roots kit (see presentation)][roots-presentation]. When the site I'm building is small or if I'm doing prototyping work, [Jekyll][jekyllrb] is my go-to static-site generator. When designing, I prefer building real UIs through code, and I use [Sketch][sketchapp] for mocking them up.
 </div>
