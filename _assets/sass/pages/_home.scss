@@ -94,7 +94,6 @@ html[data-section-in-view="values"] #values h2 {
   }
   ul {
     margin-bottom: 2em;
-    margin-left: 1rem;
   }
   li {
   }
@@ -112,6 +111,28 @@ html[data-section-in-view="values"] #values h2 {
       bottom: 0;
       left: 0;
       position: absolute;
+    }
+  }
+  
+  .home-component-examples {
+    background-color: transparentize($color-headings-home, 0.8);
+    margin: 1rem 0;
+    padding: 1rem 1.5rem;
+    border-radius: 0.3rem;
+    color: mix($color-headings-home, #000);
+    & > ul {
+      text-align: left;
+      margin: 0;
+      padding: 0;
+      & > li {
+        list-style: none;
+        border-bottom: 1px solid transparentize(mix($color-headings-home, #000), 0.8);
+        padding: 0.5rem 0;
+        line-height: 1.1;
+        &:last-of-type {
+          border-bottom: none;
+        }
+      }
     }
   }
 }

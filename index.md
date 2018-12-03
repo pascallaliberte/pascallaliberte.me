@@ -10,17 +10,15 @@ layout: default
 Here's a link to [send me an email](mailto:pascal@pascallaliberte.me), or be sure to also [sign-up to get notified on new stuff I'm working on](#get-notified).
 {: .home-intro }
 
-<div class="scroll-reveal" markdown="1" id="elsewhere">
 ## Elsewhere on the web
 
 Find me on [LinkedIn][linkedin], [Medium][medium], [Twitter][twitter], [Instagram][instagram], [YouTube][youtube], [Keybase][keybase] or [Github][github].
-</div>
 
-<div class="scroll-reveal" markdown="1" id="my-work">
 ## My work: <span class="sub-title">Custom Wordpress Component Developer for Web Agencies</span>
 
 **If you're a web agency** looking to win a design, and there's a **custom page component you'd like to have built**, I can help you plan it and I can take charge of building a really nice one for your project.
 
+<div class="home-component-examples" markdown="1">
 **Example components** you might be looking to have built:
 
 * A custom-designed map, fed by custom locations;
@@ -30,6 +28,7 @@ Find me on [LinkedIn][linkedin], [Medium][medium], [Twitter][twitter], [Instagra
 * A data-backed infographic, pulling data from your a back-end;
 * A custom multi-step registration process, or;
 * A hand-styled form that prefills based on interactions on the page.
+</div>
 
 I can make your component **work with your page builder of choice**, make it load via adding a custom shortcode, **built as an ACF Pro Flex module** or made to work as a block for the Gutenberg editor.
 
@@ -42,9 +41,6 @@ I'll build you a **fast-loading, responsive and adaptable component** either usi
 
 **[Drop me a note](mailto:pascal@pascallaliberte.me)** if you'd like to chat about the nice design you'd like to get to. Please include some details on the project, the type of component you're looking to have built, and some constraints like a rough deadline and the WordPress tools you plan on using. I'll reply with more questions and a link to my schedule for a first call.
 
-</div>
-
-<div class="scroll-reveal" markdown="1" id="side-projects">
 ## Products and Side Projects
 
 * **[Breather Planner][breather-planner]** - A 2019 monthly planner with space for notes. Way more monthly than your phone.
@@ -53,9 +49,6 @@ I'll build you a **fast-loading, responsive and adaptable component** either usi
 
 [Get notified](#get-notified) when I have other products or services to announce.
 
-</div>
-
-<div class="scroll-reveal" markdown="1" id="beliefs">
 ## Ideas
 
 * Design is best when done in tandem with the implementation. Knowing the limits of the material you work with makes for a better design.
@@ -66,14 +59,11 @@ I'll build you a **fast-loading, responsive and adaptable component** either usi
 * To-do lists are only a little helpful, because they're usually written as wish-for lists. I found that [writing have-done lists][havedone] to be the most helpful kind of list to write.
 {: .home-beliefs }
 
-</div>
-
 [postheroism]: https://medium.com/@pascallaliberte/the-urgency-of-post-heroism-11e7d920bf49
 [bridgeparadoxes]: http://by.pascallaliberte.me/2014-04-surviving-a-crisis-of-faith/
 [godeepineverything]: http://by.pascallaliberte.me/2014-12-go-deep-in-everything/
 [havedone]: http://by.pascallaliberte.me/2013-12-writing-objectives-you-will-accomplish/
 
-<div class="scroll-reveal" markdown="1" id="interests">
 ## Areas of interest
 
 My main areas of interest are:
@@ -83,7 +73,6 @@ My main areas of interest are:
 * **Writing software in a modest way.** By starting small and using the best of the modern approaches, we can write good software without playing the game every one else plays in the software industry.
 
 **When building products, I use these technologies:** For crafting web interfaces, I've been really liking [Stimulus (see a presentation I gave)][stimulusjs-presentation] and [Vue.js (see presentation about that one too)][vuejs-presentation]. When using Wordpress, I use the lovely [Roots kit (see presentation)][roots-presentation]. When the site I'm building is small or if I'm doing prototyping work, [Jekyll][jekyllrb] is my go-to static-site generator. When designing, I prefer building real UIs through code, and I use [Sketch][sketchapp] for mocking them up.
-</div>
 
 [roots-presentation]: https://www.youtube.com/watch?v=c25nvDkblSQ&lc=z123zx3xcozsehkwc04cg1ujxxroyrgp5q40k
 [stimulusjs-presentation]: https://www.youtube.com/watch?v=UucTtozapTE
@@ -92,7 +81,6 @@ My main areas of interest are:
 [jekyllrb]: https://jekyllrb.com/
 [sketchapp]: https://sketchapp.com/
 
-<div class="scroll-reveal" markdown="1" id="values">
 ## What I value most
 
 * **I value being <mark>intentional and thorough,</mark> getting to the bottom of things and doing the right thing.** Going deep brings joy.
@@ -100,9 +88,7 @@ My main areas of interest are:
 * **In relationships, I value <mark>authenticity, complicity,</mark> openness and truth.** Open up. It's scary but it matters. 
 * **And I value <mark>improving myself</mark> and making a good environment for others to grow in.** Stepping on some toes? Better to step on your own first.
 {: .home-values }
-</div>
 
-<div class="scroll-reveal" markdown="1" id="christianity">
 ## [A blog on modern Christianity][faithblog]
 
 In this care for growth and relationships and depth, I continue to be drawn to Christianity. Although deeply skeptical, I joyfully believe. Learning to bridge modernity and faith has been good for me, and so I write a blog on [Leading a modern life while living the Gospel][faithblog], sharing the ways for achieving both, fully. Let's grow towards more maturity, and to a more subtle faith.
@@ -138,9 +124,6 @@ Hope they help.
 [taskmator]: https://itunes.apple.com/ca/app/taskmator-taskpaper-client/id806250172?mt=8
 [taskpaper]: https://www.taskpaper.com
 [theme-notes-first]: https://github.com/pascallaliberte/theme-notes-first
-</div>
-
-<div class="scroll-reveal" markdown="1">
 
 ## Thanks for reading
 
@@ -161,4 +144,3 @@ Hope they help.
 [change-anything]: /change-anything/
 [sharpen-page]: https://sharpen.page
 [aelf]: https://www.aelf.org
-</div>

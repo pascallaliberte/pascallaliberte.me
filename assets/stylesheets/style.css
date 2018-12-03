@@ -393,8 +393,7 @@ html[data-section-in-view="values"] #values h2 {
   margin-bottom: 2em;
   margin-left: 2rem; }
 .home ul {
-  margin-bottom: 2em;
-  margin-left: 1rem; }
+  margin-bottom: 2em; }
 .home .home-intro {
   margin-top: 1em;
   margin-bottom: 0;
@@ -408,6 +407,23 @@ html[data-section-in-view="values"] #values h2 {
     bottom: 0;
     left: 0;
     position: absolute; }
+.home .home-component-examples {
+  background-color: rgba(112, 138, 159, 0.2);
+  margin: 1rem 0;
+  padding: 1rem 1.5rem;
+  border-radius: 0.3rem;
+  color: #384550; }
+  .home .home-component-examples > ul {
+    text-align: left;
+    margin: 0;
+    padding: 0; }
+    .home .home-component-examples > ul > li {
+      list-style: none;
+      border-bottom: 1px solid rgba(56, 69, 80, 0.2);
+      padding: 0.5rem 0;
+      line-height: 1.1; }
+      .home .home-component-examples > ul > li:last-of-type {
+        border-bottom: none; }
 
 .home .home-beliefs {
   margin-left: 0;
