@@ -343,7 +343,9 @@ body #mc_embed_signup {
 .home h3 {
   line-height: 1.2;
   font-size: 1.4rem;
-  margin-bottom: 0.7rem; }
+  margin-bottom: 0.7rem;
+  color: #708A9F;
+  margin-top: 3rem; }
 .home .coming-soon {
   display: inline-block;
   font-size: 0.5em;
@@ -387,6 +389,8 @@ body #mc_embed_signup {
   padding: 1rem 1.5rem;
   border-radius: 0.3rem;
   color: #384550; }
+  .home .home-component-examples h3 {
+    margin-top: 0; }
   .home .home-component-examples mark {
     font-style: normal;
     background-color: rgba(112, 138, 159, 0.6);

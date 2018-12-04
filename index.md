@@ -31,14 +31,22 @@ Find me on [LinkedIn][linkedin], [Medium][medium], [Twitter][twitter], [Instagra
 * A hand-styled <mark>form</mark> that pre-fills based on interactions on the page
 </div>
 
+### It Will Work With Your Site
+
 I can make your component **work with your page builder of choice**, make it load via adding a custom shortcode, **built as an ACF Pro Flex module** or made to work as a block for the Gutenberg editor.
 
+### It Will Be Classy
+
 I'll build you a **fast-loading, responsive and adaptable component** either using custom Vue.js, vanilla javascript when it does the job, or styling existing Wordpress plugins if that's more appropriate. It'll work with the right browsers and devices and for different connection speeds.
+
+### See my style
 
 **For a look into my work**, check out this [video on using Roots for Wordpress Development][roots-presentation], this [demo of using Vue.js with Turbolinks][vue-turbolinks-demo] or this [demo of using Stimulus with Turbolinks][stimulus-turbolinks-demo].
 
 [vue-turbolinks-demo]: https://pascallaliberte.github.io/vue-turbolinks-demo/
 [stimulus-turbolinks-demo]: https://pascallaliberte.github.io/stimulus-turbolinks-demo/
+
+### To go forward...
 
 **[Drop me a note](mailto:pascal@pascallaliberte.me)** if you'd like to chat about the nice design you'd like to get to. Please include some details on the project, the type of component you're looking to have built, and some constraints like a rough deadline and the WordPress tools you plan on using. I'll reply with more questions and a link to my schedule for a first call.
 

@@ -37,6 +37,8 @@ $font-headings-home: "freight-sans-condensed-pro", Helvetica, Arial, sans-serif;
     line-height: 1.2;
     font-size: 1.4rem;
     margin-bottom: 0.7rem;
+    color: $color-headings-home;
+    margin-top: 3rem;
   }
 
   .coming-soon {
@@ -94,6 +96,9 @@ $font-headings-home: "freight-sans-condensed-pro", Helvetica, Arial, sans-serif;
     padding: 1rem 1.5rem;
     border-radius: 0.3rem;
     color: mix($color-headings-home, #000);
+    h3 {
+      margin-top: 0;
+    }
     mark {
       font-style: normal;
       background-color: transparentize($color-headings-home, 0.4);
