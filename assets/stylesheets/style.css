@@ -387,6 +387,12 @@ body #mc_embed_signup {
   padding: 1rem 1.5rem;
   border-radius: 0.3rem;
   color: #384550; }
+  .home .home-component-examples mark {
+    font-style: normal;
+    background-color: rgba(112, 138, 159, 0.6);
+    padding: 0 0.3rem;
+    font-weight: bold;
+    color: white; }
   .home .home-component-examples > ul {
     text-align: left;
     margin: 0;

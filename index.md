@@ -21,13 +21,14 @@ Find me on [LinkedIn][linkedin], [Medium][medium], [Twitter][twitter], [Instagra
 <div class="home-component-examples" markdown="1">
 ### Example components you might be looking to have built for your WordPress site:
 
-* A custom-designed map, fed by custom locations;
-* A nice, fast filtered list, that updates without the whole page reloading. Like a staff directory, a long list of projects, or any type of directory;
-* Animations and some nice custom transitions when you get to a point in the page;
-* A custom audio player for a podcast, or for some sample tunes;
-* A data-backed infographic, pulling data from your a back-end;
-* A custom multi-step registration process, or;
-* A hand-styled form that pre-fills based on interactions on the page.
+* A custom-designed <mark>map</mark>, fed by custom locations;
+* A nice, fast, <mark>filtered list</mark>, that updates without the whole page reloading. Like a staff directory, a long list of projects, or any type of directory;
+* A particular section of the page with some nice custom <mark>animations</mark> when you get to it when scrolling the page;
+* An embedded <mark>video</mark> that plays in the background;
+* A custom <mark>audio player</mark> for a podcast, or for some sample tunes;
+* A live data-fed <mark>infographic</mark>, pulling data from your a back-end;
+* A custom multi-step <mark>registration process</mark>, or;
+* A hand-styled <mark>form</mark> that pre-fills based on interactions on the page
 </div>
 
 I can make your component **work with your page builder of choice**, make it load via adding a custom shortcode, **built as an ACF Pro Flex module** or made to work as a block for the Gutenberg editor.
