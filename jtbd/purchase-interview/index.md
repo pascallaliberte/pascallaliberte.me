@@ -24,4 +24,4 @@ Does your purchase match every point in the checklist? Can I call you to ask you
 
 If so, please select a time where you're available for a call and I'll call you. Super grateful.
 
-<script src="https://d35xd5ovpwtfyi.cloudfront.net/loader/loader.min.js" async="" defer=""></script><img src="https://d35xd5ovpwtfyi.cloudfront.net/loader/buttons/2ECC71.png" data-appointlet-organization="pascallaliberte" data-appointlet-service="40204" data-appointlet-bookable="23471">
+[Book a time](https://when.works/invitations/5c186691c75340001448801e){: .btn }
