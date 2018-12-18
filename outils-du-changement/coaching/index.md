@@ -38,10 +38,10 @@ J'offre des consultations gratuites et payantes, dépendant de ma disponibilité
 </div>
 
 <div class="right" markdown="1">
-[**Choisissez une date gratuire**](https://pascallaliberte.appointlet.com/s/coaching-call-free)  
+[**Choisissez une date gratuire**](https://when.works/invitations/5c186982c75340001448a430)  
 Quelques semaines de préavis
 
-[**Choisissez une date payante, 89$ + taxes**](https://pascallaliberte.appointlet.com/s/coaching-call)  
+[**Choisissez une date payante, 89$ + taxes**](https://when.works/invitations/5c186b40c75340001448dc66)  
 Environ une journée de préavis
 </div>
 </div>
@@ -84,10 +84,10 @@ Si ça peut vous être utile, voici ma propre approche pour aborder des situatio
 </div>
 
 <div class="right" markdown="1">
-[**Choisissez une date gratuire**](https://pascallaliberte.appointlet.com/s/coaching-call-free)  
+[**Choisissez une date gratuire**](https://when.works/invitations/5c186982c75340001448a430)  
 Quelques semaines de préavis
 
-[**Choisissez une date payante, 89$ + taxes**](https://pascallaliberte.appointlet.com/s/coaching-call)  
+[**Choisissez une date payante, 89$ + taxes**](https://when.works/invitations/5c186b40c75340001448dc66)  
 Environ une journée de préavis
 </div>
 </div>

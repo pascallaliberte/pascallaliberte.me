@@ -38,10 +38,10 @@ At the end of this **45-minute call**, you'll have:
 </div>
 
 <div class="right" markdown="1">
-[**Schedule a Free Call**](https://pascallaliberte.appointlet.com/s/coaching-call-free)  
+[**Schedule a Free Call**](https://when.works/invitations/5c186982c75340001448a430)  
 A couple week's notice
 
-[**Schedule a Paid Call, $89 + taxes**](https://pascallaliberte.appointlet.com/s/coaching-call)  
+[**Schedule a Paid Call, $89 + taxes**](https://when.works/invitations/5c186b40c75340001448dc66)  
 About a day's notice
 </div>
 </div>
@@ -84,10 +84,10 @@ At the end of this **45-minute call**, you'll have:
 </div>
 
 <div class="right" markdown="1">
-[**Schedule a Free Call**](https://pascallaliberte.appointlet.com/s/coaching-call-free)  
+[**Schedule a Free Call**](https://when.works/invitations/5c186982c75340001448a430)  
 A couple week's notice
 
-[**Schedule a Paid Call, $89 + taxes**](https://pascallaliberte.appointlet.com/s/coaching-call)  
+[**Schedule a Paid Call, $89 + taxes**](https://when.works/invitations/5c186b40c75340001448dc66)  
 About a day's notice
 </div>
 </div>
