@@ -24,4 +24,4 @@ Does your purchase match every point in the checklist? Can I call you to ask you
 
 If so, please select a time where you're available for a call and I'll call you. Super grateful.
 
-[Book a time](https://when.works/invitations/5c186691c75340001448801e){: .btn }
+[Book a time](https://when.works/invitations/5c186691c75340001448801e){: .button }
