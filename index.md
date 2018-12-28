@@ -7,48 +7,16 @@ layout: default
 *Hi, this is the site of*  
 **Pascal Laliberté**, Ottawa, ON
   
-Here's a link to [send me an email](mailto:pascal@pascallaliberte.me), or be sure to also [sign-up to get notified on new stuff I'm working on](#get-notified).
+Here's a link to [send me an email](mailto:pascal@pascallaliberte.me), or be sure to also [sign-up to get notified on new stuff I'm working on](#get-notified).  
+Find me on [LinkedIn][linkedin], [Medium][medium], [Twitter][twitter], [YouTube][youtube], [Keybase][keybase] or [Github][github].
 {: .home-intro }
 
-## Elsewhere on the web
 
-Find me on [LinkedIn][linkedin], [Medium][medium], [Twitter][twitter], [Instagram][instagram], [YouTube][youtube], [Keybase][keybase] or [Github][github].
+## My work: <span class="sub-title">I help you build great designs</span>
 
-## My work: <span class="sub-title">Custom Wordpress Component Developer for Web Agencies</span>
+* **[Custom WordPress Component Developer for Web Agencies][wp-developer]**: If you're a web agency looking to win a design, and there's a **custom page component you'd like to have built for a WordPress site** that requires sweating the details, [I can help][wp-developer].
 
-**If you're a web agency** looking to win a design, and there's a **custom page component you'd like to have built for a WordPress site**, I can help you plan it and I can take charge of building a really nice one for your project.
-
-<div class="home-component-examples" markdown="1">
-### Example components you might be looking to have built for your WordPress site:
-
-* A custom-designed <mark>map</mark>, fed by custom locations;
-* A nice, fast, <mark>filtered list</mark>, that updates without the whole page reloading. Like a staff directory, a long list of projects, or any type of directory;
-* A particular section of the page with some nice custom <mark>animations</mark> when you get to it when scrolling the page;
-* An embedded <mark>video</mark> that plays in the background;
-* A custom <mark>audio player</mark> for a podcast, or for some sample tunes;
-* A live data-fed <mark>infographic</mark>, pulling data from your a back-end;
-* A custom multi-step <mark>registration process</mark>, or;
-* A hand-styled <mark>form</mark> that pre-fills based on interactions on the page
-</div>
-
-### It Will Work With Your Site
-
-I can make your component **work with your page builder of choice**, make it load via adding a custom shortcode, **built as an ACF Pro Flex module** or made to work as a block for the Gutenberg editor.
-
-### It Will Be Classy
-
-I'll build you a **fast-loading, responsive and adaptable component** either using custom Vue.js, vanilla javascript when it does the job, or styling existing Wordpress plugins if that's more appropriate. It'll work with the right browsers and devices and for different connection speeds.
-
-### See my style
-
-**For a look into my work**, check out this [video on using Roots for Wordpress Development][roots-presentation], this [demo of using Vue.js with Turbolinks][vue-turbolinks-demo] or this [demo of using Stimulus with Turbolinks][stimulus-turbolinks-demo].
-
-[vue-turbolinks-demo]: https://pascallaliberte.github.io/vue-turbolinks-demo/
-[stimulus-turbolinks-demo]: https://pascallaliberte.github.io/stimulus-turbolinks-demo/
-
-### To go forward...
-
-**[Drop me a note](mailto:pascal@pascallaliberte.me)** if you'd like to chat about the nice design you'd like to get to. Please include some details on the project, the type of component you're looking to have built, and some constraints like a rough deadline and the WordPress tools you plan on using. I'll reply with more questions and a link to my schedule for a first call.
+[wp-developer]: https://wp-developer.pascallaliberte.me
 
 ## Products and Side Projects
 
