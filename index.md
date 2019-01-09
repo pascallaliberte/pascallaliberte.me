@@ -29,11 +29,12 @@ Find me on [LinkedIn][linkedin], [Medium][medium], [Twitter][twitter], [YouTube]
 ## Ideas
 
 * Design is best when done in tandem with the implementation. Knowing the limits of the material you work with makes for a better design.
-* There's a particular urgency to [surpass ourselves and to become mature about our choices][postheroism], so that we know how to handle the fast pace of life.
+* There's a particular urgency to [surpass ourselves and to part with our ego][postheroism], so that we know how to construct things rather than just react to things.
 * Most times when we hit an either/or mindset, there's usually a third way.
 * We're complicated people, and we're full of paradoxes. Learning to [bridge those paradoxes helps us be better with others][bridgeparadoxes].
 * There's a way to [achieve multiple things at once][godeepineverything], so long as you ruthlessly put things in the right order. That way, the first thing will feed into the second one and into the third, and all the way down, letting you achieve them all.
 * To-do lists are only a little helpful, because they're usually written as wish-for lists. I found that [writing have-done lists][havedone] to be the most helpful kind of list to write.
+* Constraints are something to welcome. Annoyed? That points to something important. Afraid? That's an even better sign you're on the right track.
 {: .home-beliefs }
 
 [postheroism]: https://medium.com/@pascallaliberte/the-urgency-of-post-heroism-11e7d920bf49
