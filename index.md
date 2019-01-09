@@ -46,8 +46,10 @@ Find me on [LinkedIn][linkedin], [Medium][medium], [Twitter][twitter], [YouTube]
 My main areas of interest are:
 
 * **The *Jobs-To-Be-Done* theory**, which is on what causes people to purchase a product; Find out more at [Sharpen.page - A Product Sharpening Service][sharpen-page]
-* **Maturity in Leadership and _post-heroism_.** Great managers are rare, and the way to get there is to develop the ability to tame our ego and by detecting when we mental models affecting our judgement. Find out more at [The Change Anything Kit](/change-anything/)
-* **Writing software in a modest way.** By starting small and using the best of the modern approaches, we can write good software without playing the game every one else plays in the software industry.
+* **Maturity in Leadership and _post-heroism_.** Great managers are rare, and the way to get there is to develop the ability to tame our ego and by detecting when we have mental models affecting our judgement. Find out more at [The Change Anything Kit](/change-anything/)
+* **Writing software in a modest way.** By starting small and using the best of the modern approaches, we can write good software without playing the game every one else plays in the software industry. I'm writing a short book about it called [Modest JS Works][modestjs]
+
+[modestjs]: https://modestjs.works/
 
 **When building products, I use these technologies:** For crafting web interfaces, I've been really liking [Stimulus (see a presentation I gave)][stimulusjs-presentation] and [Vue.js (see presentation about that one too)][vuejs-presentation]. When using Wordpress, I use the lovely [Roots kit (see presentation)][roots-presentation]. When the site I'm building is small or if I'm doing prototyping work, [Jekyll][jekyllrb] is my go-to static-site generator. When designing, I prefer building real UIs through code, and I use [Sketch][sketchapp] for mocking them up.
 
@@ -83,7 +85,6 @@ Here are a few articles from the blog:
 *[Subscribe to get notified of new articles](http://by.pascallaliberte.me/subscribe-follow/)*
 
 *Lecteurs français: le blogue est également disponible en français. De plus, j'ai créé le site **[lectures.page][lectures]**, offrant les lectures du dimanche qui vient du missel romain (textes de l'[AELF][aelf]), utile pour une lecture personnelle ou pour des partages bibliques de groupe.*
-</div>
 
 <div class="scroll-reveal" markdown="1" id="questions">
 ## In closing, <span class="sub-title">two questions I think are helpful</span>
