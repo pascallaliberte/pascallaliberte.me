@@ -26,14 +26,17 @@ by [Pascal Laliberté](/)
 <div class="intro" markdown="1">
 **A 10-week course on a mental reprogramming technique called _have-done lists_ so you can focus on your life's bigger priorities. It'll be like learning a new (meta) language. You're in for some breakthroughs.**
 
-{% if site.course.allow_signups %}
-Join the group that starts on {{ site.course.starts }}. The deadline to signup is Monday {{ site.course.deadline }}.
+{% if site.course.starts != "" %}
+  {% if site.course.allow_signups %}
+  Join the group that starts on {{ site.course.starts }}. The deadline to signup is Monday {{ site.course.deadline }}.
+  [Sign up now](#get-started) or check below for more details...
+  {% else %}
+  The next group is scheduled to start on {{ site.course.starts }}.
 
-[Sign up now](#get-started) or check below for more details...
+  [Be notified when sign-ups are open for the {{ site.course.starts }} group](#get-started) or check below for more details...
+  {% endif %}
 {% else %}
-The next group is scheduled to start on {{ site.course.starts }}.
-
-[Be notified when sign-ups are open for the {{ site.course.starts }} group](#get-started) or check below for more details...
+  [Be notified when the course is next offered](#get-started) or check below for more details...
 {% endif %}
 
 </div>
@@ -131,7 +134,7 @@ Or maybe your situation needs to change in deeper ways.
 
 ## Structure of the course
 
-The course will run over 10 weeks, starting on {{ site.course.starts }}.
+The course will run over 10 weeks{% if site.course.starts != "" %}, starting on {{ site.course.starts }}{% endif %}.
 
 **Every week, you'll receive an email** with an example situation (we'll pretend you're the person in the situation). We'll use _have-done lists_ to help write some objectives to get progress on that example situation. Here's an example [article which resembles how an example will be delivered](https://medium.com/@pascallaliberte/install-those-resolutions-962f7b52ac3b#.fwjhfv7px) in your email.
 
@@ -139,14 +142,16 @@ Week after week, example by example, you'll **unlearn what leads to the same res
 
 Also, with each email, I'll encourage you to share your objectives with me so I can give you feedback. Just reply back to share your own list, and I'll help you by **giving you quick ideas and suggestions to improve the way your objectives are written**.
 
-{% if site.course.allow_signups %}
-For the {{ site.course.starts }} course, I'll only take {{ site.course.limit }} people who I think I can most help, so be sure to apply before the deadline, Monday {{ site.course.deadline }}.
+{% if site.course.starts != "" %}
+  {% if site.course.allow_signups %}
+  For the {{ site.course.starts }} course, I'll only take {{ site.course.limit }} people who I think I can most help, so be sure to apply before the deadline, Monday {{ site.course.deadline }}.
 
-[Sign up before {{ site.course.deadline }} to be part of the course](#get-started){: .sign-up-link }
-{: .sign-up-link-wrapper }
-{% else %}
-[Be notified when sign-ups are open for the {{ site.course.starts }} group](#get-started){: .sign-up-link }
-{: .sign-up-link-wrapper }
+  [Sign up before {{ site.course.deadline }} to be part of the course](#get-started){: .sign-up-link }
+  {: .sign-up-link-wrapper }
+  {% else %}
+  [Be notified when sign-ups are open for the {{ site.course.starts }} group](#get-started){: .sign-up-link }
+  {: .sign-up-link-wrapper }
+  {% endif %}
 {% endif %}
 
 ***
@@ -179,15 +184,20 @@ For the {{ site.course.starts }} course, I'll only take {{ site.course.limit }} 
 
 ***
 
-{% if site.course.allow_signups %}
-## Sign up before {{ site.course.deadline }} to get started
-{: #get-started }
+{% if site.course.starts != "" %}
+  {% if site.course.allow_signups %}
+  ## Sign up before {{ site.course.deadline }} to get started
+  {: #get-started }
+  {% else %}
+  ## Be notified when sign-ups are open for the {{ site.course.starts }} group
+  {: #get-started }
+  {% endif %}
 {% else %}
-## Be notified when sign-ups are open for the {{ site.course.starts }} group
+## Be notified when the course if next offered
 {: #get-started }
 {% endif %}
 
-{% if site.course.allow_signups %}
+{% if site.course.allow_signups and site.course.starts != "" %}
 ### How it will work
 {: .get-started-heading }
 

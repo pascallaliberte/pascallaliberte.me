@@ -14,7 +14,7 @@ og:
 
 [decouvrir]: ../decouvrir/
 [coaching]: ../coaching/
-[course]: /language-of-objectives/
+[course]: /language-of-objectives/#get-started
 
 <div class="clearfix margin-top kit-options" markdown="1">
 <div class="left active" markdown="1">
@@ -87,7 +87,7 @@ Les modèles mentaux, c'est comme des lentilles teintées
 
 ## Pour aller en profondeur, j'offre aussi un cours
 
-[The Language of Objectives][course] est un cours d'une durée de 10 semaines (offert en anglais pour le moment) portant sur les listes _have-done_. À chaque semaine, vous recevrez un courriel avec un exemple d'une situation améliorée par l'utilisation des listes _have-done_. Obtenez également du coaching via courriel sur les listes que vous composez. **Avant la moitié du cours, en y mettant l'effort, vous obtiendrez un progrès surprenant dans un de vos centres d'intérêt.** Le cours débutera le [{{ site.course.starts_fr }}][course].
+[The Language of Objectives][course] est un cours d'une durée de 10 semaines (offert en anglais pour le moment) portant sur les listes _have-done_. À chaque semaine, vous recevrez un courriel avec un exemple d'une situation améliorée par l'utilisation des listes _have-done_. Obtenez également du coaching via courriel sur les listes que vous composez. **Avant la moitié du cours, en y mettant l'effort, vous obtiendrez un progrès surprenant dans un de vos centres d'intérêt.** {% if site.course.starts != "" %}Le cours débutera le [{{ site.course.starts_fr }}][course]{% else %}[Abonnez-vous pour qu'on vous avise la prochaine fois que le cours sera offert][course]{% endif %}.
 
 ## Ou commencez avec ce que vous savez déjà
 
