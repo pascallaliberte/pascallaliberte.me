@@ -22,7 +22,6 @@ Find me on [LinkedIn][linkedin], [Medium][medium], [Twitter][twitter], [YouTube]
 
 * **[Breather Planner][breather-planner]** - A 2019 monthly planner with space for notes. Way more monthly than your phone.
 * **[Sharpen.page - A Product Sharpening Service][sharpen-page]** - Removing product hesitations using the Jobs-To-Be-Done Theory. Currently writing articles and accepting small engagements.
-* **[The Language of Objectives Course](/language-of-objectives)** - Be an ace at dealing with complex situations.
 
 [Get notified](#get-notified) when I have other products or services to announce.
 
