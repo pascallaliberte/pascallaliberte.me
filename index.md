@@ -12,16 +12,12 @@ Find me on [LinkedIn][linkedin], [Medium][medium], [Twitter][twitter], [YouTube]
 {: .home-intro }
 
 
-## My work: <span class="sub-title">I help you build great designs</span>
+## My work: <span class="sub-title">Helping you build your designs, research your buyers</span>
 
 * **[Custom WordPress Component Developer for Web Agencies][wp-developer]**: If you're a web agency looking to win a design, and there's a **custom page component you'd like to have built for a WordPress site** that requires sweating the details, [I can help][wp-developer].
+* **[Sharpen.page - A Product Sharpening Service][sharpen-page]** - Removing product hesitations using the Jobs-To-Be-Done Theory, by conducting Buyer Interviews, helping you with copywriting tweaks.
 
 [wp-developer]: https://wp-developer.pascallaliberte.me
-
-## Products and Side Projects
-
-* **[Breather Planner][breather-planner]** - A 2019 monthly planner with space for notes. Way more monthly than your phone.
-* **[Sharpen.page - A Product Sharpening Service][sharpen-page]** - Removing product hesitations using the Jobs-To-Be-Done Theory. Currently writing articles and accepting small engagements.
 
 [Get notified](#get-notified) when I have other products or services to announce.
 
