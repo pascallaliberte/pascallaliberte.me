@@ -12,14 +12,14 @@ Find me on [LinkedIn][linkedin], [Medium][medium], [Twitter][twitter], [YouTube]
 {: .home-intro }
 
 
-## My work: <span class="sub-title">Helping you build your designs, research your buyers</span>
+## My work
 
-* **[Custom WordPress Component Developer for Web Agencies][wp-developer]**: If you're a web agency looking to win a design, and there's a **custom page component you'd like to have built for a WordPress site** that requires sweating the details, [I can help][wp-developer].
-* **[Sharpen.page - A Product Sharpening Service][sharpen-page]** - Removing product hesitations using the Jobs-To-Be-Done Theory, by conducting Buyer Interviews, helping you with copywriting tweaks.
+**[Product Sharpening][sharpen-page]** - Helping modest online products and services businesses (like your freelance practice) with situations like these:
 
-[wp-developer]: https://wp-developer.pascallaliberte.me
+* "I've just realized that the page describing my product doesn't do it justice. It focuses too much on the benefits. I know I can make it communicate more sharply the problem it can help solve for my customers. I'm just way too busy."
+* "I've hit a growing niche with my specialty as a freelancer. I'm starting to get attention, and if I keep presenting my services in a generic way, I'm going to miss out attracting the kinds of clients that are looking for help for the specific situations I want to help with."
 
-[Get notified](#get-notified) when I have other products or services to announce.
+[I also publish articles every Friday][sharp-articles] to help you sharpen your own products and services.
 
 ## Ideas
 
@@ -117,4 +117,5 @@ Hope they help.
 [breather-planner]: https://breatherplanner.com
 [change-anything]: /change-anything/
 [sharpen-page]: https://sharpen.page
+[sharp-articles]: https://sharpen.page/articles
 [aelf]: https://www.aelf.org
