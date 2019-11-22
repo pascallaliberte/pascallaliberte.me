@@ -43,7 +43,7 @@ My main areas of interest are:
 
 * **The *Jobs-To-Be-Done* theory**, which is on what causes people to purchase a product; Find out more at [Sharpen.page - A Product Sharpening Service][sharpen-page]
 * **Maturity in Leadership and _post-heroism_.** Great managers are rare, and the way to get there is to develop the ability to tame our ego and by detecting when we have mental models affecting our judgement. Find out more at [The Change Anything Kit](/change-anything/)
-* **Writing software in a modest way.** By starting small and using the best of the modern approaches, we can write good software without playing the game every one else plays in the software industry. I'm writing a short book about it called [Modest JS Works][modestjs]
+* **Writing software in a modest way.** By starting small and using the best of the modern approaches, we can write good software without playing the game every one else plays in the software industry. I wrote a short book about it called [Modest JS Works][modestjs]
 
 [modestjs]: https://modestjs.works/
 
