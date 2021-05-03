@@ -12,7 +12,9 @@ Find me on [Twitter][twitter], [LinkedIn][linkedin], [YouTube][youtube] or [Gith
 
 ## My work
 
-I do freelance web development. Mostly Rails and [modest JavaScript][modestjs].
+I do freelance web development. Mostly Rails and [modest JavaScript][modestjs]. Mostly word-of-mouth.
+
+[Request to contact a former client for referral](mailto:pascal@hey.com?subject=Your%20former%20clients).
 
 ## Ideas
 
