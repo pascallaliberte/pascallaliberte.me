@@ -16,6 +16,11 @@ I do freelance web development. Mostly Rails and [modest JavaScript][modestjs]. 
 
 [Request to contact a former client for referral](mailto:pascal@hey.com?subject=Your%20former%20clients).
 
+## Stream Schedule
+
+* **Tuesdays at 3:30pm Eastern:**<br>Join me [on YouTube Live while I practice getting good at Rails](https://www.youtube.com/channel/UCo2CttXwSgcaEmrTsALqS-A/live).
+* **Thursdays at 11am Eastern:**<br>Join me [on Twitch while I craft some landing pages][twitch] and talk product strategy. [Learn more at sharpen.page](https://sharpen.page/stream/)
+
 ## Ideas
 
 * Design is best when done in tandem with the implementation. Knowing the limits of the material you work with makes for a better design.
