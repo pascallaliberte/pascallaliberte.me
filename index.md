@@ -7,7 +7,7 @@ layout: default
 **Pascal Laliberté**, Ottawa, ON  
 [pascal@hey.com](mailto:pascal@hey.com)
   
-Find me on [Twitter][twitter], [LinkedIn][linkedin], [YouTube][youtube], [Twitch][twitch] or [Github][github].
+Find me on [Twitter][twitter], [Twitch][twitch], [YouTube][youtube], [LinkedIn][linkedin] or [Github][github].
 {: .home-intro }
 
 ## My work
