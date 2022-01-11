@@ -7,7 +7,7 @@ layout: default
 **Pascal Laliberté**, Ottawa, ON  
 [pascal@hey.com](mailto:pascal@hey.com)
   
-Find me on [Twitter][twitter], [LinkedIn][linkedin], [YouTube][youtube] or [Github][github].
+Find me on [Twitter][twitter], [LinkedIn][linkedin], [YouTube][youtube], [Twitch][twitch] or [Github][github].
 {: .home-intro }
 
 ## My work
@@ -102,6 +102,7 @@ Hope they help.
 [twitter]: https://twitter.com/pascallaliberte
 [github]: https://github.com/pascallaliberte/
 [youtube]: https://www.youtube.com/channel/UCo2CttXwSgcaEmrTsALqS-A
+[twitch]: https://www.twitch.tv/pascallaliberte
 [lectures]: https://lectures.page
 [change-anything]: /change-anything/
 [sharpen-page]: https://sharpen.page
