@@ -16,6 +16,8 @@ I do freelance web development. Mostly Rails and [modest JavaScript][modestjs]. 
 
 [Request to contact a former client for referral](mailto:pascal@hey.com?subject=Your%20former%20clients).
 
+**Got a Stimulus JS problem today?** [I also offer a consulting service for help with Stimulus JS](https://stimulus.pascal.works/) (a tech that's part of [Hotwire](https://hotwired.dev)). Get my part-time availability over two days using async video+text.
+
 ## Stream Schedule
 
 * **Tuesdays at 3:30pm Eastern:**<br>Join me [on YouTube Live while I practice getting good at Rails](https://www.youtube.com/channel/UCo2CttXwSgcaEmrTsALqS-A/live).
