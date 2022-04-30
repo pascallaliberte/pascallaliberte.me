@@ -18,10 +18,13 @@ I do freelance web development. Mostly Rails and [modest JavaScript][modestjs]. 
 
 **Got a Stimulus JS problem today?** [I also offer a consulting service for help with Stimulus JS](https://stimulus.pascal.works/) (a tech that's part of [Hotwire](https://hotwired.dev)). Get my part-time availability over two days using async video+text.
 
-## Stream Schedule
+## Read Books With Me
 
-* **Tuesdays at 3:30pm Eastern:**<br>Join me [on YouTube Live while I practice getting good at Rails](https://www.youtube.com/channel/UCo2CttXwSgcaEmrTsALqS-A/live).
-* **Thursdays at 11am Eastern:**<br>Join me [on Twitch while I craft some landing pages][twitch] and talk product strategy. [Learn more at sharpen.page](https://sharpen.page/stream/)
+I'm currently reading these books and [recording my notes on ReadWith][readwith], an app I'm working on:
+
+* [_The Practice_ by Seth Godin](https://seths.blog/trust-yourself/). [Here's one of my notes](https://readwith.club/pascallaliberte/the-practice/).
+
+What books are you reading? [Give me a shout on Twitter](https://twitter.com/pascallaliberte/status/1518628939417239558).
 
 ## Ideas
 
@@ -114,3 +117,4 @@ Hope they help.
 [change-anything]: /change-anything/
 [sharpen-page]: https://sharpen.page
 [aelf]: https://www.aelf.org
+[readwith]: https://readwith.club/
