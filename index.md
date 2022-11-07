@@ -7,7 +7,7 @@ layout: default
 **Pascal Laliberté**, Ottawa, ON  
 [pascal@hey.com](mailto:pascal@hey.com)
   
-Find me on [Twitter][twitter], [Twitch][twitch], [YouTube][youtube], [LinkedIn][linkedin] or [Github][github].
+Find me on [Twitter][twitter], [Mastodon][mastodon]{: rel="me" }, [Twitch][twitch], [YouTube][youtube], [LinkedIn][linkedin] or [Github][github].
 {: .home-intro }
 
 ## My work
@@ -118,3 +118,4 @@ Hope they help.
 [sharpen-page]: https://sharpen.page
 [aelf]: https://www.aelf.org
 [readwith]: https://readwith.club/
+[mastodon]: https://ruby.social/@pascallaliberte
