@@ -4,25 +4,34 @@ class: home
 layout: default
 ---
 
-**Pascal Laliberté**, Ottawa, ON  
+**Pascal Laliberté**, Freelance Rails Developer  
 [pascal@hey.com](mailto:pascal@hey.com)
   
-Find me on [Twitter][twitter], [Mastodon][mastodon]{: rel="me" }, [Twitch][twitch], [YouTube][youtube], [LinkedIn][linkedin] or [Github][github].
+Find me on [Twitter][twitter], [Mastodon][mastodon]{: rel="me" }, [Github][github], [YouTube][youtube], and [LinkedIn][linkedin].
 {: .home-intro }
 
-## My work
+## Dev Consulting
 
-I do freelance web development. Mostly Rails and [modest JavaScript][modestjs]. Mostly word-of-mouth.
+* **[customcharts.dev](https://customcharts.dev)** &mdash; If you've been putting off getting some nice charts for your app. Weekly availability in the next weeks.
+* **[stimulus.pascal.works](https://stimulus.pascal.works)** &mdash; If you're stuck on a problem with Stimulus, one of the technologies at the heart of Hotwire. Check for daily availability.
 
-[Request to contact a former client for referral](mailto:pascal@hey.com?subject=Your%20former%20clients).
+## Product Consulting
 
-**Got a Stimulus JS problem today?** [I also offer a consulting service for help with Stimulus JS](https://stimulus.pascal.works/) (a tech that's part of [Hotwire](https://hotwired.dev)). Get my part-time availability over two days using async video+text.
+* **[sharpen.page](https://sharpen.page)** &mdash; If you're no longer sure what makes people buy your product exactly. Maybe you have churn (cancellations), maybe you have weird buyers. Probably you built features but they're not being used. I can help with coaching on the topic of buyer psychology.
+
+## Building
+
+* **[supercharts.dev](https://supercharts.dev)** &mdash; a way to scaffold a chart into a Rails app built using the Bullet Train starter kit. It allows you to say "Wouldn't it be nice to have a chart right here", write a command for the resource you want charted, and boom, there's a chart.
+* **[readwith.club](https://readwith.club)** &mdash; read books with me.
 
 ## Read Books With Me
 
 I'm currently reading these books and [recording my notes on ReadWith][readwith], an app I'm working on:
 
-* [_The Practice_ by Seth Godin](https://seths.blog/trust-yourself/). [Here's one of my notes](https://readwith.club/pascallaliberte/the-practice/).
+* [_The Practice_ by Seth Godin](https://seths.blog/trust-yourself/). [Here's one of my notes](https://readwith.club/pascallaliberte/the-practice/). Recently finished this one.
+* _The Complete Guide to Rails Testing_ by Jason Swett
+* _Raising Dad_ by Art and Thom Rainer
+* _Thinking in Systems_ by Donella H. Meadows
 
 What books are you reading? [Give me a shout on Twitter](https://twitter.com/pascallaliberte/status/1518628939417239558).
 
