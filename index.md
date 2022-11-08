@@ -17,7 +17,7 @@ Find me on [Twitter][twitter], [Mastodon][mastodon]{: rel="me" }, [Github][githu
 
 ## Product Consulting
 
-* **[sharpen.page](https://sharpen.page)** &mdash; If you're no longer sure what makes people buy your product exactly. Maybe you have churn (cancellations), maybe you have weird buyers. Probably you built features but they're not being used. I can help you get into the minds of your buyers so you can sharpen your product positioning, your feature set, and your landing page.
+* **[sharpen.page](https://sharpen.page)** &mdash; If you're no longer sure what makes people buy your SaaS product exactly. Maybe you have churn (cancellations), maybe you have weird buyers. Probably you built features but they're not being used. I can help you get into the minds of your buyers so you can sharpen your product positioning, your feature set, and your landing page.
 
 ## Building
 
