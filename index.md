@@ -22,6 +22,7 @@ Find me on [Twitter][twitter], [Mastodon][mastodon]{: rel="me" }, [Github][githu
 ## Building
 
 * **[supercharts.dev](https://supercharts.dev)** &mdash; a way to scaffold a chart into a Rails app built using the Bullet Train starter kit. It allows you to say "Wouldn't it be nice to have a chart right here", write a command for the resource you want charted, and boom, there's a chart.
+* **[Transmission, a theme for Bullet Train](https://transmissiontheme.com)** &mdash; now in pre-order, and will be available in the first months of 2023.
 * **[readwith.club](https://readwith.club)** &mdash; read books with me.
 
 ## Read Books With Me
