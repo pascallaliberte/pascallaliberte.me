@@ -26,3 +26,4 @@ defaults:
       lang: en
 include: [".well-known", "_redirects"]
 
+mastodon: https://ruby.social/@pascallaliberte

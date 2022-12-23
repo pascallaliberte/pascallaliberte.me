@@ -7,7 +7,7 @@ layout: default
 **Pascal Laliberté**, Freelance Rails Developer  
 [pascal@hey.com](mailto:pascal@hey.com)
   
-Find me on [Twitter][twitter], [Mastodon][mastodon]{: rel="me" }, [Github][github], [YouTube][youtube], and [LinkedIn][linkedin].
+Find me on [Mastodon][mastodon]{: rel="me" }, [Github][github], [YouTube][youtube], and [LinkedIn][linkedin].
 {: .home-intro }
 
 ## Dev Consulting
@@ -34,7 +34,7 @@ I'm currently reading these books and [recording my notes on ReadWith][readwith]
 * _Raising Dad_ by Art and Thom Rainer
 * _Thinking in Systems_ by Donella H. Meadows
 
-What books are you reading? [Give me a shout on Twitter](https://twitter.com/pascallaliberte/status/1518628939417239558).
+What books are you reading? [Give me a shout on Mastodon](https://ruby.social/@pascallaliberte/109565141472441722).
 
 ## Ideas
 
@@ -116,10 +116,9 @@ Hope they help.
 
 ## Thanks for reading
 
-*What about you? What do you care about? What are you working on? What are your tricks? [Let me know: I'm @pascallaliberte on Twitter][twitter].*
+*What about you? What do you care about? What are you working on? What are your tricks? [Let me know: I'm @pascallaliberte on ruby.social][mastodon].*
 
 [linkedin]: https://www.linkedin.com/in/pascallaliberte/
-[twitter]: https://twitter.com/pascallaliberte
 [github]: https://github.com/pascallaliberte/
 [youtube]: https://www.youtube.com/channel/UCo2CttXwSgcaEmrTsALqS-A
 [twitch]: https://www.twitch.tv/pascallaliberte
