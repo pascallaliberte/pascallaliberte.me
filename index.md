@@ -4,7 +4,7 @@ class: home
 layout: default
 ---
 
-**Pascal Laliberté**, Freelance Rails Developer  
+**Pascal Laliberté**, Freelance Rails Developer with Product Chops  
 [pascal@hey.com](mailto:pascal@hey.com)
   
 Find me on [Mastodon][mastodon]{: rel="me" }, [Github][github], [YouTube][youtube], and [LinkedIn][linkedin].
