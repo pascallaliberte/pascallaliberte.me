@@ -1,5 +1,5 @@
 ---
-title: "Pascal Laliberté"
+title: "Pascal Laliberté, Freelance Rails Developer with Product Chops"
 class: home
 layout: default
 ---
