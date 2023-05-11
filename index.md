@@ -10,10 +10,20 @@ layout: default
 Find me on [Mastodon][mastodon]{: rel="me" }, [Github][github], [YouTube][youtube], and [LinkedIn][linkedin].
 {: .home-intro }
 
-## Dev Consulting
+## Everyone Wants Progress
 
-* **[customcharts.dev](https://customcharts.dev)** &mdash; If you've been putting off getting some nice charts for your app. Weekly availability in the next weeks.
-* **[stimulus.pascal.works](https://stimulus.pascal.works)** &mdash; If you're stuck on a problem with Stimulus, one of the technologies at the heart of Hotwire. Check for daily availability.
+What causes people to buy products? Does my product idea have a chance? 
+
+**Let me help you get into the mind of buyers.**  
+[Visit sharpen.page/ten for **ten articles on buyer psychology** over ten weeks](https://sharpen.page/ten), a tailored mini-coaching experience for software devs like you.
+
+## Rails Freelancing
+
+Weekly availability in the next weeks.
+
+* **[bullettrain.pascal.works](https://bullettrain.pascal.works)** &mdash; If you're building your next app on Bullet Train, the Ruby on Rails starter kit, I've been contracting on the project and offering my services to SaaS founders. 6-week projects, 2-week engagements, or quick 2-day availability.
+* **[customcharts.dev](https://customcharts.dev)** &mdash; If you've been putting off getting some nice charts into your Rails app. My specialty is creating charts for Hotwire-based front-ends.
+* **[chartdescriptions.com](https://chartdescriptions.com)** &mdash; AI lets us do something we couldn't do before: add text descriptions to charts (and without the need to send a request to an LLM on each request). I can help you do the same.
 
 ## Product Consulting
 
