@@ -7,44 +7,44 @@ layout: default
 **Pascal Laliberté**, Freelance Rails Developer with Product Chops  
 [pascal@hey.com](mailto:pascal@hey.com)
   
-Find me on [Mastodon][mastodon]{: rel="me" }, [Github][github], [YouTube][youtube], and [LinkedIn][linkedin].
+Find me on [Twitter][twitter], [ruby.social][ruby.social]{: rel="me" }, [Github][github], and [LinkedIn][linkedin].
 {: .home-intro }
 
 ## Everyone Wants Progress
 
-What causes people to buy products? Does my product idea have a chance? 
+A weekly post for software creatives. Every Saturday AM.  
+[everyonewantsprogress.com](https://everyonewantsprogress.com)
 
-**Let me help you get into the mind of buyers.**  
-[Visit sharpen.page/ten for **ten articles on buyer psychology** over ten weeks](https://sharpen.page/ten), a tailored mini-coaching experience for software devs like you.
+## A Page Sharpening Service
 
-## Rails Freelancing
+Helping software devs like you sharpen your sales pages.  
+[sharpen.page](https://sharpen.page)
 
-Weekly availability in the next weeks.
+## Hotwire Migration Service
 
-* **[bullettrain.pascal.works](https://bullettrain.pascal.works)** &mdash; If you're building your next app on Bullet Train, the Ruby on Rails starter kit, I've been contracting on the project and offering my services to SaaS founders. 6-week projects, 2-week engagements, or quick 2-day availability.
-* **[customcharts.dev](https://customcharts.dev)** &mdash; If you've been putting off getting some nice charts into your Rails app. My specialty is creating charts for Hotwire-based front-ends.
-* **[chartdescriptions.com](https://chartdescriptions.com)** &mdash; AI lets us do something we couldn't do before: add text descriptions to charts (and without the need to send a request to an LLM on each request). I can help you do the same.
+A React to Hotwire Migration Service  
+[hotwiremigration.pascal.works](https://hotwiremigration.pascal.works)
 
-## Product Consulting
+## Bullet Train, Ruby on Rails Consulting
 
-* **[sharpen.page](https://sharpen.page)** &mdash; If you're no longer sure what makes people buy your SaaS product exactly. Maybe you have churn (cancellations), maybe you have weird buyers. You built features that aren't being used. I can help you get into the minds of your buyers so you can sharpen your product positioning, your feature set, and your landing page.
+Weekly availability in the next weeks.  
+[bullettrain.pascal.works](https://bullettrain.pascal.works)
 
 ## Building
 
-* **[supercharts.dev](https://supercharts.dev)** &mdash; a way to scaffold a chart into a Rails app built using the Bullet Train starter kit. It allows you to say "Wouldn't it be nice to have a chart right here", write a command for the resource you want charted, and boom, there's a chart.
-* **[Transmission, a theme for Bullet Train](https://transmissiontheme.com)** &mdash; now in pre-order, and will be available soon.
-* **[readwith.club](https://readwith.club)** &mdash; read books with me.
+[readwith.club][readwith] &mdash; read books with me.
 
 ## Read Books With Me
 
-I'm currently reading these books and [recording my notes on ReadWith][readwith], an app I'm working on:
+I'm currently reading these books and [recording my notes on ReadWith][readwith-profile], an app I'm working on:
 
-* [_The Practice_ by Seth Godin](https://seths.blog/trust-yourself/). [Here's one of my notes](https://readwith.club/pascallaliberte/the-practice/). Recently finished this one.
-* _The Complete Guide to Rails Testing_ by Jason Swett
-* _Raising Dad_ by Art and Thom Rainer
-* _Thinking in Systems_ by Donella H. Meadows
+* [_The Practice_ by Seth Godin](https://readwith.club/pascallaliberte/the-practice/no-guarantees/).
+* [_Thinking in Systems_ by Donella H. Meadows](https://readwith.club/pascallaliberte/thinking-in-systems/systems-own-behavior/)
+* _New Rules for the New Economy_ by Kevin Kelly
+* _Million Dollar Consulting_ by Alan Weiss
+* _Thinking Fast and Slow_ by Daniel Kahneman
 
-What books are you reading? [Give me a shout on Mastodon](https://ruby.social/@pascallaliberte/109565141472441722).
+What books are you reading? [Give me a shout on Twitter](https://twitter.com/pascallaliberte/).
 
 ## Ideas
 
@@ -126,7 +126,7 @@ Hope they help.
 
 ## Thanks for reading
 
-*What about you? What do you care about? What are you working on? What are your tricks? [Let me know: I'm @pascallaliberte on ruby.social][mastodon].*
+*What about you? What do you care about? What are you working on? What are your tricks? [Let me know: I'm @pascallaliberte on twitter][twitter].*
 
 [linkedin]: https://www.linkedin.com/in/pascallaliberte/
 [github]: https://github.com/pascallaliberte/
@@ -137,4 +137,6 @@ Hope they help.
 [sharpen-page]: https://sharpen.page
 [aelf]: https://www.aelf.org
 [readwith]: https://readwith.club/
-[mastodon]: https://ruby.social/@pascallaliberte
+[readwith-profile]: https://readwith.club/pascallaliberte/
+[ruby.social]: https://ruby.social/@pascallaliberte
+[twitter]: https://twitter.com/pascallaliberte
