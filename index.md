@@ -7,7 +7,7 @@ layout: default
 **Pascal Laliberté**, Freelance Rails Developer with Product Chops  
 [pascal@hey.com](mailto:pascal@hey.com)
   
-Find me on [Twitter][twitter], [ruby.social][ruby.social]{: rel="me" }, [Github][github], and [LinkedIn][linkedin].
+Find me on [Bluesky][bluesky], [Twitter][twitter], [ruby.social][ruby.social]{: rel="me" }, [Github][github], and [LinkedIn][linkedin].
 {: .home-intro }
 
 ## Everyone Wants Progress
@@ -140,3 +140,4 @@ Hope they help.
 [readwith-profile]: https://readwith.club/pascallaliberte/
 [ruby.social]: https://ruby.social/@pascallaliberte
 [twitter]: https://twitter.com/pascallaliberte
+[bluesky]: https://bsky.app/profile/pascallaliberte.me
