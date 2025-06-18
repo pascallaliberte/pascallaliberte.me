@@ -1,10 +1,10 @@
 ---
-title: "Pascal Laliberté, Freelance Rails Developer with Product Chops"
+title: "Pascal Laliberté, Freelance Rails Developer"
 class: home
 layout: default
 ---
 
-**Pascal Laliberté**, Freelance Rails Developer with Product Chops  
+**Pascal Laliberté**, Freelance Rails Developer  
 [pascal@hey.com](mailto:pascal@hey.com)
   
 Find me on [Bluesky][bluesky], [Twitter][twitter], [ruby.social][ruby.social]{: rel="me" }, [Github][github], and [LinkedIn][linkedin].
@@ -20,31 +20,30 @@ A weekly post for software creatives. Every Saturday AM.
 Helping software devs like you sharpen your sales pages.  
 [sharpen.page](https://sharpen.page)
 
-## Hotwire Migration Service
-
-A React to Hotwire Migration Service  
-[hotwiremigration.pascal.works](https://hotwiremigration.pascal.works)
-
-## Bullet Train, Ruby on Rails Consulting
+## Ruby on Rails Consulting
 
 Weekly availability in the next weeks.  
 [bullettrain.pascal.works](https://bullettrain.pascal.works)
 
 ## Building
 
-[readwith.club][readwith] &mdash; read books with me.
+[ReadWith (readwith.club)][readwith] &mdash; A novel way to lead reading groups.
 
-## Read Books With Me
+## Books I've been reading
 
-I'm currently reading these books and [recording my notes on ReadWith][readwith-profile], an app I'm working on:
+I've been recording my reading notes in [ReadWith][readwith] for these books.
 
-* [_The Practice_ by Seth Godin](https://readwith.club/pascallaliberte/the-practice/no-guarantees/).
-* [_Thinking in Systems_ by Donella H. Meadows](https://readwith.club/pascallaliberte/thinking-in-systems/systems-own-behavior/)
+* _The Practice_ by Seth Godin.
+* _Thinking in Systems_ by Donella H. Meadows
 * _New Rules for the New Economy_ by Kevin Kelly
 * _Million Dollar Consulting_ by Alan Weiss
 * _Thinking Fast and Slow_ by Daniel Kahneman
+* _140 SaaS Marketing Ideas_ by Corey Haines
+* _This is Marketing_ by Seth Godin
+* _The Cold Start Problem_ by Andrew Chen
+* _The Mom Test_ by Rob Fitzpatrick
 
-What books are you reading? [Give me a shout on Twitter](https://twitter.com/pascallaliberte/).
+What books are you reading? Are you an author? [Give me a shout on Twitter](https://twitter.com/pascallaliberte/).
 
 ## Ideas
 
