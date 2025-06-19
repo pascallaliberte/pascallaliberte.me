@@ -2,6 +2,9 @@
 
 require "json"
 
+# Import all rake tasks from lib/tasks
+Dir.glob('lib/tasks/*.rake').each { |r| import r }
+
 url_pow     = "pascallaliberte"
 url_live    = "pascallaliberte.me"
 
@@ -101,7 +104,7 @@ namespace :view do
     system "open http://github.com/#{github_repo}"
   end
 
-  desc "A quick glimpse at your GitHub repo’s watchers, stars, and forks."
+  desc "A quick glimpse at your GitHub repo's watchers, stars, and forks."
   namespace :github do
     task :stats do
       puts "Downloading GitHub repo data through their API…"
