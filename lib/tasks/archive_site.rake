@@ -31,45 +31,67 @@ namespace :site do
     Puppeteer.launch(headless: true) do |browser|
       # Desktop screenshot
       page = browser.new_page
-      page.viewport = Puppeteer::Viewport.new(width: 1280, height: 800)
+      page.viewport = Puppeteer::Viewport.new(
+        width: 1280,
+        height: 800,
+        device_scale_factor: 1
+      )
       page.goto(url, wait_until: 'networkidle0')
       
-      # Get full page height
-      full_height = page.evaluate('() => {
+      # Get actual content height
+      content_height = page.evaluate('() => {
         return Math.max(
-          document.body.scrollHeight,
           document.documentElement.scrollHeight,
-          document.body.offsetHeight,
-          document.documentElement.offsetHeight,
-          document.body.clientHeight,
-          document.documentElement.clientHeight
+          document.body.scrollHeight
         );
       }')
       
-      # Set viewport to full height
-      page.viewport = Puppeteer::Viewport.new(width: 1280, height: full_height)
-      page.screenshot(path: desktop_path, full_page: true)
+      puts "Desktop content height: #{content_height}"
+      
+      # Set viewport to content height
+      page.viewport = Puppeteer::Viewport.new(
+        width: 1280,
+        height: content_height,
+        device_scale_factor: 1
+      )
+      
+      # Take screenshot
+      page.screenshot(
+        path: desktop_path,
+        full_page: false
+      )
 
       # Mobile screenshot
       page = browser.new_page
-      page.viewport = Puppeteer::Viewport.new(width: 375, height: 667)
+      page.viewport = Puppeteer::Viewport.new(
+        width: 375,
+        height: 667,
+        device_scale_factor: 1
+      )
       page.goto(url, wait_until: 'networkidle0')
       
-      # Get full page height for mobile
-      full_height = page.evaluate('() => {
+      # Get actual content height
+      content_height = page.evaluate('() => {
         return Math.max(
-          document.body.scrollHeight,
           document.documentElement.scrollHeight,
-          document.body.offsetHeight,
-          document.documentElement.offsetHeight,
-          document.body.clientHeight,
-          document.documentElement.clientHeight
+          document.body.scrollHeight
         );
       }')
       
-      # Set viewport to full height
-      page.viewport = Puppeteer::Viewport.new(width: 375, height: full_height)
-      page.screenshot(path: mobile_path, full_page: true)
+      puts "Mobile content height: #{content_height}"
+      
+      # Set viewport to content height
+      page.viewport = Puppeteer::Viewport.new(
+        width: 375,
+        height: content_height,
+        device_scale_factor: 1
+      )
+      
+      # Take screenshot
+      page.screenshot(
+        path: mobile_path,
+        full_page: false
+      )
     end
 
     # Create the markdown file
@@ -77,7 +99,6 @@ namespace :site do
 ---
 layout: archived
 title: "#{title}"
-description: "#{description}"
 original_url: "#{url}"
 desktop_screenshot: "/images/archived-sites/#{desktop_filename}"
 mobile_screenshot: "/images/archived-sites/#{mobile_filename}"
@@ -87,11 +108,11 @@ mobile_screenshot: "/images/archived-sites/#{mobile_filename}"
 MARKDOWN
 
     # Generate filename for the markdown file
-    markdown_filename = "#{domain}-#{timestamp}.md"
-    markdown_path = File.join(Dir.pwd, '_archived-sites', markdown_filename)
+    markdown_filename = "#{domain}.md"
+    markdown_path = File.join(Dir.pwd, 'archived', markdown_filename)
 
-    # Create _archived-sites directory if it doesn't exist
-    FileUtils.mkdir_p(File.join(Dir.pwd, '_archived-sites'))
+    # Create archived directory if it doesn't exist
+    FileUtils.mkdir_p(File.join(Dir.pwd, 'archived'))
 
     # Write the markdown file
     File.write(markdown_path, content)
