@@ -6,4 +6,4 @@ desktop_screenshot: "/images/archived-sites/transmissiontheme-com-desktop-202506
 mobile_screenshot: "/images/archived-sites/transmissiontheme-com-mobile-20250620.png"
 ---
 
-DESCRIPTION GOES HERE
+A theme for the [Bullet Train](https://bullettrain.co) Rails starter kit.

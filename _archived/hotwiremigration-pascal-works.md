@@ -6,4 +6,4 @@ desktop_screenshot: "/images/archived-sites/hotwiremigration-pascal-works-deskto
 mobile_screenshot: "/images/archived-sites/hotwiremigration-pascal-works-mobile-20250620.png"
 ---
 
-DESCRIPTION GOES HERE
+A service offering for transitioning away from React and toward Hotwire for the front-end of Ruby on Rails applications.

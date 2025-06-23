@@ -6,4 +6,4 @@ desktop_screenshot: "/images/archived-sites/stimulus-pascal-works-desktop-202506
 mobile_screenshot: "/images/archived-sites/stimulus-pascal-works-mobile-20250620.png"
 ---
 
-DESCRIPTION GOES HERE
+A service offering for helping resolve problems with Stimulus, the JavaScript framework used in Ruby on Rails' Hotwire methodology.

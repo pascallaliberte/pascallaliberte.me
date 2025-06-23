@@ -6,4 +6,4 @@ desktop_screenshot: "/images/archived-sites/bullettrain-pascal-works-desktop-202
 mobile_screenshot: "/images/archived-sites/bullettrain-pascal-works-mobile-20250620.png"
 ---
 
-DESCRIPTION GOES HERE
+A service offering for building a Ruby on Rails using the popular [Bullet Train](https://bullettrain.co) starter kit.

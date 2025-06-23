@@ -6,4 +6,6 @@ desktop_screenshot: "/images/archived-sites/chartdescriptions-com-desktop-202506
 mobile_screenshot: "/images/archived-sites/chartdescriptions-com-mobile-20250620.png"
 ---
 
-DESCRIPTION GOES HERE
+A site describing a technique for live captioning of charts using LLMs.
+
+Also, a service offering for putting together a custom-built system for these chart descriptions.

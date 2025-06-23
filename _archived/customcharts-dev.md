@@ -6,4 +6,4 @@ desktop_screenshot: "/images/archived-sites/customcharts-dev-desktop-20250620.pn
 mobile_screenshot: "/images/archived-sites/customcharts-dev-mobile-20250620.png"
 ---
 
-DESCRIPTION GOES HERE
+A service offering for creating custom charts for the web.
