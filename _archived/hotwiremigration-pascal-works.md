@@ -1,7 +1,7 @@
 ---
 layout: archived
-title: "https://hotwiremigration.pascal.works"
-original_url: "https://hotwiremigration.pascal.works"
+title: Hotwire Migration Service
+original_url: "hotwiremigration.pascal.works"
 desktop_screenshot: "/images/archived-sites/hotwiremigration-pascal-works-desktop-20250620.png"
 mobile_screenshot: "/images/archived-sites/hotwiremigration-pascal-works-mobile-20250620.png"
 ---
