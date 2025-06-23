@@ -45,11 +45,18 @@ What books are you reading? Are you an author? [Give me a shout on Twitter](http
 
 A few specialized service offerings, and a couple products from over the years.
 
-<ul>
+<ul class="archived-projects-list">
 {% for archived in site.archived %}
   <li><strong><a href="{{archived.url}}">{{ archived.title }}</a></strong> <code style="font-size: 0.6em;">{{ archived.original_url }}</code></li>
 {% endfor %}
 </ul>
+
+<style>
+  .archived-projects-list li {
+    line-height: 1.2;
+    margin-bottom: 0.5em;
+  }
+</style>
 
 ## Ideas
 
