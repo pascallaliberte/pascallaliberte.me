@@ -47,7 +47,7 @@ A few specialized service offerings, and a couple products from over the years.
 
 <ul>
 {% for archived in site.archived %}
-  <li><a href="{{archived.url}}">{{ archived.title }}</a> <code style="font-size: 0.6em;">{{ archived.original_url }}</code></li>
+  <li><strong><a href="{{archived.url}}">{{ archived.title }}</a></strong> <code style="font-size: 0.6em;">{{ archived.original_url }}</code></li>
 {% endfor %}
 </ul>
 

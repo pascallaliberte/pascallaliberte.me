@@ -4,7 +4,10 @@
     <div class="archived-site">
       <div class="archived-banner">
         <a href="/#archived" class="back-link">← Home</a>
-        <h1>{{ page.title }}</h1>
+        <div class="archived-title-container">
+          <h1 class="archived-title">{{ page.title }}</h1>
+          <code class="archived-url">{{ page.original_url }}</code>
+        </div>
         {{ content }}
       </div>
     
@@ -27,6 +30,7 @@
     
     .back-link {
       display: inline-block;
+      font-size: 1.2rem;
       margin-bottom: 1rem;
       color: #666;
       text-decoration: none;
@@ -85,6 +89,24 @@
       max-width: 800px;
       margin: 0 auto;
       padding: 0 1rem;
+    }
+
+    .archived-title-container {
+      display: flex;
+      flex-wrap: wrap;
+      align-items: baseline;
+      justify-content: flex-start;
+      gap: 1rem;
+    }
+
+    .archived-title {
+      margin: 0;
+      font-size: 1.5rem;
+      font-weight: 600;
+    }
+
+    .archived-url {
+      font-size: 0.8rem;
     }
     </style> 
 
