@@ -98,13 +98,20 @@
       flex-wrap: wrap;
       align-items: baseline;
       justify-content: flex-start;
-      gap: 1rem;
+      margin-bottom: 1rem;
+    }
+
+    @media (min-width: 768px) {
+      .archived-title-container {
+        gap: 1rem;
+      }
     }
 
     .archived-title {
       margin: 0;
       font-size: 1.5rem;
       font-weight: 600;
+      line-height: 1;
     }
 
     .archived-url {
