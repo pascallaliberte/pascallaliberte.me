@@ -9,6 +9,10 @@
           <code class="archived-url">{{ page.original_url }}</code>
         </div>
         {{ content }}
+
+        <div class="archived-footnote">
+          This project is now retired. Here's a screenshot of the site as it was when it was active.
+        </div>
       </div>
     
       <div class="screenshot-container">
@@ -25,11 +29,11 @@
     
     .archived-banner {
       padding: 2rem;
-      margin-bottom: 2rem;
     }
     
     .back-link {
       display: inline-block;
+      margin-top: -0.5rem;
       font-size: 1.2rem;
       margin-bottom: 1rem;
       color: #666;
@@ -51,13 +55,11 @@
     }
     
     .screenshot-container {
-      margin: 2rem 0;
     }
     
     .desktop-screenshot {
       width: 100%;
       height: auto;
-      margin-bottom: -2rem;
       border-radius: 0 0 1.8rem 1.8rem;
       border-top: 1px solid #ddd;
       display: block;
@@ -107,6 +109,13 @@
 
     .archived-url {
       font-size: 0.8rem;
+    }
+
+    .archived-footnote {
+      font-size: 0.8rem;
+      color: #666;
+      margin-top: 2rem;
+      line-height: 1.2;
     }
     </style> 
 
