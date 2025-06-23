@@ -1,10 +1,10 @@
 ---
-title: "Pascal Laliberté, Freelance Rails Developer"
+title: "Pascal Laliberté"
 class: home
 layout: default
 ---
 
-**Pascal Laliberté**, Freelance Rails Developer  
+**Pascal Laliberté**
 [pascal@hey.com](mailto:pascal@hey.com)
   
 Find me on [Bluesky][bluesky], [Twitter][twitter], [ruby.social][ruby.social]{: rel="me" }, [Github][github], and [LinkedIn][linkedin].
@@ -19,11 +19,6 @@ A weekly post for software creatives. Every Saturday AM.
 
 Helping software devs like you sharpen your sales pages.  
 [sharpen.page](https://sharpen.page)
-
-## Ruby on Rails Consulting
-
-Weekly availability in the next weeks.  
-[bullettrain.pascal.works](https://bullettrain.pascal.works)
 
 ## Building
 
@@ -44,6 +39,15 @@ I've been recording my reading notes in [ReadWith][readwith] for these books.
 * _The Mom Test_ by Rob Fitzpatrick
 
 What books are you reading? Are you an author? [Give me a shout on Twitter](https://twitter.com/pascallaliberte/).
+
+## Retired Projects
+{: #archived }
+
+<ul>
+{% for archived in site.archived %}
+  <li><a href="{{archived.url}}">{{ archived.title }}</a> <code>{{ archived.original_url }}</code></li>
+{% endfor %}
+</ul>
 
 ## Ideas
 
@@ -75,10 +79,8 @@ My main areas of interest are:
 
 * [Turn Turbolinks Back On: Stimulus Brings The Sprinkles][stimulusjs-presentation]<br>2018, Ottawa Ruby Meetup
 * [Create a Striking Product using Jobs To Be Done][jtbd-presentation]<br>2017, ProductCamp Ottawa
-* [Undo the Mess: Use Roots for WordPress Dev][roots-presentation]<br>2017, The Ottawa Wordpress Group
 * [Making Turbolinks work with Vue.js: Fast server-generated pages with reactive front-end components][vuejs-presentation]<br>2016 - Ottawa Ruby Meetup
 
-[roots-presentation]: https://www.youtube.com/watch?v=c25nvDkblSQ&lc=z123zx3xcozsehkwc04cg1ujxxroyrgp5q40k
 [jtbd-presentation]: https://www.youtube.com/watch?v=mHyNmq2-tU4
 [stimulusjs-presentation]: https://www.youtube.com/watch?v=UucTtozapTE
 [vuejs-presentation]: https://speakerdeck.com/pascallaliberte/making-turbolinks-work-with-vue-dot-js-fast-server-generated-pages-with-reactive-front-end-components
