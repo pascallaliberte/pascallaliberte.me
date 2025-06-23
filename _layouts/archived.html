@@ -12,6 +12,9 @@
 
         <div class="archived-footnote">
           This project is now retired. Here's a screenshot of the site as it was when it was active.
+          {% if page.wayback_url %}
+            <a href="{{ page.wayback_url }}" target="_blank">View on Wayback Machine</a>
+          {% endif %}
         </div>
       </div>
     
