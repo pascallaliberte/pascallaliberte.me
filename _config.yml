@@ -9,7 +9,7 @@ baseurl:
 gems:
   - jekyll-sitemap
 destination: public
-exclude: [public, Gemfile, Gemfile.lock, Rakefile, README.md]
+exclude: [public, Gemfile, Gemfile.lock, Rakefile, README.md, lib]
 course:
   starts: "" # has to be a Sunday
   starts_fr: ""
