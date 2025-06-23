@@ -22,18 +22,33 @@ namespace :site do
     parsed_url = URI.parse(url)
     domain = parsed_url.host.gsub(/[^0-9A-Za-z]/, '-')
     
-    # Determine if this is a sub-folder or domain-level site
-    if parsed_url.path && parsed_url.path != '/' && parsed_url.path != ''
-      # Sub-folder site - use the first path segment as the slug
-      path_segments = parsed_url.path.split('/').reject(&:empty?)
-      if path_segments.any?
-        slug = path_segments.first.gsub(/[^0-9A-Za-z]/, '-')
+    # Check for custom slug from environment variable
+    custom_slug = ENV['CUSTOM_SLUG']
+    
+    if custom_slug
+      # Use custom slug if provided
+      slug = custom_slug.gsub(/[^0-9A-Za-z]/, '-')
+      puts "Using custom slug: #{slug}"
+    else
+      # Determine if this is a sub-folder or domain-level site
+      if parsed_url.path && parsed_url.path != '/' && parsed_url.path != ''
+        # Sub-folder site - use the first path segment as the slug
+        path_segments = parsed_url.path.split('/').reject(&:empty?)
+        if path_segments.any?
+          slug = path_segments.first.gsub(/[^0-9A-Za-z]/, '-')
+        else
+          slug = domain
+        end
       else
+        # Domain-level site - use the domain as the slug
         slug = domain
       end
-    else
-      # Domain-level site - use the domain as the slug
-      slug = domain
+    end
+    
+    # Get delay from environment variable (default to 0)
+    screenshot_delay = (ENV['SCREENSHOT_DELAY'] || '0').to_i
+    if screenshot_delay > 0
+      puts "Will wait #{screenshot_delay} seconds before taking screenshots"
     end
     
     timestamp = Time.now.strftime('%Y%m%d')
@@ -53,6 +68,12 @@ namespace :site do
         device_scale_factor: 1
       )
       page.goto(url, wait_until: 'networkidle0')
+      
+      # Apply delay if specified
+      if screenshot_delay > 0
+        puts "Waiting #{screenshot_delay} seconds before taking desktop screenshot..."
+        sleep(screenshot_delay)
+      end
       
       # Get actual content height
       content_height = page.evaluate('() => {
@@ -85,6 +106,12 @@ namespace :site do
         device_scale_factor: 1
       )
       page.goto(url, wait_until: 'networkidle0')
+      
+      # Apply delay if specified
+      if screenshot_delay > 0
+        puts "Waiting #{screenshot_delay} seconds before taking mobile screenshot..."
+        sleep(screenshot_delay)
+      end
       
       # Get actual content height
       content_height = page.evaluate('() => {
