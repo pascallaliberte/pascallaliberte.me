@@ -109,10 +109,10 @@ MARKDOWN
 
     # Generate filename for the markdown file
     markdown_filename = "#{domain}.md"
-    markdown_path = File.join(Dir.pwd, 'archived', markdown_filename)
+    markdown_path = File.join(Dir.pwd, '_archived', markdown_filename)
 
     # Create archived directory if it doesn't exist
-    FileUtils.mkdir_p(File.join(Dir.pwd, 'archived'))
+    FileUtils.mkdir_p(File.join(Dir.pwd, '_archived'))
 
     # Write the markdown file
     File.write(markdown_path, content)
