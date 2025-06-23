@@ -25,5 +25,9 @@ defaults:
     values:
       lang: en
 include: [".well-known", "_redirects"]
+collections:
+  archived:
+    output: true
+    permalink: /archived/:path/
 
 mastodon: https://ruby.social/@pascallaliberte
