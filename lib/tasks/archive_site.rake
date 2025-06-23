@@ -18,11 +18,27 @@ namespace :site do
     screenshots_dir = File.join(Dir.pwd, 'images', 'archived-sites')
     FileUtils.mkdir_p(screenshots_dir)
 
-    # Generate filenames based on the domain
-    domain = URI.parse(url).host.gsub(/[^0-9A-Za-z]/, '-')
+    # Parse URL and generate appropriate slug
+    parsed_url = URI.parse(url)
+    domain = parsed_url.host.gsub(/[^0-9A-Za-z]/, '-')
+    
+    # Determine if this is a sub-folder or domain-level site
+    if parsed_url.path && parsed_url.path != '/' && parsed_url.path != ''
+      # Sub-folder site - use the first path segment as the slug
+      path_segments = parsed_url.path.split('/').reject(&:empty?)
+      if path_segments.any?
+        slug = path_segments.first.gsub(/[^0-9A-Za-z]/, '-')
+      else
+        slug = domain
+      end
+    else
+      # Domain-level site - use the domain as the slug
+      slug = domain
+    end
+    
     timestamp = Time.now.strftime('%Y%m%d')
-    desktop_filename = "#{domain}-desktop-#{timestamp}.png"
-    mobile_filename = "#{domain}-mobile-#{timestamp}.png"
+    desktop_filename = "#{slug}-desktop-#{timestamp}.png"
+    mobile_filename = "#{slug}-mobile-#{timestamp}.png"
     
     desktop_path = File.join(screenshots_dir, desktop_filename)
     mobile_path = File.join(screenshots_dir, mobile_filename)
@@ -108,7 +124,7 @@ mobile_screenshot: "/images/archived-sites/#{mobile_filename}"
 MARKDOWN
 
     # Generate filename for the markdown file
-    markdown_filename = "#{domain}.md"
+    markdown_filename = "#{slug}.md"
     markdown_path = File.join(Dir.pwd, '_archived', markdown_filename)
 
     # Create archived directory if it doesn't exist
