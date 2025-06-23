@@ -33,9 +33,10 @@ collections:
       - hotwiremigration-pascal-works.md
       - bullettrain-pascal-works.md
       - chartdescriptions-com.md
+      - transmissiontheme-com.md
       - customcharts-dev.md
       - supercharts-dev.md
-      - transmissiontheme-com.md
       - stimulus-pascal-works.md
+      - modestjs-works.md
 
 mastodon: https://ruby.social/@pascallaliberte
