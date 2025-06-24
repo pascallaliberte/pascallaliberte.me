@@ -74,26 +74,6 @@ A few specialized service offerings, and a couple products from over the years.
 [godeepineverything]: http://by.pascallaliberte.me/2014-12-go-deep-in-everything/
 [havedone]: http://by.pascallaliberte.me/2013-12-writing-objectives-you-will-accomplish/
 
-## Areas of interest
-
-My main areas of interest are:
-
-* **The *Jobs-To-Be-Done* theory** of buyer behaviour. I wrote articles on this subject over at [sharpen.page][sharpen-page]
-* **Maturity in Leadership and _post-heroism_.** We all have to tame our ego by detecting when we have mental models affecting our judgement. Find out more at [The Change Anything Kit](/change-anything/)
-* **Writing software in a modest way.** By starting small and using the best of the modern approaches, we can write good software without playing the game every one else plays in the software industry. I wrote a short book about it called [Modest JS Works][modestjs]
-
-[modestjs]: https://modestjs.works/
-
-### Presentations
-
-* [Turn Turbolinks Back On: Stimulus Brings The Sprinkles][stimulusjs-presentation]<br>2018, Ottawa Ruby Meetup
-* [Create a Striking Product using Jobs To Be Done][jtbd-presentation]<br>2017, ProductCamp Ottawa
-* [Making Turbolinks work with Vue.js: Fast server-generated pages with reactive front-end components][vuejs-presentation]<br>2016 - Ottawa Ruby Meetup
-
-[jtbd-presentation]: https://www.youtube.com/watch?v=mHyNmq2-tU4
-[stimulusjs-presentation]: https://www.youtube.com/watch?v=UucTtozapTE
-[vuejs-presentation]: https://speakerdeck.com/pascallaliberte/making-turbolinks-work-with-vue-dot-js-fast-server-generated-pages-with-reactive-front-end-components
-
 ## What I value most
 
 * **I value being <mark>intentional and thorough,</mark> getting to the bottom of things and doing the right thing.** Going deep brings joy.
@@ -143,11 +123,9 @@ Hope they help.
 [youtube]: https://www.youtube.com/channel/UCo2CttXwSgcaEmrTsALqS-A
 [twitch]: https://www.twitch.tv/pascallaliberte
 [lectures]: https://lectures.page
-[change-anything]: /change-anything/
 [sharpen-page]: https://sharpen.page
 [aelf]: https://www.aelf.org
 [readwith]: https://readwith.club/
-[readwith-profile]: https://readwith.club/pascallaliberte/
 [ruby.social]: https://ruby.social/@pascallaliberte
 [twitter]: https://twitter.com/pascallaliberte
 [bluesky]: https://bsky.app/profile/pascallaliberte.me
