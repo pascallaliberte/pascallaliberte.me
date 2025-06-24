@@ -1,7 +1,7 @@
 ---
 layout: archived
 title: "Breather Planner"
-original_url: "https://breatherplanner.com"
+original_url: "breatherplanner.com"
 desktop_screenshot: "/images/archived-sites/breatherplanner-com-desktop-20250623.png"
 mobile_screenshot: "/images/archived-sites/breatherplanner-com-mobile-20250623.png"
 ---
