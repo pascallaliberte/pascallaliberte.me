@@ -9,7 +9,7 @@ baseurl:
 gems:
   - jekyll-sitemap
 destination: public
-exclude: [public, Gemfile, Gemfile.lock, Rakefile, README.md]
+exclude: [public, Gemfile, Gemfile.lock, Rakefile, README.md, lib]
 course:
   starts: "" # has to be a Sunday
   starts_fr: ""
@@ -25,5 +25,22 @@ defaults:
     values:
       lang: en
 include: [".well-known", "_redirects"]
+collections:
+  archived:
+    output: true
+    permalink: /archived/:path/
+    order:
+      - hotwiremigration-pascal-works.md
+      - bullettrain-pascal-works.md
+      - chartdescriptions-com.md
+      - transmissiontheme-com.md
+      - customcharts-dev.md
+      - supercharts-dev.md
+      - stimulus-pascal-works.md
+      - modestjs-works.md
+      - breatherplanner-com.md
+      - wp-developer.md
+      - change-anything.md
+      - language-of-objectives.md
 
 mastodon: https://ruby.social/@pascallaliberte

@@ -1,10 +1,12 @@
 # Redirect with a 301
 /schedule-coaching-call         https://when.works/invitations/5c186b40c75340001448dc66              301
-/bleep-bloop-shop        https://bloopbloop.shop/speed        301
 /reformers-course        /change-anything/        301
 /the-objectives-course  /language-of-objectives/    301
 /uses-taskpaper      http://eepurl.com/bT63YP     301
-/jtbd/at-io/      https://www.investottawa.ca/event/get-traction-product-using-jobs-done/      301
 /jtbd      https://sharpen.page/     301
-/jtbd/purchase-interview/focus-course/     /jtbd/purchase-interview/    301
-/jtbd/purchase-interview/taskmator-taskpaper/     /jtbd/purchase-interview/    301
+
+/language-of-objectives/  /archived/language-of-objectives/  301
+/change-anything/*  /archived/change-anything/  301
+/outils-du-changement/*  /archived/change-anything/  301
+
+/jtbd/* / 301

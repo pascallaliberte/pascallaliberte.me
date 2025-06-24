@@ -1,0 +1,134 @@
+{% include head.html %}
+  <body class="archived-layout">
+    
+    <div class="archived-site">
+      <div class="archived-banner">
+        <a href="/#archived" class="back-link">← Retired Projects</a>
+        <div class="archived-title-container">
+          <h1 class="archived-title">{{ page.title }}</h1>
+          <code class="archived-url">{{ page.original_url }}</code>
+        </div>
+        {{ content }}
+
+        <div class="archived-footnote">
+          This project is now retired. Here's a screenshot of the site as it was when it was active.
+          {% if page.wayback_url %}
+            <a href="{{ page.wayback_url }}" target="_blank">View on Wayback Machine</a>
+          {% endif %}
+        </div>
+      </div>
+    
+      <div class="screenshot-container">
+        <img src="{{ page.desktop_screenshot }}" alt="Desktop view of {{ page.title }}" class="desktop-screenshot">
+        <img src="{{ page.mobile_screenshot }}" alt="Mobile view of {{ page.title }}" class="mobile-screenshot">
+      </div>
+    </div>
+    
+    <style>
+    .archived-site {
+      max-width: 100%;
+      margin: 0 auto;
+    }
+    
+    .archived-banner {
+      padding: 2rem;
+    }
+    
+    .back-link {
+      display: inline-block;
+      margin-top: -0.5rem;
+      font-size: 1.2rem;
+      margin-bottom: 1rem;
+      color: #666;
+      text-decoration: none;
+    }
+    
+    .back-link:hover {
+      text-decoration: underline;
+    }
+    
+    .site-description {
+      color: #666;
+      margin: 1rem 0;
+    }
+    
+    .site-url {
+      color: #0066cc;
+      word-break: break-all;
+    }
+    
+    .screenshot-container {
+    }
+    
+    .desktop-screenshot {
+      width: 100%;
+      height: auto;
+      border-radius: 0 0 1.8rem 1.8rem;
+      border-top: 1px solid #ddd;
+      display: block;
+    }
+    
+    .mobile-screenshot {
+      max-width: 375px;
+      height: auto;
+      margin: 0 auto;
+      display: block;
+      border: 1px solid #ddd;
+    }
+    
+    /* Hide mobile screenshot on desktop */
+    @media (min-width: 768px) {
+      .mobile-screenshot {
+        display: none;
+      }
+    }
+    
+    /* Hide desktop screenshot on mobile */
+    @media (max-width: 767px) {
+      .desktop-screenshot {
+        display: none;
+      }
+    }
+    
+    .archived-content {
+      max-width: 800px;
+      margin: 0 auto;
+      padding: 0 1rem;
+    }
+
+    .archived-title-container {
+      display: flex;
+      flex-wrap: wrap;
+      align-items: baseline;
+      justify-content: flex-start;
+      margin-bottom: 1rem;
+    }
+
+    @media (min-width: 768px) {
+      .archived-title-container {
+        gap: 1rem;
+      }
+    }
+
+    .archived-title {
+      margin: 0;
+      font-size: 1.5rem;
+      font-weight: 600;
+      line-height: 1;
+    }
+
+    .archived-url {
+      font-size: 0.8rem;
+    }
+
+    .archived-footnote {
+      font-size: 0.8rem;
+      color: #666;
+      margin-top: 2rem;
+      line-height: 1.2;
+    }
+    </style> 
+
+  </body>
+  {% include scripts.html %}
+</html>
