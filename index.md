@@ -37,6 +37,7 @@ I've been recording my reading notes in [ReadWith][readwith] for these books.
 * _This is Marketing_ by Seth Godin
 * _The Cold Start Problem_ by Andrew Chen
 * _The Mom Test_ by Rob Fitzpatrick
+* _Deploy Empathy_ by Michele Hansen
 
 What books are you reading? Are you an author? [Give me a shout on Twitter](https://twitter.com/pascallaliberte/).
 
