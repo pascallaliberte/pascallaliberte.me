@@ -4,10 +4,10 @@ class: home
 layout: default
 ---
 
-**Pascal Laliberté**
-[pascal@hey.com](mailto:pascal@hey.com)
+**Pascal Laliberté**, from Ottawa, Canada
   
-Find me on [Bluesky][bluesky], [Twitter][twitter], [ruby.social][ruby.social]{: rel="me" }, [Github][github], and [LinkedIn][linkedin].
+Find me on [Bluesky][bluesky], [LinkedIn][linkedin], [Twitter][twitter], [ruby.social][ruby.social]{: rel="me" }, and [Github][github].  
+Or send me an [email](mailto:pascal@hey.com).
 {: .home-intro }
 
 ## Everyone Wants Progress
@@ -15,10 +15,26 @@ Find me on [Bluesky][bluesky], [Twitter][twitter], [ruby.social][ruby.social]{: 
 A weekly post for software creatives. Every Saturday AM.  
 [everyonewantsprogress.com](https://everyonewantsprogress.com)
 
-## A Page Sharpening Service
+## Rails + Hotwire
 
-Helping software devs like you sharpen your sales pages.  
-[sharpen.page](https://sharpen.page)
+I'm a contributor to [Bullet Train](https://bullettrain.co), the Ruby on Rails starter kit, mostly on theming and UI components.
+
+## Hotwire Week is Sept 20-25
+
+Office hours throughout the week of Sept 20-25, to:
+
+* clean up Stimulus controllers
+* make interactions nicer
+* deal with user-specific turbo streams
+* undo LLM damage
+
+[Reach out](mailto:pascal@hey.com?subject=Hotwire+Week) if you're interested.
+
+## You should consider having service offering pages
+
+Ten articles, one a week, on buyer psychology.  
+To help with your products, help with freelancing, help with sales.  
+[sharpen.page/ten](https://sharpen.page/ten)
 
 ## Building
 
@@ -39,7 +55,7 @@ I've been recording my reading notes in [ReadWith][readwith] for these books.
 * _The Mom Test_ by Rob Fitzpatrick
 * _Deploy Empathy_ by Michele Hansen
 
-What books are you reading? Are you an author? [Give me a shout on Twitter](https://twitter.com/pascallaliberte/).
+**If you could read 3 books**, if only you knew a friend who wanted to read it too, what would you read? [Give me a shout with your answer](mailto:pascal@hey.com).
 
 ## Retired Projects
 {: #archived }
