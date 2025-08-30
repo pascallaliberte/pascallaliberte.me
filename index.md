@@ -114,7 +114,7 @@ Hope they help.
 
 ## Thanks for reading
 
-*What about you? What do you care about? What are you working on? What are your tricks? [Let me know: I'm @pascallaliberte on twitter][twitter].*
+[Subscribe to Everyone Wants Progress](everyonewantsprogress.com), my newsletter for software creatives. Every Saturady AM.
 
 [linkedin]: https://www.linkedin.com/in/pascallaliberte/
 [github]: https://github.com/pascallaliberte/
