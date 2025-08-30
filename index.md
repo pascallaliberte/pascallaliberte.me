@@ -80,16 +80,14 @@ A few specialized service offerings, and a couple products from over the years.
 * Design is best when done in tandem with the implementation. Knowing the limits of the material you work with makes for a better design.
 * There's a particular urgency to [surpass ourselves and to part with our ego][postheroism], so that we know how to construct things rather than just react to things.
 * Most times when we hit an either/or mindset, there's usually a third way.
-* We're complicated people, and we're full of paradoxes. Learning to [bridge those paradoxes helps us be better with others][bridgeparadoxes].
+* We're complicated people, and we're full of paradoxes. Learning to bridge those paradoxes helps us be better with others.
 * There's a way to [achieve multiple things at once][godeepineverything], so long as you ruthlessly put things in the right order. That way, the first thing will feed into the second one and into the third, and all the way down, letting you achieve them all.
-* To-do lists are only a little helpful, because they're usually written as wish-for lists. I found that [writing have-done lists][havedone] to be the most helpful kind of list to write.
+* To-do lists are only a little helpful, because they're usually written as wish-for lists. I found that [writing have-done lists][havedonelists] to be the most helpful kind of list to write.
 * Constraints are something to welcome. Annoyed? That points to something important. Afraid? That's an even better sign you're on the right track.
 {: .home-beliefs }
 
 [postheroism]: https://medium.com/@pascallaliberte/the-urgency-of-post-heroism-11e7d920bf49
-[bridgeparadoxes]: http://by.pascallaliberte.me/2014-04-surviving-a-crisis-of-faith/
-[godeepineverything]: http://by.pascallaliberte.me/2014-12-go-deep-in-everything/
-[havedone]: http://by.pascallaliberte.me/2013-12-writing-objectives-you-will-accomplish/
+[godeepineverything]: https://medium.com/subtlety-in-faith/go-deep-on-everything-3bdf4db97134
 
 ## What I value most
 
@@ -99,34 +97,17 @@ A few specialized service offerings, and a couple products from over the years.
 * **And I value <mark>improving myself</mark> and making a good environment for others to grow in.** Stepping on some toes? Better to step on your own first.
 {: .home-values }
 
-## [A blog on modern Christianity][faithblog]
-
-In this care for growth and relationships and depth, I continue to be drawn to Christianity. Although deeply skeptical, I joyfully believe. Learning to bridge modernity and faith has been good for me, and I wrote a blog on [Leading a modern life while living the Gospel][faithblog], sharing the ways for achieving both, fully. Let's grow towards more maturity, and to a more subtle faith.
-
-Here are a few articles from the blog:
-
-* [Surviving a crisis of faith and living the Gospel fully](http://by.pascallaliberte.me/2014-04-surviving-a-crisis-of-faith/)
-* [God, cocreator](http://by.pascallaliberte.me/2014-06-god-cocreator/)
-* [Away from the family](http://by.pascallaliberte.me/2014-08-away-from-the-family/)
-* [Go deep in everything](http://by.pascallaliberte.me/2014-12-go-deep-in-everything/)
-* [Free your beliefs](http://by.pascallaliberte.me/2015-04-free-your-beliefs/)
-
-[faithblog]: http://by.pascallaliberte.me/
-
-*Lecteurs français: le blogue est également disponible en français. De plus, j'ai créé le site **[lectures.page][lectures]**, offrant les lectures du dimanche qui vient du missel romain (textes de l'[AELF][aelf]), utile pour une lecture personnelle ou pour des partages bibliques de groupe.*
-
 <div class="scroll-reveal" markdown="1" id="questions">
 ## In closing, <span class="sub-title">two questions I think are helpful</span>
 
 These questions help me stay true, and they help me make good choices. I hope they're useful to you too:
 
-1. **What am I so convinced of?** Any time I feel conflicted, agitated, or that my options are limited, I inspect and identify my [mental models, those invisible lenses through which we distort how we see reality][mentalmodels]. I make it a habit to put my finger on my mental models, so I drive them and they don't drive me. Every time I did this, I was able to solve the right problem, build the right thing, and help people in the way they needed the help. And the second question is:
+1. **What am I so convinced of?** Any time I feel conflicted, agitated, or that my options are limited, I inspect and identify my mental models, those invisible lenses through which we distort how we see reality. I make it a habit to put my finger on my mental models, so I drive them and they don't drive me. Every time I did this, I was able to solve the right problem, build the right thing, and help people in the way they needed the help. And the second question is:
 2. **What will I be celebrating?** Instead of writing lists of things to do, or of things I want to achieve, I write lists of things I'll *have achieved* in a future place in time. I call these [have-done lists][havedonelists]. That subtle change of position helps me visualize what's essential, what's central and what to ship first, and also what's a distraction and what to ignore until after that date. To write these lists, I use [Taskpaper for Mac][taskpaper] with a [custom stylesheet][theme-notes-first].
 
 Hope they help.
 
-[mentalmodels]: http://by.pascallaliberte.me/2014-01-intro-to-mental-models/
-[havedonelists]: http://by.pascallaliberte.me/2013-12-writing-objectives-you-will-accomplish/
+[havedonelists]: https://medium.com/@pascallaliberte/but-i-care-about-so-many-things-2a7808981647
 
 [taskpaper]: https://www.taskpaper.com
 [theme-notes-first]: https://github.com/pascallaliberte/theme-notes-first
