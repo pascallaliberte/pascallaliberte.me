@@ -19,16 +19,9 @@ A weekly post for software creatives. Every Saturday AM.
 
 I'm a contributor to [Bullet Train](https://bullettrain.co), the Ruby on Rails starter kit, mostly on theming and UI components.
 
-## Hotwire Week is Sept 20-25
+## Hotwire Office Hours
 
-Office hours throughout the week of Sept 20-25, to:
-
-* clean up Stimulus controllers
-* make interactions nicer
-* deal with user-specific turbo streams
-* undo LLM damage
-
-[Reach out](mailto:pascal@hey.com?subject=Hotwire+Week) if you're interested.
+[Coming soon](https://hotwiresupport.pascal.works), **a week of office hours** to advance a bit further on your Hotwire app, all of us as a group.
 
 ## You should consider having service offering pages
 
