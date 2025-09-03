@@ -4,6 +4,15 @@
 $font-headings-home: "freight-sans-condensed-pro", Helvetica, Arial, sans-serif;
 
 .home {
+
+  img.avatar {
+    width: 100px;
+    height: 100px;
+    display: block;
+    border-radius: 50%;
+    margin-bottom: 1em;
+  }
+
   h2 {
     font-family: $font-headings-home;
     display: inline-block;

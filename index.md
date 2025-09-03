@@ -4,6 +4,8 @@ class: home
 layout: default
 ---
 
+![Photo of Pascal](/images/pascallaliberte-avatar.jpg){: .avatar }
+
 **Pascal Laliberté**, from Ottawa, Canada
   
 Find me on [Bluesky][bluesky], [LinkedIn][linkedin], [Twitter][twitter], [ruby.social][ruby.social]{: rel="me" }, and [Github][github].  
