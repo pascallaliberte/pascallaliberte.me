@@ -23,7 +23,7 @@ I'm a contributor to [Bullet Train](https://bullettrain.co), the Ruby on Rails s
 
 ## Hotwire Office Hours
 
-[Coming soon](https://hotwiresupport.pascal.works), **a week of office hours** to advance a bit further on your Hotwire app, all of us as a group.
+[Oct 6-10](https://hotwiresupport.pascal.works), **a week of office hours** to advance a bit further on your Hotwire app, all of us as a group. Pricing details coming soon.
 
 ## You should consider having service offering pages
 
