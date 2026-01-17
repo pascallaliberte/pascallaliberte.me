@@ -17,20 +17,6 @@ Or send me an [email](mailto:pascal@hey.com).
 A weekly post for software creatives. Every Saturday AM.  
 [everyonewantsprogress.com](https://everyonewantsprogress.com)
 
-## Rails + Hotwire
-
-I'm a contributor to [Bullet Train](https://bullettrain.co), the Ruby on Rails starter kit, mostly on theming and UI components.
-
-## Hotwire Office Hours
-
-[Will repeat soon](https://hotwiresupport.pascal.works), **a week of office hours** to advance a bit further on your Hotwire app, all of us as a group.
-
-## You should consider having service offering pages
-
-Ten articles, one a week, on buyer psychology.  
-To help with your products, help with freelancing, help with sales.  
-[sharpen.page/ten](https://sharpen.page/ten)
-
 ## Building
 
 [ReadWith (readwith.club)][readwith] &mdash; A novel way to lead reading groups.
