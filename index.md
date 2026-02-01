@@ -17,9 +17,15 @@ Or send me an [email](mailto:pascal@hey.com).
 A weekly post for software creatives. Every Saturday AM.  
 [everyonewantsprogress.com](https://everyonewantsprogress.com)
 
+## Minimum Viable Meetup Ottawa
+
+I run a [local meetup in Ottawa][mvm], and our main event is called "Projects Night: Bring Your Laptop, Work on Your Idea", inviting creatives of all types. Every other week, on Tuesday nights, at MBO CoWorking.
+
+It usually attracts between 12 to 24 participants, varying from software developers, freelancers working on their website, designers, sometimes an industrial designer, a physical project creator, coaches. It's diverse, and it's great to see people working on their thing. [Come hang out if you're in Ottawa][mvm].
+
 ## Building
 
-[ReadWith (readwith.club)][readwith] &mdash; A novel way to lead reading groups.
+[ReadWith (readwith.club)][readwith] &mdash; A novel way to capture reading note, lead reading groups.
 
 ## Books I've been reading
 
@@ -108,3 +114,4 @@ Hope they help.
 [ruby.social]: https://ruby.social/@pascallaliberte
 [twitter]: https://twitter.com/pascallaliberte
 [bluesky]: https://bsky.app/profile/pascallaliberte.me
+[mvm]: https://www.meetup.com/minimum-viable-meetup-ottawa/
