@@ -35,16 +35,15 @@ I'm running cohorot #5 of [rails.builders][railsbuilders], an accountability gro
 
 I've been recording my reading notes in [ReadWith][readwith] for these books.
 
-* _The Practice_ by Seth Godin.
+* _The Practice_ by Seth Godin
+* _140 SaaS Marketing Ideas_ by Corey Haines
+* _Mental Models for Marketing_ by Corey Haines
+* _Deploy Empathy_ by Michele Hansen
+* _The Mom Test_ by Rob Fitzpatrick
 * _Thinking in Systems_ by Donella H. Meadows
 * _New Rules for the New Economy_ by Kevin Kelly
-* _Million Dollar Consulting_ by Alan Weiss
 * _Thinking Fast and Slow_ by Daniel Kahneman
-* _140 SaaS Marketing Ideas_ by Corey Haines
-* _This is Marketing_ by Seth Godin
 * _The Cold Start Problem_ by Andrew Chen
-* _The Mom Test_ by Rob Fitzpatrick
-* _Deploy Empathy_ by Michele Hansen
 
 **If you could read 3 books**, if only you knew a friend who wanted to read it too, what would you read? [Give me a shout with your answer](mailto:pascal@hey.com).
 
