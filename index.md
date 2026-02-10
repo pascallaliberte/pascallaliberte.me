@@ -23,6 +23,10 @@ I run a [local meetup in Ottawa][mvm], and our main event is called "Projects Ni
 
 It usually attracts between 12 to 24 participants, varying from software developers, freelancers working on their website, designers, sometimes an industrial designer, a physical project creator, coaches. It's diverse, and it's great to see people working on their thing. [Come hang out if you're in Ottawa][mvm].
 
+## Rails Builders AG
+
+I'm running cohorot #5 of [rails.builders][railsbuilders], an accountability group call I took over from my friend Rich Steinmetz, every second Thursday until May 7.
+
 ## Building
 
 [ReadWith (readwith.club)][readwith] &mdash; A novel way to capture reading note, lead reading groups.
@@ -115,3 +119,4 @@ Hope they help.
 [twitter]: https://twitter.com/pascallaliberte
 [bluesky]: https://bsky.app/profile/pascallaliberte.me
 [mvm]: https://www.meetup.com/minimum-viable-meetup-ottawa/
+[railsbuilders]: https://rails.builders
