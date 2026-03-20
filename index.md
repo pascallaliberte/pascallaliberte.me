@@ -25,7 +25,7 @@ It usually attracts between 12 to 24 participants, varying from software develop
 
 ## Rails Builders AG
 
-I'm running cohorot #5 of [rails.builders][railsbuilders], an accountability group call I took over from my friend Rich Steinmetz, every second Thursday until May 7.
+I'm running cohort #5 of [rails.builders][railsbuilders], an accountability group call I took over from my friend Rich Steinmetz, every second Thursday until May 7.
 
 ## Building
 
