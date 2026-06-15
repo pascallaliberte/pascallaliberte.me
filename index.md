@@ -10,7 +10,7 @@ layout: default
 Product Designer and Builder, Ruby on Rails Stack  
 Ottawa, Canada
   
-Find me on [Bluesky][bluesky], [LinkedIn][linkedin], [Twitter][twitter], [ruby.social][ruby.social]{: rel="me" }, and [Github][github].  
+Find me on [Bluesky][bluesky], [LinkedIn][linkedin], [Twitter][twitter], [Mastodon][ruby.social]{: rel="me" }, and [GitHub][github].  
 Or send me an [email](mailto:pascal@hey.com).
 {: .home-intro }
 
