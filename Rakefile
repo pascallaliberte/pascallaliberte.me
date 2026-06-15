@@ -5,6 +5,7 @@ require "json"
 # Import all rake tasks from lib/tasks
 Dir.glob('lib/tasks/*.rake').each { |r| import r }
 
+PORT = 4001
 url_pow     = "pascallaliberte"
 url_live    = "pascallaliberte.me"
 
@@ -22,7 +23,7 @@ end
 desc "Design, write, and edit live."
 task :default => [:clean] do
   pids = [
-    spawn("bundle exec jekyll serve"),
+    spawn("bundle exec jekyll serve --port #{PORT}"),
     spawn("sass --watch _assets/sass:assets/stylesheets"),
     #spawn("coffee --bare --watch --join assets/javascript/scripts.js --compile _assets/coffeescript/*.coffee")
   ]
