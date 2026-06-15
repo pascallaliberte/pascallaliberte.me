@@ -6,7 +6,9 @@ layout: default
 
 ![Photo of Pascal](/images/pascallaliberte-avatar.jpg){: .avatar }
 
-**Pascal Laliberté**, from Ottawa, Canada
+**Pascal Laliberté**  
+Product Designer and Builder, Ruby on Rails Stack  
+Ottawa, Canada
   
 Find me on [Bluesky][bluesky], [LinkedIn][linkedin], [Twitter][twitter], [ruby.social][ruby.social]{: rel="me" }, and [Github][github].  
 Or send me an [email](mailto:pascal@hey.com).
@@ -14,38 +16,18 @@ Or send me an [email](mailto:pascal@hey.com).
 
 ## Everyone Wants Progress
 
-A weekly post for software creatives. Every Saturday AM.  
+A weekly post for digital creatives. Every Saturday AM.  
 [everyonewantsprogress.com](https://everyonewantsprogress.com)
+
+## Products
+
+[ReadWith (readwith.app)][readwith] &mdash; A novel way to lead reading groups.
 
 ## Minimum Viable Meetup Ottawa
 
 I run a [local meetup in Ottawa][mvm], and our main event is called "Projects Night: Bring Your Laptop, Work on Your Idea", inviting creatives of all types. Every other week, on Tuesday nights, at MBO CoWorking.
 
 It usually attracts between 12 to 24 participants, varying from software developers, freelancers working on their website, designers, sometimes an industrial designer, a physical project creator, coaches. It's diverse, and it's great to see people working on their thing. [Come hang out if you're in Ottawa][mvm].
-
-## Rails Builders AG
-
-I'm running cohort #5 of [rails.builders][railsbuilders], an accountability group call I took over from my friend Rich Steinmetz, every second Thursday until May 7.
-
-## Building
-
-[ReadWith (readwith.club)][readwith] &mdash; A novel way to capture reading note, lead reading groups.
-
-## Books I've been reading
-
-I've been recording my reading notes in [ReadWith][readwith] for these books.
-
-* _The Practice_ by Seth Godin
-* _140 SaaS Marketing Ideas_ by Corey Haines
-* _Mental Models for Marketing_ by Corey Haines
-* _Deploy Empathy_ by Michele Hansen
-* _The Mom Test_ by Rob Fitzpatrick
-* _Thinking in Systems_ by Donella H. Meadows
-* _New Rules for the New Economy_ by Kevin Kelly
-* _Thinking Fast and Slow_ by Daniel Kahneman
-* _The Cold Start Problem_ by Andrew Chen
-
-**If you could read 3 books**, if only you knew a friend who wanted to read it too, what would you read? [Give me a shout with your answer](mailto:pascal@hey.com).
 
 ## Retired Projects
 {: #archived }
@@ -104,7 +86,7 @@ Hope they help.
 
 ## Thanks for reading
 
-[Subscribe to Everyone Wants Progress](everyonewantsprogress.com), my newsletter for software creatives. Every Saturady AM.
+[Subscribe to Everyone Wants Progress](everyonewantsprogress.com), my newsletter for digital creatives. Every Saturady AM.
 
 [linkedin]: https://www.linkedin.com/in/pascallaliberte/
 [github]: https://github.com/pascallaliberte/
@@ -113,7 +95,7 @@ Hope they help.
 [lectures]: https://lectures.page
 [sharpen-page]: https://sharpen.page
 [aelf]: https://www.aelf.org
-[readwith]: https://readwith.club/
+[readwith]: https://readwith.app/
 [ruby.social]: https://ruby.social/@pascallaliberte
 [twitter]: https://twitter.com/pascallaliberte
 [bluesky]: https://bsky.app/profile/pascallaliberte.me
