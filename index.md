@@ -7,12 +7,18 @@ layout: default
 ![Photo of Pascal](/images/pascallaliberte-avatar.jpg){: .avatar }
 
 **Pascal Laliberté**  
-Product Designer and Builder, Ruby on Rails Stack  
+Product designer and builder · Customer research for founders & PMs  
 Ottawa, Canada
   
 Find me on [Bluesky][bluesky], [LinkedIn][linkedin], [Twitter][twitter], [Mastodon][ruby.social]{: rel="me" }, and [GitHub][github].  
 Or send me an [email](mailto:pascal@hey.com).
 {: .home-intro }
+
+## sharpen.page
+
+A product sharpening service. I help founders and product managers get into the minds of their buyers — through customer research, and through 100+ articles on buyer psychology.
+
+[Work with me](https://sharpen.page/customer-research/) · [Free: ten articles over ten weeks](https://sharpen.page/ten/) · [sharpen.page][sharpen-page]
 
 ## Everyone Wants Progress
 
